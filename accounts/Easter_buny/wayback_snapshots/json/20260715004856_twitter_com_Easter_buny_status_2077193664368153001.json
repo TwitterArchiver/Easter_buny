@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2077077160477814813",
+    "created_at": "2026-07-15T00:48:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T01:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077193664368153001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1971786415420985350",
+          "start": 0,
+          "username": "mob_luu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077193664368153001",
+    "in_reply_to_user_id": "1971786415420985350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077077160477814813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mob_luu 哈哈哈，我也是，吓晕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2077077160477814813",
+        "created_at": "2026-07-15T00:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T01:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077193664368153001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1971786415420985350",
+              "start": 0,
+              "username": "mob_luu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077193664368153001",
+        "in_reply_to_user_id": "1971786415420985350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077077160477814813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mob_luu 哈哈哈，我也是，吓晕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971786415420985350",
+        "conversation_id": "2077077160477814813",
+        "created_at": "2026-07-14T17:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077077160477814813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mob_luu/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/mob_luu/status/2077008223698366968",
+              "start": 24,
+              "url": "https://t.co/vjwMRLlAkO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077077160477814813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 296,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077008223698366968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要报复所有人 ，都去给我看suzu姐的主页！ https://t.co/vjwMRLlAkO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8404,
+          "following_count": 1257,
+          "like_count": 66964,
+          "listed_count": 8,
+          "media_count": 3093,
+          "tweet_count": 19099
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T03:58:35.000Z",
+        "description": "一朵阴暗角落里无人在意的菌",
+        "id": "1971786415420985350",
+        "name": "🍄",
+        "pinned_tweet_id": "2075340514547929134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020738183626158080/_409gA5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 108,
+          "like_count": 8231,
+          "listed_count": 3,
+          "media_count": 3,
+          "tweet_count": 570
+        },
+        "url": "",
+        "username": "mob_luu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2081184359466541289",
+    "created_at": "2026-07-26T03:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T04:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081213576120021194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2079926361557524480",
+          "start": 0,
+          "username": "iwantredeyes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081213576120021194",
+    "in_reply_to_user_id": "2079926361557524480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081184359466541289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iwantredeyes 好好笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2081184359466541289",
+        "created_at": "2026-07-26T03:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081213576120021194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2079926361557524480",
+              "start": 0,
+              "username": "iwantredeyes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081213576120021194",
+        "in_reply_to_user_id": "2079926361557524480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081184359466541289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iwantredeyes 好好笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079926361557524480",
+        "conversation_id": "2081184359466541289",
+        "created_at": "2026-07-26T01:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T02:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081184359466541289"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081184359466541289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚看见我爸偷偷拿我桌子上的电子烟抽了一口。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8428,
+          "following_count": 1270,
+          "like_count": 67532,
+          "listed_count": 8,
+          "media_count": 3118,
+          "tweet_count": 19281
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-22T13:50:54.000Z",
+        "description": "这里还有人吗？？？？？？？？？",
+        "id": "2079926361557524480",
+        "name": "红眼病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080678026866810880/Tm-U-TII_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 40,
+          "like_count": 910,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 161
+        },
+        "url": "",
+        "username": "iwantredeyes",
+        "verified": false
+      }
+    ]
+  }
+}

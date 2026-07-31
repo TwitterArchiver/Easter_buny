@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2071135362945356260",
+    "created_at": "2026-06-29T00:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T01:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071386572659012011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938335923587973120",
+          "start": 0,
+          "username": "inKhJ5dke532638"
+        },
+        {
+          "end": 32,
+          "id": "1750040441880498176",
+          "start": 17,
+          "username": "kill_this_hate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071386572659012011",
+    "in_reply_to_user_id": "1938335923587973120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071135362945356260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inKhJ5dke532638 @kill_this_hate 哈哈哈哈这个你接不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2071135362945356260",
+        "created_at": "2026-06-29T00:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T01:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071386572659012011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938335923587973120",
+              "start": 0,
+              "username": "inKhJ5dke532638"
+            },
+            {
+              "end": 32,
+              "id": "1750040441880498176",
+              "start": 17,
+              "username": "kill_this_hate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071386572659012011",
+        "in_reply_to_user_id": "1938335923587973120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071135362945356260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inKhJ5dke532638 @kill_this_hate 哈哈哈哈这个你接不"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938335923587973120",
+        "conversation_id": "2071135362945356260",
+        "created_at": "2026-06-28T07:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071135362945356260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071135362945356260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 455,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在想做法害人有没有大师推荐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8401,
+          "following_count": 1242,
+          "like_count": 66477,
+          "listed_count": 8,
+          "media_count": 3064,
+          "tweet_count": 18904
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T20:38:05.000Z",
+        "description": "インターネットや・め・ろ～！！！ 這只是一個小女孩的紀錄生活碎碎念什麼都沒有。永远14岁。日留预备中  neko第六世",
+        "id": "1938335923587973120",
+        "location": "地獄",
+        "name": "ネコ王様👑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031449288174399488/yBPCMHkk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 263,
+          "like_count": 3458,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 2810
+        },
+        "url": "",
+        "username": "inKhJ5dke532638",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T06:19:04.000Z",
+        "description": "万剑如风，血流如沐。  @lark2206",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "lark2206"
+              }
+            ]
+          }
+        },
+        "id": "1750040441880498176",
+        "name": "雀 （接占卜命理",
+        "pinned_tweet_id": "2056543573777232325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058873451960848384/4vaGtDZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 124,
+          "like_count": 25071,
+          "listed_count": 2,
+          "media_count": 1017,
+          "tweet_count": 10723
+        },
+        "url": "",
+        "username": "kill_this_hate",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2076038916600451562",
+    "created_at": "2026-07-12T06:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076189280356188232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1994853283907997698",
+          "start": 0,
+          "username": "kateamine66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076189280356188232",
+    "in_reply_to_user_id": "1994853283907997698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076038916600451562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kateamine66 我每次打完连按注射位置的力气都没有了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7616,
+        "height": 354,
+        "media_key": "13_2076036980333551616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076036980333551616/img/zjSP--U3VVA1jOT2.jpg",
+        "public_metrics": {
+          "view_count": 2057
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076036980333551616/vid/avc1/484x270/I2cEdtgOfnpynQmU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076036980333551616/vid/avc1/636x354/sapkc13GGqU2F-Lb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076036980333551616/pl/tDZJxZAa3c5QC84H.m3u8"
+          }
+        ],
+        "width": 636
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2076038916600451562",
+        "created_at": "2026-07-12T06:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076189280356188232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1994853283907997698",
+              "start": 0,
+              "username": "kateamine66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076189280356188232",
+        "in_reply_to_user_id": "1994853283907997698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076038916600451562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kateamine66 我每次打完连按注射位置的力气都没有了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076036980333551616"
+          ]
+        },
+        "author_id": "1994853283907997698",
+        "conversation_id": "2076038916600451562",
+        "created_at": "2026-07-11T20:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T21:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076038916600451562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eoFnPEii4v",
+              "end": 106,
+              "expanded_url": "https://x.com/kateamine66/status/2076038916600451562/video/1",
+              "media_key": "13_2076036980333551616",
+              "start": 83,
+              "url": "https://t.co/eoFnPEii4v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076038916600451562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5551,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欸，製片人應該是沒見過真的😆。剛打完被人發現才不會是這個狀態。那個時候根本顧不過來這麽多，至少也要先顧著把腦袋裏的幾波高潮享受完再説，而且即使強辯也不是這個語氣啦。 https://t.co/eoFnPEii4v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8401,
+          "following_count": 1255,
+          "like_count": 66814,
+          "listed_count": 8,
+          "media_count": 3088,
+          "tweet_count": 19059
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T19:37:51.000Z",
+        "description": "曾經擁有4萬粉絲的小網紅努力戒毒中，勵志成爲擁有好多好多粉絲的網紅或者地偶！小號@kateamine149062，奇怪的内容放在小號",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "kateamine149062"
+              }
+            ]
+          }
+        },
+        "id": "1994853283907997698",
+        "location": "臺中",
+        "name": "Kateamine66",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000614275040317440/sQCImXwY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7618,
+          "following_count": 23,
+          "like_count": 21,
+          "listed_count": 14,
+          "media_count": 88,
+          "tweet_count": 694
+        },
+        "url": "",
+        "username": "kateamine66",
+        "verified": true
+      }
+    ]
+  }
+}

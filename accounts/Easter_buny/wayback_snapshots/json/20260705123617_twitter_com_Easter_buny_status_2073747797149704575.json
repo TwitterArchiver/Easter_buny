@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2073685969337983109",
+    "created_at": "2026-07-05T12:36:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T13:36:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073747797149704575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1708457167072985091",
+          "start": 0,
+          "username": "askeunchi_7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073747797149704575",
+    "in_reply_to_user_id": "1708457167072985091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073685969337983109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@askeunchi_7777 我在家就这样穿搭（"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2266,
+        "height": 1280,
+        "media_key": "13_2073685950635655168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073685950635655168/img/zpBNUIFG1Q1yaXE2.jpg",
+        "public_metrics": {
+          "view_count": 42
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073685950635655168/vid/avc1/320x568/e12RazxgDx28rzWX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073685950635655168/vid/avc1/480x852/yU5vMAQmMPEJGJDH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073685950635655168/vid/avc1/720x1280/IdLJlLIwoBPwaY4j.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073685950635655168/pl/0iYT00KzublkDhGE.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2073685969337983109",
+        "created_at": "2026-07-05T12:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073747797149704575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1708457167072985091",
+              "start": 0,
+              "username": "askeunchi_7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073747797149704575",
+        "in_reply_to_user_id": "1708457167072985091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073685969337983109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@askeunchi_7777 我在家就这样穿搭（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073685950635655168"
+          ]
+        },
+        "author_id": "1708457167072985091",
+        "conversation_id": "2073685969337983109",
+        "created_at": "2026-07-05T08:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073685969337983109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jkFIN7mR4M",
+              "end": 69,
+              "expanded_url": "https://x.com/askeunchi_7777/status/2073685969337983109/video/1",
+              "media_key": "13_2073685950635655168",
+              "start": 46,
+              "url": "https://t.co/jkFIN7mR4M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073685969337983109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🌚🌚🌚这衣服好长啊 我穿那种很长能盖住大腿的短裤也是只露出来一点点 穿普通短裤直接隐身了🌚 https://t.co/jkFIN7mR4M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8403,
+          "following_count": 1243,
+          "like_count": 66674,
+          "listed_count": 8,
+          "media_count": 3074,
+          "tweet_count": 18968
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T12:22:06.000Z",
+        "description": "INFP 天蝎 ｜过门只能加微信聊天没有任何福利｜🚪188/288/520",
+        "id": "1708457167072985091",
+        "name": "池大王",
+        "pinned_tweet_id": "2002636304144871512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015300725618724864/OC1YoRrv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3637,
+          "following_count": 361,
+          "like_count": 19114,
+          "listed_count": 8,
+          "media_count": 1254,
+          "tweet_count": 10152
+        },
+        "url": "",
+        "username": "askeunchi_7777",
+        "verified": false
+      }
+    ]
+  }
+}

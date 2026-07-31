@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2074400869425320049",
+    "created_at": "2026-07-07T07:51:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:51:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074400869425320049"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/easter_buny/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/easter_buny/status/2072854457277391085",
+          "start": 18,
+          "url": "https://t.co/If9HyaensK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074400869425320049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072854457277391085",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在加把劲，我一天工资能买1g黄金了 https://t.co/If9HyaensK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2074400869425320049",
+        "created_at": "2026-07-07T07:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074400869425320049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/easter_buny/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/easter_buny/status/2072854457277391085",
+              "start": 18,
+              "url": "https://t.co/If9HyaensK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074400869425320049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072854457277391085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在加把劲，我一天工资能买1g黄金了 https://t.co/If9HyaensK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2072854457277391085",
+        "created_at": "2026-07-03T01:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T02:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072854457277391085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072854457277391085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 655,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一寸光阴一寸金，可我的一寸光阴难买一克金🙀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8412,
+          "following_count": 1247,
+          "like_count": 66613,
+          "listed_count": 8,
+          "media_count": 3076,
+          "tweet_count": 18987
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      }
+    ]
+  }
+}

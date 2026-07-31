@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2079218761643749710",
+    "created_at": "2026-07-21T03:27:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T04:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079407789907325282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1743584609965940736",
+          "start": 0,
+          "username": "nugget_pixel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079407789907325282",
+    "in_reply_to_user_id": "1743584609965940736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079218761643749710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nugget_pixel 摸摸鸡块（啃）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2079218761643749710",
+        "created_at": "2026-07-21T03:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079407789907325282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1743584609965940736",
+              "start": 0,
+              "username": "nugget_pixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079407789907325282",
+        "in_reply_to_user_id": "1743584609965940736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079218761643749710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nugget_pixel 摸摸鸡块（啃）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743584609965940736",
+        "conversation_id": "2079218761643749710",
+        "created_at": "2026-07-20T14:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079218761643749710"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079218761643749710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 556,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又难过了\n我一直在哭。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8413,
+          "following_count": 1264,
+          "like_count": 67213,
+          "listed_count": 8,
+          "media_count": 3111,
+          "tweet_count": 19208
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T10:45:49.000Z",
+        "description": "🌈bi🌈 infp/isfp love is love 女巫的碎碎念记录 小女孩請和我互fo 希望大家都能和我玩的開心 不參與任何政治相關",
+        "id": "1743584609965940736",
+        "location": "🚪52純绿聊天0意義但是能让我开心一下( ᐛ ) ",
+        "name": "像素雞塊",
+        "pinned_tweet_id": "1754148359626215693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016002223227150336/KUB71Qr4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 258,
+          "like_count": 27673,
+          "listed_count": 3,
+          "media_count": 1060,
+          "tweet_count": 10179
+        },
+        "url": "",
+        "username": "nugget_pixel",
+        "verified": false
+      }
+    ]
+  }
+}

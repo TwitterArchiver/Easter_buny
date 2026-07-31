@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079346171999580160"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2079346181285843281",
+    "created_at": "2026-07-20T23:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T00:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079346181285843281"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EqZaF1ls9Y",
+          "end": 37,
+          "expanded_url": "https://x.com/Easter_buny/status/2079346181285843281/photo/1",
+          "media_key": "3_2079346171999580160",
+          "start": 14,
+          "url": "https://t.co/EqZaF1ls9Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079346181285843281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还挺好看的，我的伤口渗血… https://t.co/EqZaF1ls9Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2079346171999580160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNtSU5sacAAdZwJ.jpg",
+        "width": 595
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079346171999580160"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079346181285843281",
+        "created_at": "2026-07-20T23:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T00:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079346181285843281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EqZaF1ls9Y",
+              "end": 37,
+              "expanded_url": "https://x.com/Easter_buny/status/2079346181285843281/photo/1",
+              "media_key": "3_2079346171999580160",
+              "start": 14,
+              "url": "https://t.co/EqZaF1ls9Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079346181285843281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还挺好看的，我的伤口渗血… https://t.co/EqZaF1ls9Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8411,
+          "following_count": 1263,
+          "like_count": 67199,
+          "listed_count": 8,
+          "media_count": 3109,
+          "tweet_count": 19200
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      }
+    ]
+  }
+}

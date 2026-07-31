@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080946770885152768"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "conversation_id": "2080946884454363431",
+    "created_at": "2026-07-25T09:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T10:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080946884454363431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p5ApkukP7L",
+          "end": 74,
+          "expanded_url": "https://x.com/Easter_buny/status/2080946884454363431/video/1",
+          "media_key": "13_2080946770885152768",
+          "start": 51,
+          "url": "https://t.co/p5ApkukP7L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080946884454363431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "背景音有点吵，实际上我听不到，是鼠鼠的电风扇吹的声音！akai真的好乖，可以给我这样摸摸摸一点没脾气 https://t.co/p5ApkukP7L"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42196,
+        "height": 720,
+        "media_key": "13_2080946770885152768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080946770885152768/img/jdWVH94310UnWBlm.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080946770885152768/vid/avc1/480x270/OkSwuaoRhQCaYikU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080946770885152768/vid/avc1/640x360/ottw3NVAr5VnPEsj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080946770885152768/vid/avc1/1280x720/Ob_evAXePFi8V-3N.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080946770885152768/pl/XJkwuTXJMt4ArEX-.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080946770885152768"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2080946884454363431",
+        "created_at": "2026-07-25T09:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080946884454363431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p5ApkukP7L",
+              "end": 74,
+              "expanded_url": "https://x.com/Easter_buny/status/2080946884454363431/video/1",
+              "media_key": "13_2080946770885152768",
+              "start": 51,
+              "url": "https://t.co/p5ApkukP7L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080946884454363431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "背景音有点吵，实际上我听不到，是鼠鼠的电风扇吹的声音！akai真的好乖，可以给我这样摸摸摸一点没脾气 https://t.co/p5ApkukP7L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8423,
+          "following_count": 1267,
+          "like_count": 67423,
+          "listed_count": 8,
+          "media_count": 3117,
+          "tweet_count": 19261
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      }
+    ]
+  }
+}

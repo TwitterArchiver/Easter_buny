@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2075956103385612776",
+    "created_at": "2026-07-12T10:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T11:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076250616998060404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "819441077140615168",
+          "start": 0,
+          "username": "Anita_w1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076250616998060404",
+    "in_reply_to_user_id": "819441077140615168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076248391848427780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anita_w1 我擦完碘伏就直接啃尾巴…昨天当着我面啃出伤口的🙀，不过确实有过度理毛的状态"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2075956103385612776",
+        "created_at": "2026-07-12T10:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076250616998060404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "819441077140615168",
+              "start": 0,
+              "username": "Anita_w1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076250616998060404",
+        "in_reply_to_user_id": "819441077140615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076248391848427780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anita_w1 我擦完碘伏就直接啃尾巴…昨天当着我面啃出伤口的🙀，不过确实有过度理毛的状态"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "819441077140615168",
+        "conversation_id": "2075956103385612776",
+        "created_at": "2026-07-12T10:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076248391848427780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076248391848427780",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076244972442095937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 👌🏻更倾向于是皮肤感染导致的，因为这些位置对老鼠来说都不如尾巴尖啃咬起来方便，如果心理压力过大还会有过度理毛和脱毛症状，社交压力或者幼年拒绝被抚育还会导致体重过轻，这些都没有，去医院做个皮肤涂片即可"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8401,
+          "following_count": 1258,
+          "like_count": 66877,
+          "listed_count": 8,
+          "media_count": 3090,
+          "tweet_count": 19073
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-12T07:09:12.000Z",
+        "description": "_(´ཀ`」 ∠)_",
+        "id": "819441077140615168",
+        "name": "7号手套",
+        "pinned_tweet_id": "2065044057840328933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067298751589515264/2uXJnfpL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 90,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 373
+        },
+        "url": "",
+        "username": "Anita_w1",
+        "verified": false
+      }
+    ]
+  }
+}

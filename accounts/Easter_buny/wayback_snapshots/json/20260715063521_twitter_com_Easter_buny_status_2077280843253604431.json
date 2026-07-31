@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2077270224487989542",
+    "created_at": "2026-07-15T06:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T07:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077280843253604431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1794955410358804480",
+          "start": 0,
+          "username": "xinn455163"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077280843253604431",
+    "in_reply_to_user_id": "1794955410358804480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077270224487989542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinn455163 笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3833,
+        "height": 1280,
+        "media_key": "13_2077270165411282944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077270165411282944/img/p4Pf30TH58PNIKms.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077270165411282944/vid/avc1/320x568/p5vk-xMNGcK7AwOJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077270165411282944/vid/avc1/480x852/mR_Op1rSLbrVNtJS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077270165411282944/vid/avc1/720x1280/ny18LjDKXmzgbOpV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077270165411282944/pl/YL7tZ-i4V7ffajxB.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2077270224487989542",
+        "created_at": "2026-07-15T06:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077280843253604431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1794955410358804480",
+              "start": 0,
+              "username": "xinn455163"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077280843253604431",
+        "in_reply_to_user_id": "1794955410358804480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077270224487989542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinn455163 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077270165411282944"
+          ]
+        },
+        "author_id": "1794955410358804480",
+        "conversation_id": "2077270224487989542",
+        "created_at": "2026-07-15T05:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077270224487989542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aw43ZU8Blf",
+              "end": 32,
+              "expanded_url": "https://x.com/xinn455163/status/2077270224487989542/video/1",
+              "media_key": "13_2077270165411282944",
+              "start": 9,
+              "url": "https://t.co/aw43ZU8Blf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077270224487989542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈迷惑行为 https://t.co/aw43ZU8Blf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8403,
+          "following_count": 1257,
+          "like_count": 66983,
+          "listed_count": 8,
+          "media_count": 3093,
+          "tweet_count": 19104
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T04:55:06.000Z",
+        "description": "我想也许我不需要自我介绍",
+        "id": "1794955410358804480",
+        "location": "Paris, France",
+        "name": "重生之我在推特当网黄（戒色版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794959242274979840/wElBLawM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 371,
+          "like_count": 2187,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 1249
+        },
+        "url": "",
+        "username": "xinn455163",
+        "verified": false
+      }
+    ]
+  }
+}

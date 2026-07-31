@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2075956103385612776",
+    "created_at": "2026-07-12T12:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076278837319807394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "819441077140615168",
+          "start": 0,
+          "username": "Anita_w1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076278837319807394",
+    "in_reply_to_user_id": "819441077140615168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076278514928730496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anita_w1 我家只有左氧氟沙星滴眼液🥺，地塞米松只有软膏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2075956103385612776",
+        "created_at": "2026-07-12T12:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076278837319807394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "819441077140615168",
+              "start": 0,
+              "username": "Anita_w1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076278837319807394",
+        "in_reply_to_user_id": "819441077140615168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076278514928730496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anita_w1 我家只有左氧氟沙星滴眼液🥺，地塞米松只有软膏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "819441077140615168",
+        "conversation_id": "2075956103385612776",
+        "created_at": "2026-07-12T12:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076278514928730496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076278514928730496",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076272289537282521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 是感染，焦虑只是影响因素，用地塞米松滴眼液滴皮损部位，一天2-3次控制在2-3天内，后面还抓挠也不要用了，和碘伏错开因为会稀释药液，尽快去医院做皮肤涂片确定是真菌还是细菌感染让医生指导用药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8401,
+          "following_count": 1258,
+          "like_count": 66905,
+          "listed_count": 8,
+          "media_count": 3091,
+          "tweet_count": 19077
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-12T07:09:12.000Z",
+        "description": "_(´ཀ`」 ∠)_",
+        "id": "819441077140615168",
+        "name": "7号手套",
+        "pinned_tweet_id": "2065044057840328933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067298751589515264/2uXJnfpL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 90,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 376
+        },
+        "url": "",
+        "username": "Anita_w1",
+        "verified": false
+      }
+    ]
+  }
+}

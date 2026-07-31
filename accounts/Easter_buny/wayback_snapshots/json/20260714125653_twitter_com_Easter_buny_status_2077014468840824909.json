@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2076993763638161597",
+    "created_at": "2026-07-14T12:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077014468840824909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1843735518401703937",
+          "start": 0,
+          "username": "momokoo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077014468840824909",
+    "in_reply_to_user_id": "1843735518401703937",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076993763638161597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momokoo8964 会苦死…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2076993763638161597",
+        "created_at": "2026-07-14T12:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077014468840824909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1843735518401703937",
+              "start": 0,
+              "username": "momokoo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077014468840824909",
+        "in_reply_to_user_id": "1843735518401703937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076993763638161597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momokoo8964 会苦死…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843735518401703937",
+        "conversation_id": "2076993763638161597",
+        "created_at": "2026-07-14T11:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076993763638161597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076993763638161597",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃10片氯硝和10片左匹克隆可以睡多久"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8402,
+          "following_count": 1257,
+          "like_count": 66943,
+          "listed_count": 8,
+          "media_count": 3092,
+          "tweet_count": 19092
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T19:29:47.000Z",
+        "description": "只是一个普通人类女孩",
+        "id": "1843735518401703937",
+        "location": "🚪88 288",
+        "name": "苦桃",
+        "pinned_tweet_id": "2076652431518367938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064266532193230848/e8DPZFGu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 132,
+          "like_count": 3939,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 1499
+        },
+        "url": "",
+        "username": "momokoo8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2081312312334643542",
+    "created_at": "2026-07-26T09:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T10:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081314463882543555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915712882224095235",
+          "start": 0,
+          "username": "jumaomao123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081314463882543555",
+    "in_reply_to_user_id": "1915712882224095235",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081313596332736799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jumaomao123 💢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2081312312334643542",
+        "created_at": "2026-07-26T09:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081314463882543555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915712882224095235",
+              "start": 0,
+              "username": "jumaomao123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081314463882543555",
+        "in_reply_to_user_id": "1915712882224095235",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081313596332736799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jumaomao123 💢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915712882224095235",
+        "conversation_id": "2081312312334643542",
+        "created_at": "2026-07-26T09:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081313596332736799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081313596332736799",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081312312334643542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 路过踢一脚（无善意）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8427,
+          "following_count": 1269,
+          "like_count": 67544,
+          "listed_count": 8,
+          "media_count": 3119,
+          "tweet_count": 19283
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T10:22:13.000Z",
+        "description": "我也只是想要一颗会偏向我的心/爱好是黏人撒娇玩游戏 /zfb发口令红包就好看到会回跟门不相关问题拉黑不闲聊⌯⦁⩊⦁⌯ಣ小号发碎碎念@xyu123132",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "xyu123132"
+              }
+            ]
+          }
+        },
+        "id": "1915712882224095235",
+        "location": "🫧520/1333/5200",
+        "name": "兔兔o",
+        "pinned_tweet_id": "2081290570732093443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079848280834658304/SWa2enqx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11399,
+          "following_count": 20,
+          "like_count": 1849,
+          "listed_count": 40,
+          "media_count": 109,
+          "tweet_count": 475
+        },
+        "url": "",
+        "username": "jumaomao123",
+        "verified": true
+      }
+    ]
+  }
+}

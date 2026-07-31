@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2077721494738915632",
+    "created_at": "2026-07-17T05:48:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T06:48:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077993864842158172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1673394046503616512",
+          "start": 0,
+          "username": "brohungryasfuck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077993864842158172",
+    "in_reply_to_user_id": "1673394046503616512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077721494738915632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brohungryasfuck 我家老鼠最近也这样睡觉，挺让人害怕的😇"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14833,
+        "height": 568,
+        "media_key": "13_2077721354493890560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077721354493890560/img/HQKpztGN1rv3E3DI.jpg",
+        "public_metrics": {
+          "view_count": 376
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077721354493890560/vid/avc1/320x568/0nDj2kwRChOadCSf.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077721354493890560/pl/Wx_KT963cNUr88uD.m3u8?tag=14"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2077721494738915632",
+        "created_at": "2026-07-17T05:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077993864842158172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1673394046503616512",
+              "start": 0,
+              "username": "brohungryasfuck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077993864842158172",
+        "in_reply_to_user_id": "1673394046503616512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077721494738915632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brohungryasfuck 我家老鼠最近也这样睡觉，挺让人害怕的😇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077721354493890560"
+          ]
+        },
+        "author_id": "1673394046503616512",
+        "conversation_id": "2077721494738915632",
+        "created_at": "2026-07-16T11:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077721494738915632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CjLNeFXsEo",
+              "end": 33,
+              "expanded_url": "https://x.com/brohungryasfuck/status/2077721494738915632/video/1",
+              "media_key": "13_2077721354493890560",
+              "start": 10,
+              "url": "https://t.co/CjLNeFXsEo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077721494738915632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1900,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抚摸正在午睡的比比 https://t.co/CjLNeFXsEo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8403,
+          "following_count": 1261,
+          "like_count": 67032,
+          "listed_count": 8,
+          "media_count": 3098,
+          "tweet_count": 19133
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T18:13:35.000Z",
+        "description": "你变坏了吗？\n提问箱： https://t.co/94ESCvqWqx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/brohungryasfuck",
+                "end": 35,
+                "expanded_url": "http://confess.ngl.link/brohungryasfuck",
+                "start": 12,
+                "url": "https://t.co/94ESCvqWqx"
+              }
+            ]
+          }
+        },
+        "id": "1673394046503616512",
+        "location": "Here, there and everywhere ",
+        "name": "奇怪鱼鱼",
+        "pinned_tweet_id": "1974528041432019080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782746425539072000/Q0v8ZNB1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22130,
+          "following_count": 838,
+          "like_count": 31025,
+          "listed_count": 73,
+          "media_count": 990,
+          "tweet_count": 4353
+        },
+        "url": "",
+        "username": "brohungryasfuck",
+        "verified": false
+      }
+    ]
+  }
+}

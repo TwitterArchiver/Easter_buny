@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2071799416827285737",
+    "created_at": "2026-07-01T01:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T02:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072126768430055494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2017934187907665920",
+          "start": 0,
+          "username": "ch8_we"
+        },
+        {
+          "end": 16,
+          "id": "1616848470152982528",
+          "start": 8,
+          "username": "712546v"
+        },
+        {
+          "end": 33,
+          "id": "1950029065181941760",
+          "start": 17,
+          "username": "URULCyoGG272444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072126768430055494",
+    "in_reply_to_user_id": "2017934187907665920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071980471274414312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ch8_we @712546v @URULCyoGG272444 加热雾化吸入了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2071799416827285737",
+        "created_at": "2026-07-01T01:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T02:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072126768430055494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2017934187907665920",
+              "start": 0,
+              "username": "ch8_we"
+            },
+            {
+              "end": 16,
+              "id": "1616848470152982528",
+              "start": 8,
+              "username": "712546v"
+            },
+            {
+              "end": 33,
+              "id": "1950029065181941760",
+              "start": 17,
+              "username": "URULCyoGG272444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072126768430055494",
+        "in_reply_to_user_id": "2017934187907665920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071980471274414312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ch8_we @712546v @URULCyoGG272444 加热雾化吸入了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017934187907665920",
+        "conversation_id": "2071799416827285737",
+        "created_at": "2026-06-30T15:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071980471274414312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            },
+            {
+              "end": 21,
+              "id": "1616848470152982528",
+              "start": 13,
+              "username": "712546v"
+            },
+            {
+              "end": 38,
+              "id": "1950029065181941760",
+              "start": 22,
+              "username": "URULCyoGG272444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071980471274414312",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071966267347812734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny @712546v @URULCyoGG272444 吸入竟然也有用吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8414,
+          "following_count": 1238,
+          "like_count": 66625,
+          "listed_count": 8,
+          "media_count": 3070,
+          "tweet_count": 18942
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T12:13:58.000Z",
+        "description": "trans girl/小证含糖/半地下半家长党/hrt20250807/抑郁/焦虑/self hurt/od/08 09 07/精神状态不好的高二生",
+        "id": "2017934187907665920",
+        "location": "Baltimore, MD",
+        "name": "mikki_z🍥🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046606014276124672/glEbB4q5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 201,
+          "like_count": 2552,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 444
+        },
+        "url": "",
+        "username": "ch8_we",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T17:21:38.000Z",
+        "description": "",
+        "id": "1616848470152982528",
+        "name": "霖酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618235800927502339/unqmf6Bn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 317,
+          "like_count": 12331,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "712546v",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-29T03:02:32.000Z",
+        "description": "缺",
+        "id": "1950029065181941760",
+        "location": "Nadir",
+        "name": "👁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955896681301729283/XWM_RgCp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 1166,
+          "like_count": 3067,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "URULCyoGG272444",
+        "verified": false
+      }
+    ]
+  }
+}

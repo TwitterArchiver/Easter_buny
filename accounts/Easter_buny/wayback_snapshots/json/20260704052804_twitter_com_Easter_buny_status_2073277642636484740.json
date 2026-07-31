@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073277631399919616",
+        "3_2073277631391485952"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "conversation_id": "2073277642636484740",
+    "created_at": "2026-07-04T05:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T06:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073277642636484740"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e5P8xVgwdN",
+          "end": 61,
+          "expanded_url": "https://x.com/Easter_buny/status/2073277642636484740/photo/1",
+          "media_key": "3_2073277631399919616",
+          "start": 38,
+          "url": "https://t.co/e5P8xVgwdN"
+        },
+        {
+          "display_url": "pic.x.com/e5P8xVgwdN",
+          "end": 61,
+          "expanded_url": "https://x.com/Easter_buny/status/2073277642636484740/photo/1",
+          "media_key": "3_2073277631391485952",
+          "start": 38,
+          "url": "https://t.co/e5P8xVgwdN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073277642636484740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小两口，akai生病了，所以转移到新的环境了，顺手把库洛也抓去一起陪护了！ https://t.co/e5P8xVgwdN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073277631399919616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXDBWRbAAAxVLW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073277631391485952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXDBWPaUAAamCo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073277631399919616",
+            "3_2073277631391485952"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2073277642636484740",
+        "created_at": "2026-07-04T05:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073277642636484740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e5P8xVgwdN",
+              "end": 61,
+              "expanded_url": "https://x.com/Easter_buny/status/2073277642636484740/photo/1",
+              "media_key": "3_2073277631399919616",
+              "start": 38,
+              "url": "https://t.co/e5P8xVgwdN"
+            },
+            {
+              "display_url": "pic.x.com/e5P8xVgwdN",
+              "end": 61,
+              "expanded_url": "https://x.com/Easter_buny/status/2073277642636484740/photo/1",
+              "media_key": "3_2073277631391485952",
+              "start": 38,
+              "url": "https://t.co/e5P8xVgwdN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073277642636484740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小两口，akai生病了，所以转移到新的环境了，顺手把库洛也抓去一起陪护了！ https://t.co/e5P8xVgwdN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8404,
+          "following_count": 1242,
+          "like_count": 66686,
+          "listed_count": 8,
+          "media_count": 3072,
+          "tweet_count": 18958
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      }
+    ]
+  }
+}

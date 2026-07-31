@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2072290052487725091",
+    "created_at": "2026-07-01T20:46:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T21:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072421656170234159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1264817233311813632",
+          "start": 0,
+          "username": "yuyuuyuu_n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072421656170234159",
+    "in_reply_to_user_id": "1264817233311813632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072370624798851526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyuuyuu_n 我也是点的这个！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2072290052487725091",
+        "created_at": "2026-07-01T20:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T21:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072421656170234159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1264817233311813632",
+              "start": 0,
+              "username": "yuyuuyuu_n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072421656170234159",
+        "in_reply_to_user_id": "1264817233311813632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072370624798851526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyuuyuu_n 我也是点的这个！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1264817233311813632",
+        "conversation_id": "2072290052487725091",
+        "created_at": "2026-07-01T17:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072370624798851526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072370624798851526",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072328178937532646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 这么好！我上次点猪脚烧鸭双拼给的鸭子位置不好都是骨头🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8409,
+          "following_count": 1237,
+          "like_count": 66644,
+          "listed_count": 8,
+          "media_count": 3070,
+          "tweet_count": 18947
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-25T07:15:21.000Z",
+        "description": "你是我最亮的月亮",
+        "id": "1264817233311813632",
+        "location": "不知道",
+        "name": "是紀浔",
+        "pinned_tweet_id": "1923656686675382361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036189989881671680/QfQr7GAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 42,
+          "like_count": 903,
+          "listed_count": 0,
+          "media_count": 807,
+          "tweet_count": 1896
+        },
+        "url": "",
+        "username": "yuyuuyuu_n",
+        "verified": false
+      }
+    ]
+  }
+}

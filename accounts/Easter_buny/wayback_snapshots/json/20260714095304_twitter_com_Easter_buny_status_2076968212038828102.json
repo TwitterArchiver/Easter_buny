@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2076849597977362585",
+    "created_at": "2026-07-14T09:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T10:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076968212038828102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1566739868688199680",
+          "start": 0,
+          "username": "wabnp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076968212038828102",
+    "in_reply_to_user_id": "1566739868688199680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076958377973014596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wabnp 对于成年人来说是很简单的，但是如果有抑郁自杀风险比较高的可能会开不到的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2076849597977362585",
+        "created_at": "2026-07-14T09:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076968212038828102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1566739868688199680",
+              "start": 0,
+              "username": "wabnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076968212038828102",
+        "in_reply_to_user_id": "1566739868688199680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076958377973014596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wabnp 对于成年人来说是很简单的，但是如果有抑郁自杀风险比较高的可能会开不到的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566739868688199680",
+        "conversation_id": "2076849597977362585",
+        "created_at": "2026-07-14T09:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076958377973014596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076958377973014596",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076849597977362585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 思诺思不难开吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8401,
+          "following_count": 1256,
+          "like_count": 66939,
+          "listed_count": 8,
+          "media_count": 3092,
+          "tweet_count": 19087
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T10:47:56.000Z",
+        "description": "我想写什么写什么",
+        "id": "1566739868688199680",
+        "location": "横幅2023.11",
+        "name": "醬燒魚乾",
+        "pinned_tweet_id": "1935293435520630965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072040900591816704/hT4oIZPt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2443,
+          "following_count": 923,
+          "like_count": 263532,
+          "listed_count": 5,
+          "media_count": 678,
+          "tweet_count": 17200
+        },
+        "url": "",
+        "username": "wabnp",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2076989990438080537",
+    "created_at": "2026-07-16T10:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T11:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077705681051042072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1029992475690065920",
+          "start": 0,
+          "username": "DDD89195877"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077705681051042072",
+    "in_reply_to_user_id": "1029992475690065920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077634364905828482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDD89195877 很癫狂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2076989990438080537",
+        "created_at": "2026-07-16T10:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077705681051042072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1029992475690065920",
+              "start": 0,
+              "username": "DDD89195877"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077705681051042072",
+        "in_reply_to_user_id": "1029992475690065920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077634364905828482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDD89195877 很癫狂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1029992475690065920",
+        "conversation_id": "2076989990438080537",
+        "created_at": "2026-07-16T06:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T07:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077634364905828482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077634364905828482",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076989990438080537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 不爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8405,
+          "following_count": 1258,
+          "like_count": 67010,
+          "listed_count": 8,
+          "media_count": 3096,
+          "tweet_count": 19125
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-16T07:25:17.000Z",
+        "description": "女巫灭门惨案",
+        "id": "1029992475690065920",
+        "name": "Chairman☆Artyom",
+        "pinned_tweet_id": "2058012719643779411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006064034030968833/BX-v6DYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 896,
+          "like_count": 11069,
+          "listed_count": 7,
+          "media_count": 102,
+          "tweet_count": 2316
+        },
+        "url": "",
+        "username": "DDD89195877",
+        "verified": false
+      }
+    ]
+  }
+}

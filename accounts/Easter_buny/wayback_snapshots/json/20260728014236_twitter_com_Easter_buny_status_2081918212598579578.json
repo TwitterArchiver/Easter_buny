@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081918204918820864",
+        "3_2081918204910374912"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "conversation_id": "2081802369457680673",
+    "created_at": "2026-07-28T01:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T02:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081918212598579578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1891976072889237504",
+          "start": 0,
+          "username": "PrimoTeddy"
+        },
+        {
+          "end": 21,
+          "id": "1590688339321028609",
+          "start": 12,
+          "username": "rakkofan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ilA7nyhpmH",
+          "end": 50,
+          "expanded_url": "https://x.com/Easter_buny/status/2081918212598579578/photo/1",
+          "media_key": "3_2081918204918820864",
+          "start": 27,
+          "url": "https://t.co/ilA7nyhpmH"
+        },
+        {
+          "display_url": "pic.x.com/ilA7nyhpmH",
+          "end": 50,
+          "expanded_url": "https://x.com/Easter_buny/status/2081918212598579578/photo/1",
+          "media_key": "3_2081918204910374912",
+          "start": 27,
+          "url": "https://t.co/ilA7nyhpmH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081918212598579578",
+    "in_reply_to_user_id": "1891976072889237504",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081827393669673012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PrimoTeddy @rakkofan yes！ https://t.co/ilA7nyhpmH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 530,
+        "media_key": "3_2081918204918820864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOR1k6-a8AAU5d5.jpg",
+        "width": 608
+      },
+      {
+        "height": 351,
+        "media_key": "3_2081918204910374912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOR1k68aEAAfW2a.jpg",
+        "width": 1296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081918204918820864",
+            "3_2081918204910374912"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2081802369457680673",
+        "created_at": "2026-07-28T01:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081918212598579578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1891976072889237504",
+              "start": 0,
+              "username": "PrimoTeddy"
+            },
+            {
+              "end": 21,
+              "id": "1590688339321028609",
+              "start": 12,
+              "username": "rakkofan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ilA7nyhpmH",
+              "end": 50,
+              "expanded_url": "https://x.com/Easter_buny/status/2081918212598579578/photo/1",
+              "media_key": "3_2081918204918820864",
+              "start": 27,
+              "url": "https://t.co/ilA7nyhpmH"
+            },
+            {
+              "display_url": "pic.x.com/ilA7nyhpmH",
+              "end": 50,
+              "expanded_url": "https://x.com/Easter_buny/status/2081918212598579578/photo/1",
+              "media_key": "3_2081918204910374912",
+              "start": 27,
+              "url": "https://t.co/ilA7nyhpmH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081918212598579578",
+        "in_reply_to_user_id": "1891976072889237504",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081827393669673012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PrimoTeddy @rakkofan yes！ https://t.co/ilA7nyhpmH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891976072889237504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "2081802369457680673",
+        "created_at": "2026-07-27T19:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081827393669673012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1590688339321028609",
+              "start": 0,
+              "username": "rakkofan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081827393669673012",
+        "in_reply_to_user_id": "1590688339321028609",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2378,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081802369457680673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rakkofan From what I can gather, these gifs are popular with the Chinese Chiikawa community. I think its supposed to be shock humor?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8423,
+          "following_count": 1274,
+          "like_count": 67772,
+          "listed_count": 8,
+          "media_count": 3127,
+          "tweet_count": 19333
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T22:20:35.000Z",
+        "description": "• ♀️ | 🇺🇸 | •\nUnapologetically me. American woman in customer service, empathy matters.",
+        "id": "1891976072889237504",
+        "name": "Meep",
+        "pinned_tweet_id": "2068341891188261208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004711038898290689/kLg8X0S4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 180,
+          "like_count": 2867,
+          "listed_count": 0,
+          "media_count": 2120,
+          "tweet_count": 5766
+        },
+        "url": "",
+        "username": "PrimoTeddy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-10T12:50:39.000Z",
+        "description": "comment te dire adieu 🪽lucky girl syndrome ⋆｡𖦹° ᧔ꕤ᧓ i play hoyo gacha & collect mahou shoujo 平成レトロ ♪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kogedonbo",
+                "end": 23,
+                "expanded_url": "http://x.com/kogedonbo",
+                "start": 0,
+                "url": "https://t.co/CqPRp54elb"
+              }
+            ]
+          }
+        },
+        "id": "1590688339321028609",
+        "location": "だれもいない町/  メモリー・デフラグ 🧁🫧",
+        "name": "ꕤ",
+        "pinned_tweet_id": "2062660867833884923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038371681522343936/T1lIZ8nj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1816,
+          "following_count": 908,
+          "like_count": 17571,
+          "listed_count": 6,
+          "media_count": 1150,
+          "tweet_count": 8009
+        },
+        "url": "https://t.co/CqPRp54elb",
+        "username": "rakkofan",
+        "verified": false
+      }
+    ]
+  }
+}

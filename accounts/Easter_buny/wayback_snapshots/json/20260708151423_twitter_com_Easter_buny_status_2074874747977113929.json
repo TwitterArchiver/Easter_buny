@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2074747246898541002",
+    "created_at": "2026-07-08T15:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T16:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074874747977113929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1694381257877004288",
+          "start": 0,
+          "username": "abdzp166732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074874747977113929",
+    "in_reply_to_user_id": "1694381257877004288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074865001425469904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abdzp166732 笑死我了，但是我大腿小腿粗！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2074747246898541002",
+        "created_at": "2026-07-08T15:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074874747977113929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1694381257877004288",
+              "start": 0,
+              "username": "abdzp166732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074874747977113929",
+        "in_reply_to_user_id": "1694381257877004288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074865001425469904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abdzp166732 笑死我了，但是我大腿小腿粗！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694381257877004288",
+        "conversation_id": "2074747246898541002",
+        "created_at": "2026-07-08T14:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074865001425469904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074865001425469904",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074763153725080029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny OMG我量了一下我的大屁股和兔兔差不多大然后我腰比泥粗3cm😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8406,
+          "following_count": 1250,
+          "like_count": 66718,
+          "listed_count": 8,
+          "media_count": 3080,
+          "tweet_count": 19015
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-23T16:09:20.000Z",
+        "description": "外星人(人类勿扰)。猫猫请联系我。哦亲爱的，你知道的，世界上没有比我更善良的人了。这里没有什么黑暗沉重的秘密，都是轻松明亮的，甚至连秘密都没有。如你所见，没有什么可遮掩的，我就喜欢我们一丝不挂的样子。",
+        "id": "1694381257877004288",
+        "location": "0.6km",
+        "name": "R",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045474040123719680/RpGyTCHt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 132,
+          "like_count": 5196,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 3174
+        },
+        "url": "",
+        "username": "abdzp166732",
+        "verified": false
+      }
+    ]
+  }
+}

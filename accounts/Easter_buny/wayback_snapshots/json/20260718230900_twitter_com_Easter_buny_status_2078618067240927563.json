@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2078618067240927563",
+    "created_at": "2026-07-18T23:09:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T00:09:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078618067240927563"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/easter_buny/st…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/easter_buny/status/2078310373900640527",
+          "start": 40,
+          "url": "https://t.co/YJJeKFpYRm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078618067240927563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078310373900640527",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "开了卡马西平，家里其实有普瑞巴林，但遗憾的是普瑞巴林治疗我的神经痛效果并不太好 https://t.co/YJJeKFpYRm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2078618067240927563",
+        "created_at": "2026-07-18T23:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T00:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078618067240927563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/easter_buny/st…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/easter_buny/status/2078310373900640527",
+              "start": 40,
+              "url": "https://t.co/YJJeKFpYRm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078618067240927563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078310373900640527",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开了卡马西平，家里其实有普瑞巴林，但遗憾的是普瑞巴林治疗我的神经痛效果并不太好 https://t.co/YJJeKFpYRm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2078310373900640527",
+        "created_at": "2026-07-18T02:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078310373900640527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078310373900640527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4524,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去我三叉神经痛，这并不好笑😇，这下真的要去医院开曲马多普瑞巴林了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8414,
+          "following_count": 1265,
+          "like_count": 67111,
+          "listed_count": 8,
+          "media_count": 3101,
+          "tweet_count": 19160
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      }
+    ]
+  }
+}

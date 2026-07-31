@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2079145791780962628",
+    "created_at": "2026-07-20T15:19:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T16:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079224751680307605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1135593201660825601",
+          "start": 0,
+          "username": "oii0v0iio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079224751680307605",
+    "in_reply_to_user_id": "1135593201660825601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079201199740330195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oii0v0iio 偏头痛+三叉神经痛，最有效的药物我过敏…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2079145791780962628",
+        "created_at": "2026-07-20T15:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079224751680307605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1135593201660825601",
+              "start": 0,
+              "username": "oii0v0iio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079224751680307605",
+        "in_reply_to_user_id": "1135593201660825601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079201199740330195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oii0v0iio 偏头痛+三叉神经痛，最有效的药物我过敏…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135593201660825601",
+        "conversation_id": "2079145791780962628",
+        "created_at": "2026-07-20T13:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079201199740330195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079201199740330195",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079145791780962628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 神经这么痛，吃到过期都吃不完那么痛吗。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8411,
+          "following_count": 1264,
+          "like_count": 67187,
+          "listed_count": 8,
+          "media_count": 3108,
+          "tweet_count": 19193
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-03T17:04:52.000Z",
+        "description": "",
+        "id": "1135593201660825601",
+        "location": "通往地狱的下水道",
+        "name": "米其林肉人",
+        "pinned_tweet_id": "1938081884598161479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935682797181485057/Ya-KnkkO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 118,
+          "like_count": 2326,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 799
+        },
+        "url": "",
+        "username": "oii0v0iio",
+        "verified": false
+      }
+    ]
+  }
+}

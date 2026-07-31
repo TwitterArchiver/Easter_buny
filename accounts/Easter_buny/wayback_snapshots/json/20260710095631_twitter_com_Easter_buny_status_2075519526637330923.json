@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2075519526637330923",
+    "created_at": "2026-07-10T09:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T10:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075519526637330923"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/geministraw18/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/geministraw18/status/2074924366555402519",
+          "start": 15,
+          "url": "https://t.co/AjgM53hazb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075519526637330923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074924366555402519",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得我可以试试拍这样的的🥹 https://t.co/AjgM53hazb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1434,
+        "media_key": "3_2074924363074228225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMuctvzX0AEC2pC.jpg",
+        "width": 1900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2075519526637330923",
+        "created_at": "2026-07-10T09:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075519526637330923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/geministraw18/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/geministraw18/status/2074924366555402519",
+              "start": 15,
+              "url": "https://t.co/AjgM53hazb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075519526637330923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074924366555402519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得我可以试试拍这样的的🥹 https://t.co/AjgM53hazb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074924363074228225"
+          ]
+        },
+        "author_id": "1905688269100052480",
+        "conversation_id": "2074924366555402519",
+        "created_at": "2026-07-08T18:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074924366555402519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FvK6awS6ge",
+              "end": 41,
+              "expanded_url": "https://x.com/GeminiStraw18/status/2074924366555402519/photo/1",
+              "media_key": "3_2074924363074228225",
+              "start": 18,
+              "url": "https://t.co/FvK6awS6ge"
+            },
+            {
+              "display_url": "x.com/risamisawisa/s…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/risamisawisa/status/2065179680014045226",
+              "start": 42,
+              "url": "https://t.co/KGpZDUOBgH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074924366555402519",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6491,
+          "impression_count": 682024,
+          "like_count": 46253,
+          "quote_count": 178,
+          "reply_count": 132,
+          "retweet_count": 2036
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065179680014045226",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I had to try it 😖 https://t.co/FvK6awS6ge https://t.co/KGpZDUOBgH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8402,
+          "following_count": 1252,
+          "like_count": 66782,
+          "listed_count": 8,
+          "media_count": 3083,
+          "tweet_count": 19037
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T18:27:55.000Z",
+        "description": "21 🇮🇪🇮🇪 | SFW account | Ask me questions: https://t.co/MXCRYKLEDO\nLinktree: https://t.co/aEIBUsUj9U",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/strawberrygem18",
+                "end": 65,
+                "expanded_url": "https://ngl.link/strawberrygem18",
+                "start": 42,
+                "url": "https://t.co/MXCRYKLEDO"
+              },
+              {
+                "display_url": "linktr.ee/strawberrygemi…",
+                "end": 99,
+                "expanded_url": "https://linktr.ee/strawberrygemini",
+                "start": 76,
+                "url": "https://t.co/aEIBUsUj9U"
+              }
+            ]
+          }
+        },
+        "id": "1905688269100052480",
+        "name": "Gem ♂️",
+        "pinned_tweet_id": "2024153852019195989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036837774037245952/sUaZAijP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24069,
+          "following_count": 243,
+          "like_count": 4640,
+          "listed_count": 46,
+          "media_count": 318,
+          "tweet_count": 1191
+        },
+        "url": "",
+        "username": "GeminiStraw18",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074659148495728641"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "conversation_id": "2074514462086971670",
+    "created_at": "2026-07-08T00:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T01:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074659155613467093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1708457167072985091",
+          "start": 0,
+          "username": "askeunchi_7777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xWExXYJGuh",
+          "end": 48,
+          "expanded_url": "https://x.com/Easter_buny/status/2074659155613467093/photo/1",
+          "media_key": "3_2074659148495728641",
+          "start": 25,
+          "url": "https://t.co/xWExXYJGuh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074659155613467093",
+    "in_reply_to_user_id": "1708457167072985091",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074514462086971670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@askeunchi_7777 （  *   ） https://t.co/xWExXYJGuh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 961,
+        "media_key": "3_2074659148495728641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMqrgOgaMAEjkpe.jpg",
+        "width": 1140
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2074514451748032512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMon5xHbEAAWOtX.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074659148495728641"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2074514462086971670",
+        "created_at": "2026-07-08T00:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T01:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074659155613467093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1708457167072985091",
+              "start": 0,
+              "username": "askeunchi_7777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xWExXYJGuh",
+              "end": 48,
+              "expanded_url": "https://x.com/Easter_buny/status/2074659155613467093/photo/1",
+              "media_key": "3_2074659148495728641",
+              "start": 25,
+              "url": "https://t.co/xWExXYJGuh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074659155613467093",
+        "in_reply_to_user_id": "1708457167072985091",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074514462086971670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@askeunchi_7777 （  *   ） https://t.co/xWExXYJGuh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074514451748032512"
+          ]
+        },
+        "author_id": "1708457167072985091",
+        "conversation_id": "2074514462086971670",
+        "created_at": "2026-07-07T15:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074514462086971670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JTmwthA0fE",
+              "end": 28,
+              "expanded_url": "https://x.com/askeunchi_7777/status/2074514462086971670/photo/1",
+              "media_key": "3_2074514451748032512",
+              "start": 5,
+              "url": "https://t.co/JTmwthA0fE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074514462086971670",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好色哦。 https://t.co/JTmwthA0fE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8409,
+          "following_count": 1248,
+          "like_count": 66679,
+          "listed_count": 8,
+          "media_count": 3080,
+          "tweet_count": 19003
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T12:22:06.000Z",
+        "description": "INFP 天蝎 ｜过门只能加微信聊天没有任何福利｜🚪188/288/520",
+        "id": "1708457167072985091",
+        "name": "池大王",
+        "pinned_tweet_id": "2002636304144871512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015300725618724864/OC1YoRrv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3645,
+          "following_count": 361,
+          "like_count": 19245,
+          "listed_count": 8,
+          "media_count": 1272,
+          "tweet_count": 10191
+        },
+        "url": "",
+        "username": "askeunchi_7777",
+        "verified": false
+      }
+    ]
+  }
+}

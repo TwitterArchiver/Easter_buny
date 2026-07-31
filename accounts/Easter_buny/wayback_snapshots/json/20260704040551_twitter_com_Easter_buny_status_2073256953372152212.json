@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2073256953372152212",
+    "created_at": "2026-07-04T04:05:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T05:05:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073256953372152212"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/easter_buny/st…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/easter_buny/status/2071896324413456632",
+          "start": 45,
+          "url": "https://t.co/CScQqzNoY9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073256953372152212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071896324413456632",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "高度成瘾，一次即可成瘾😇\n成瘾指数（我本人）\n普瑞巴林：⭐\n大麻：☆\n普瑞+大麻：⭐⭐⭐ https://t.co/CScQqzNoY9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2073256953372152212",
+        "created_at": "2026-07-04T04:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073256953372152212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/easter_buny/st…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/easter_buny/status/2071896324413456632",
+              "start": 45,
+              "url": "https://t.co/CScQqzNoY9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073256953372152212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071896324413456632",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "高度成瘾，一次即可成瘾😇\n成瘾指数（我本人）\n普瑞巴林：⭐\n大麻：☆\n普瑞+大麻：⭐⭐⭐ https://t.co/CScQqzNoY9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2071896324413456632",
+        "created_at": "2026-06-30T09:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071896324413456632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071896324413456632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1720,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "weed和pr，这两个一起居然能出幻觉，啊？身体如果一直保持一个姿势，我就会感受不到身体 石化了的感觉，做奇怪姿势大脑都感觉不到累，不对是身体，我脑子也开始麻了，一切事物变得好大，我有点失控"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8402,
+          "following_count": 1242,
+          "like_count": 66685,
+          "listed_count": 8,
+          "media_count": 3071,
+          "tweet_count": 18957
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      }
+    ]
+  }
+}

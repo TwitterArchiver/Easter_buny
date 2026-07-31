@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2074747246898541002",
+    "created_at": "2026-07-08T07:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T08:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074763153725080029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1694381257877004288",
+          "start": 0,
+          "username": "abdzp166732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074763153725080029",
+    "in_reply_to_user_id": "1694381257877004288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074747246898541002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abdzp166732 谁能想到我臀围93+🙀，然后我腰围73，这还是瘦下来的状态"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2074747246898541002",
+        "created_at": "2026-07-08T07:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074763153725080029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1694381257877004288",
+              "start": 0,
+              "username": "abdzp166732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074763153725080029",
+        "in_reply_to_user_id": "1694381257877004288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074747246898541002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abdzp166732 谁能想到我臀围93+🙀，然后我腰围73，这还是瘦下来的状态"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694381257877004288",
+        "conversation_id": "2074747246898541002",
+        "created_at": "2026-07-08T06:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074747246898541002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074747246898541002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大屁股我们来了。初中的时候我感觉自己的屁股特别大，所以我走路的时候注意力老集中在屁股上，走路都不知道怎么走了……昨天照镜子发现我的骨盆确实要宽一些呢……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8408,
+          "following_count": 1249,
+          "like_count": 66696,
+          "listed_count": 8,
+          "media_count": 3080,
+          "tweet_count": 19007
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-23T16:09:20.000Z",
+        "description": "外星人(人类勿扰)。猫猫请联系我。哦亲爱的，你知道的，世界上没有比我更善良的人了。这里没有什么黑暗沉重的秘密，都是轻松明亮的，甚至连秘密都没有。如你所见，没有什么可遮掩的，我就喜欢我们一丝不挂的样子。",
+        "id": "1694381257877004288",
+        "location": "0.6km",
+        "name": "R",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045474040123719680/RpGyTCHt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 132,
+          "like_count": 5185,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 3166
+        },
+        "url": "",
+        "username": "abdzp166732",
+        "verified": false
+      }
+    ]
+  }
+}

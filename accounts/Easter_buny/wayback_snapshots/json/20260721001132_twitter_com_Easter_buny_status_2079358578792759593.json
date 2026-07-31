@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2079145791780962628",
+    "created_at": "2026-07-21T00:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T01:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079358578792759593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1705863428571836416",
+          "start": 0,
+          "username": "qunnn13259"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079358578792759593",
+    "in_reply_to_user_id": "1705863428571836416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079299846322979171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qunnn13259 笑死我了，吃完像喝酒了一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2079145791780962628",
+        "created_at": "2026-07-21T00:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T01:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079358578792759593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1705863428571836416",
+              "start": 0,
+              "username": "qunnn13259"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079358578792759593",
+        "in_reply_to_user_id": "1705863428571836416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079299846322979171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qunnn13259 笑死我了，吃完像喝酒了一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705863428571836416",
+        "conversation_id": "2079145791780962628",
+        "created_at": "2026-07-20T20:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T21:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079299846322979171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079299846322979171",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079145791780962628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 炫这个很上头吗，之前我朋友跟我打洲菜得像屎，跟我说才磕完普瑞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8411,
+          "following_count": 1263,
+          "like_count": 67202,
+          "listed_count": 8,
+          "media_count": 3109,
+          "tweet_count": 19202
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T08:35:15.000Z",
+        "description": "哈姆的哈贝的哈姆",
+        "id": "1705863428571836416",
+        "name": "哈姆？哈姆！",
+        "pinned_tweet_id": "1764634569977086353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776182730759520256/Vd0giJZs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 408,
+          "like_count": 12913,
+          "listed_count": 0,
+          "media_count": 367,
+          "tweet_count": 3079
+        },
+        "url": "",
+        "username": "qunnn13259",
+        "verified": false
+      }
+    ]
+  }
+}

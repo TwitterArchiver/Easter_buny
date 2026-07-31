@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077409851156951040",
+        "3_2077409851148550144",
+        "3_2077409851148476416",
+        "3_2077409851182112768"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2077409869687296326",
+    "created_at": "2026-07-15T15:08:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T16:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077409869687296326"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/W1ojZI7UAI",
+          "end": 34,
+          "expanded_url": "https://x.com/Easter_buny/status/2077409869687296326/photo/1",
+          "media_key": "3_2077409851156951040",
+          "start": 11,
+          "url": "https://t.co/W1ojZI7UAI"
+        },
+        {
+          "display_url": "pic.x.com/W1ojZI7UAI",
+          "end": 34,
+          "expanded_url": "https://x.com/Easter_buny/status/2077409869687296326/photo/1",
+          "media_key": "3_2077409851148550144",
+          "start": 11,
+          "url": "https://t.co/W1ojZI7UAI"
+        },
+        {
+          "display_url": "pic.x.com/W1ojZI7UAI",
+          "end": 34,
+          "expanded_url": "https://x.com/Easter_buny/status/2077409869687296326/photo/1",
+          "media_key": "3_2077409851148476416",
+          "start": 11,
+          "url": "https://t.co/W1ojZI7UAI"
+        },
+        {
+          "display_url": "pic.x.com/W1ojZI7UAI",
+          "end": 34,
+          "expanded_url": "https://x.com/Easter_buny/status/2077409869687296326/photo/1",
+          "media_key": "3_2077409851182112768",
+          "start": 11,
+          "url": "https://t.co/W1ojZI7UAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077409869687296326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "带小朋友出门逛街玩！ https://t.co/W1ojZI7UAI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2077409851156951040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRxQMcbcAAlMn_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2077409851148550144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRxQMabQAAjELm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077409851148476416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRxQMaaIAAOLMx.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1966,
+        "media_key": "3_2077409851182112768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRxQMibYAAqHpu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077409851156951040",
+            "3_2077409851148550144",
+            "3_2077409851148476416",
+            "3_2077409851182112768"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077409869687296326",
+        "created_at": "2026-07-15T15:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077409869687296326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W1ojZI7UAI",
+              "end": 34,
+              "expanded_url": "https://x.com/Easter_buny/status/2077409869687296326/photo/1",
+              "media_key": "3_2077409851156951040",
+              "start": 11,
+              "url": "https://t.co/W1ojZI7UAI"
+            },
+            {
+              "display_url": "pic.x.com/W1ojZI7UAI",
+              "end": 34,
+              "expanded_url": "https://x.com/Easter_buny/status/2077409869687296326/photo/1",
+              "media_key": "3_2077409851148550144",
+              "start": 11,
+              "url": "https://t.co/W1ojZI7UAI"
+            },
+            {
+              "display_url": "pic.x.com/W1ojZI7UAI",
+              "end": 34,
+              "expanded_url": "https://x.com/Easter_buny/status/2077409869687296326/photo/1",
+              "media_key": "3_2077409851148476416",
+              "start": 11,
+              "url": "https://t.co/W1ojZI7UAI"
+            },
+            {
+              "display_url": "pic.x.com/W1ojZI7UAI",
+              "end": 34,
+              "expanded_url": "https://x.com/Easter_buny/status/2077409869687296326/photo/1",
+              "media_key": "3_2077409851182112768",
+              "start": 11,
+              "url": "https://t.co/W1ojZI7UAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077409869687296326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "带小朋友出门逛街玩！ https://t.co/W1ojZI7UAI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8401,
+          "following_count": 1257,
+          "like_count": 66995,
+          "listed_count": 8,
+          "media_count": 3095,
+          "tweet_count": 19117
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      }
+    ]
+  }
+}

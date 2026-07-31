@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2079409114007081317",
+    "created_at": "2026-07-23T11:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T12:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080251451398639926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1694381257877004288",
+          "start": 0,
+          "username": "abdzp166732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080251451398639926",
+    "in_reply_to_user_id": "1694381257877004288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079444659211010262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abdzp166732 从mouse变成rats🙂‍↕️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2079409114007081317",
+        "created_at": "2026-07-23T11:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080251451398639926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1694381257877004288",
+              "start": 0,
+              "username": "abdzp166732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080251451398639926",
+        "in_reply_to_user_id": "1694381257877004288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079444659211010262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abdzp166732 从mouse变成rats🙂‍↕️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694381257877004288",
+        "conversation_id": "2079409114007081317",
+        "created_at": "2026-07-21T05:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079444659211010262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079444659211010262",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079409114007081317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 啊啊啊啊鼠鼠变成耗子了捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8420,
+          "following_count": 1267,
+          "like_count": 67404,
+          "listed_count": 8,
+          "media_count": 3115,
+          "tweet_count": 19248
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-23T16:09:20.000Z",
+        "description": "外星人(人类勿扰)。猫猫请联系我。亲爱的，我希望你是一只猫。",
+        "id": "1694381257877004288",
+        "location": "0.6km",
+        "name": "R",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045474040123719680/RpGyTCHt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 134,
+          "like_count": 5631,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 3385
+        },
+        "url": "",
+        "username": "abdzp166732",
+        "verified": false
+      }
+    ]
+  }
+}

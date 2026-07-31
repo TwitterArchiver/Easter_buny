@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081918325370867712"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "conversation_id": "2081810834842382648",
+    "created_at": "2026-07-28T01:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T02:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081918332023017697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581011901353529344",
+          "start": 0,
+          "username": "P3ACEWALKR"
+        },
+        {
+          "end": 21,
+          "id": "1590688339321028609",
+          "start": 12,
+          "username": "rakkofan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iK1r8DvUFv",
+          "end": 53,
+          "expanded_url": "https://x.com/Easter_buny/status/2081918332023017697/photo/1",
+          "media_key": "3_2081918325370867712",
+          "start": 30,
+          "url": "https://t.co/iK1r8DvUFv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081918332023017697",
+    "in_reply_to_user_id": "1581011901353529344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081814313354801438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@P3ACEWALKR @rakkofan 哈哈哈哈哈哈哈 https://t.co/iK1r8DvUFv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 278,
+        "media_key": "3_2081918325370867712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOR1r7sbUAAu4jB.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081918325370867712"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2081810834842382648",
+        "created_at": "2026-07-28T01:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081918332023017697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1581011901353529344",
+              "start": 0,
+              "username": "P3ACEWALKR"
+            },
+            {
+              "end": 21,
+              "id": "1590688339321028609",
+              "start": 12,
+              "username": "rakkofan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iK1r8DvUFv",
+              "end": 53,
+              "expanded_url": "https://x.com/Easter_buny/status/2081918332023017697/photo/1",
+              "media_key": "3_2081918325370867712",
+              "start": 30,
+              "url": "https://t.co/iK1r8DvUFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081918332023017697",
+        "in_reply_to_user_id": "1581011901353529344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081814313354801438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@P3ACEWALKR @rakkofan 哈哈哈哈哈哈哈 https://t.co/iK1r8DvUFv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581011901353529344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "2081810834842382648",
+        "created_at": "2026-07-27T18:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081814313354801438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1590688339321028609",
+              "start": 0,
+              "username": "rakkofan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081814313354801438",
+        "in_reply_to_user_id": "1590688339321028609",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2363,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081810834842382648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rakkofan i think these cockroach chiikawa gifs have been around the longest i rmr when the show came out and the only chiikawa gifs back then were like cockroach usagi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8423,
+          "following_count": 1274,
+          "like_count": 67773,
+          "listed_count": 8,
+          "media_count": 3128,
+          "tweet_count": 19334
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T19:59:56.000Z",
+        "description": "i like playing winston @drkbstpaarl is my priv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "drkbstpaarl"
+              }
+            ]
+          }
+        },
+        "id": "1581011901353529344",
+        "location": "21….……  he/they",
+        "name": "tonio",
+        "pinned_tweet_id": "1865018062853783655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039078083181912064/rGH5vdei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 389,
+          "like_count": 211324,
+          "listed_count": 3,
+          "media_count": 5023,
+          "tweet_count": 49355
+        },
+        "url": "",
+        "username": "P3ACEWALKR",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-10T12:50:39.000Z",
+        "description": "comment te dire adieu 🪽lucky girl syndrome ⋆｡𖦹° ᧔ꕤ᧓ i play hoyo gacha & collect mahou shoujo 平成レトロ ♪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kogedonbo",
+                "end": 23,
+                "expanded_url": "http://x.com/kogedonbo",
+                "start": 0,
+                "url": "https://t.co/CqPRp54elb"
+              }
+            ]
+          }
+        },
+        "id": "1590688339321028609",
+        "location": "だれもいない町/  メモリー・デフラグ 🧁🫧",
+        "name": "ꕤ",
+        "pinned_tweet_id": "2062660867833884923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038371681522343936/T1lIZ8nj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1816,
+          "following_count": 908,
+          "like_count": 17571,
+          "listed_count": 6,
+          "media_count": 1150,
+          "tweet_count": 8009
+        },
+        "url": "https://t.co/CqPRp54elb",
+        "username": "rakkofan",
+        "verified": false
+      }
+    ]
+  }
+}

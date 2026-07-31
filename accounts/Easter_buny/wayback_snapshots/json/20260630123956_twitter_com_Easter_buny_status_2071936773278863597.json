@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2071761941761323337",
+    "created_at": "2026-06-30T12:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071936773278863597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1818199020533374976",
+          "start": 0,
+          "username": "kkLiu_a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071936773278863597",
+    "in_reply_to_user_id": "1818199020533374976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071936521079538158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkLiu_a 不大可能0副作用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2071761941761323337",
+        "created_at": "2026-06-30T12:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071936773278863597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1818199020533374976",
+              "start": 0,
+              "username": "kkLiu_a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071936773278863597",
+        "in_reply_to_user_id": "1818199020533374976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071936521079538158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkLiu_a 不大可能0副作用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818199020533374976",
+        "conversation_id": "2071761941761323337",
+        "created_at": "2026-06-30T12:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071936521079538158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071936521079538158",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071898955806560524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 0 副作用的行不行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8411,
+          "following_count": 1236,
+          "like_count": 66625,
+          "listed_count": 8,
+          "media_count": 3070,
+          "tweet_count": 18937
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T08:16:55.000Z",
+        "description": "私信我会得到刻薄辱骂套餐一份 说加v前先自觉打钱",
+        "id": "1818199020533374976",
+        "name": "收挑粪工一次五毛",
+        "pinned_tweet_id": "1875074238736220213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956175483038785539/HLWQKXwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 45,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 120
+        },
+        "url": "",
+        "username": "kkLiu_a",
+        "verified": false
+      }
+    ]
+  }
+}

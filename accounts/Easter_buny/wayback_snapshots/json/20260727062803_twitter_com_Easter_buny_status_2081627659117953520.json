@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2079389884327092722",
+    "created_at": "2026-07-27T06:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T07:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081627659117953520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904731881817735168",
+          "start": 0,
+          "username": "3e1diei0_oi7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081627659117953520",
+    "in_reply_to_user_id": "1904731881817735168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079389884327092722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3e1diei0_oi7y 不知道之前发生了什么，😧看着太糟心了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079389872520044544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNt6Em0aIAAm-ZY.jpg",
+        "width": 968
+      },
+      {
+        "height": 1869,
+        "media_key": "3_2079389872679432192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNt6EnaaMAASWts.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1330,
+        "media_key": "3_2079389872507461633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNt6EmxaIAEo-V6.jpg",
+        "width": 1282
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079389872515895296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNt6Emza0AAQnok.jpg",
+        "width": 1064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2079389884327092722",
+        "created_at": "2026-07-27T06:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081627659117953520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904731881817735168",
+              "start": 0,
+              "username": "3e1diei0_oi7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081627659117953520",
+        "in_reply_to_user_id": "1904731881817735168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079389884327092722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3e1diei0_oi7y 不知道之前发生了什么，😧看着太糟心了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079389872520044544",
+            "3_2079389872679432192",
+            "3_2079389872507461633",
+            "3_2079389872515895296"
+          ]
+        },
+        "author_id": "1904731881817735168",
+        "conversation_id": "2079389884327092722",
+        "created_at": "2026-07-21T02:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079389884327092722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iWE7XlM3Yg",
+              "end": 164,
+              "expanded_url": "https://x.com/3e1diei0_oi7y/status/2079389884327092722/photo/1",
+              "media_key": "3_2079389872520044544",
+              "start": 141,
+              "url": "https://t.co/iWE7XlM3Yg"
+            },
+            {
+              "display_url": "pic.x.com/iWE7XlM3Yg",
+              "end": 164,
+              "expanded_url": "https://x.com/3e1diei0_oi7y/status/2079389884327092722/photo/1",
+              "media_key": "3_2079389872679432192",
+              "start": 141,
+              "url": "https://t.co/iWE7XlM3Yg"
+            },
+            {
+              "display_url": "pic.x.com/iWE7XlM3Yg",
+              "end": 164,
+              "expanded_url": "https://x.com/3e1diei0_oi7y/status/2079389884327092722/photo/1",
+              "media_key": "3_2079389872507461633",
+              "start": 141,
+              "url": "https://t.co/iWE7XlM3Yg"
+            },
+            {
+              "display_url": "pic.x.com/iWE7XlM3Yg",
+              "end": 164,
+              "expanded_url": "https://x.com/3e1diei0_oi7y/status/2079389884327092722/photo/1",
+              "media_key": "3_2079389872515895296",
+              "start": 141,
+              "url": "https://t.co/iWE7XlM3Yg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079389884327092722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 35383,
+          "like_count": 80,
+          "quote_count": 10,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于最近的事件：\n最使我没办法接受的是，既然你有学法律，怎么能做到把我小时候遭遇的性侵害经历翻出来作为证据和武器。\n同时引导很多账号对我进行嘲讽，“餐券妹”“只能说现生真不好，很糟糕（。）”还有种种种种我没办法复述的...比如说我和真人聊骚聊色什么的，我没有去看那些账号的言论了。 https://t.co/iWE7XlM3Yg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8426,
+          "following_count": 1273,
+          "like_count": 67675,
+          "listed_count": 8,
+          "media_count": 3121,
+          "tweet_count": 19309
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "愛，愛，愛",
+        "id": "1904731881817735168",
+        "name": "L4crim_0se9v",
+        "pinned_tweet_id": "2074083499922047374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076981039357128705/hmY4LgMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 467,
+          "like_count": 25801,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 567
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": false
+      }
+    ]
+  }
+}

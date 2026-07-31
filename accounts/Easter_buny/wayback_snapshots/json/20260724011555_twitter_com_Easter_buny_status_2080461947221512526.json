@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2080339647545438359",
+    "created_at": "2026-07-24T01:15:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T02:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080461947221512526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1766467973555052544",
+          "start": 0,
+          "username": "Iristy_oxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080461947221512526",
+    "in_reply_to_user_id": "1766467973555052544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080339647545438359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iristy_oxo 还有小蟑螂也很恐怖，小蟑螂通常是成群作案的🫠，如果发现一只，其实已经有很多只了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080339591777923072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7Z1iwasAAebHB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2080339647545438359",
+        "created_at": "2026-07-24T01:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T02:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080461947221512526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766467973555052544",
+              "start": 0,
+              "username": "Iristy_oxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080461947221512526",
+        "in_reply_to_user_id": "1766467973555052544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080339647545438359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iristy_oxo 还有小蟑螂也很恐怖，小蟑螂通常是成群作案的🫠，如果发现一只，其实已经有很多只了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080339591777923072"
+          ]
+        },
+        "author_id": "1766467973555052544",
+        "conversation_id": "2080339647545438359",
+        "created_at": "2026-07-23T17:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080339647545438359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/37GP4DGGFL",
+              "end": 92,
+              "expanded_url": "https://x.com/Iristy_oxo/status/2080339647545438359/photo/1",
+              "media_key": "3_2080339591777923072",
+              "start": 69,
+              "url": "https://t.co/37GP4DGGFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080339647545438359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广东的蟑螂咋这么大而且还会飞....真的完全吓到我了...谁能懂我感觉胳膊痒痒的以为是头发落在胳膊上了，一拂结果发现是蟑螂的绝望感... https://t.co/37GP4DGGFL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8421,
+          "following_count": 1266,
+          "like_count": 67411,
+          "listed_count": 8,
+          "media_count": 3115,
+          "tweet_count": 19249
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T14:16:15.000Z",
+        "description": "只是一片自留地。\n面刺寡人者处极刑。\nOne who gets burned still tries to love fire.",
+        "id": "1766467973555052544",
+        "location": "Neverland",
+        "name": "情绪盒子",
+        "pinned_tweet_id": "1915031688775909480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078562861719379968/O2Z1BmAq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2116,
+          "following_count": 189,
+          "like_count": 20308,
+          "listed_count": 5,
+          "media_count": 1011,
+          "tweet_count": 4870
+        },
+        "url": "",
+        "username": "Iristy_oxo",
+        "verified": false
+      }
+    ]
+  }
+}

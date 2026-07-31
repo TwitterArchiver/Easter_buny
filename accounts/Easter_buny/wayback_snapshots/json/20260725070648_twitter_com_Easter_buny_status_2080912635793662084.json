@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2080842699352195493",
+    "created_at": "2026-07-25T07:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T08:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080912635793662084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1766467973555052544",
+          "start": 0,
+          "username": "Iristy_oxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080912635793662084",
+    "in_reply_to_user_id": "1766467973555052544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080910937306141175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iristy_oxo 🥺嗯，她们每年都这样刺激我，真的把我伤透了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2080842699352195493",
+        "created_at": "2026-07-25T07:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080912635793662084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766467973555052544",
+              "start": 0,
+              "username": "Iristy_oxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080912635793662084",
+        "in_reply_to_user_id": "1766467973555052544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080910937306141175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iristy_oxo 🥺嗯，她们每年都这样刺激我，真的把我伤透了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766467973555052544",
+        "conversation_id": "2080842699352195493",
+        "created_at": "2026-07-25T07:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080910937306141175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080910937306141175",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080842699352195493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny Ok祝他们bad trip☝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8423,
+          "following_count": 1267,
+          "like_count": 67420,
+          "listed_count": 8,
+          "media_count": 3116,
+          "tweet_count": 19260
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T14:16:15.000Z",
+        "description": "只是一片自留地。\n面刺寡人者处极刑。\nOne who gets burned still tries to love fire.",
+        "id": "1766467973555052544",
+        "location": "Neverland",
+        "name": "情绪盒子",
+        "pinned_tweet_id": "1915031688775909480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078562861719379968/O2Z1BmAq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2116,
+          "following_count": 189,
+          "like_count": 20352,
+          "listed_count": 5,
+          "media_count": 1011,
+          "tweet_count": 4877
+        },
+        "url": "",
+        "username": "Iristy_oxo",
+        "verified": false
+      }
+    ]
+  }
+}

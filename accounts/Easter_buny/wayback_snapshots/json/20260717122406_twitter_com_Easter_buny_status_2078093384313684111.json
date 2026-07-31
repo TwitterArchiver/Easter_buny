@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2077996323102745076",
+    "created_at": "2026-07-17T12:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T13:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078093384313684111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779747754216198144",
+          "start": 0,
+          "username": "Mercury_97z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078093384313684111",
+    "in_reply_to_user_id": "1779747754216198144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077996658428895508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mercury_97z 可以试试盐酸左西替利嗪！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2077996323102745076",
+        "created_at": "2026-07-17T12:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078093384313684111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779747754216198144",
+              "start": 0,
+              "username": "Mercury_97z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078093384313684111",
+        "in_reply_to_user_id": "1779747754216198144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077996658428895508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercury_97z 可以试试盐酸左西替利嗪！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779747754216198144",
+        "conversation_id": "2077996323102745076",
+        "created_at": "2026-07-17T05:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077996658428895508"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077996658428895508",
+        "in_reply_to_user_id": "1779747754216198144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077996323102745076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "身上开始大爆发了 咩脸也不安全 就是说啊 氯雷他定救救孩子🆘尝试睡觉 睡醒还是大爆发咩又要去医院料"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8405,
+          "following_count": 1262,
+          "like_count": 67075,
+          "listed_count": 8,
+          "media_count": 3101,
+          "tweet_count": 19147
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T05:45:24.000Z",
+        "description": "热爱蓝色/双/超爱动漫/热爱美好肉体和有趣的帖子/爱互动/听得杂/看得杂/人有点乱七八糟/🈲️4i/🈲️zz相关话题/讨厌傻福会拉黑",
+        "id": "1779747754216198144",
+        "name": "苔咩咩𛰙᭜𖫴𖫰𖫱𖫳𖫲꛰ᩝ︪᭜𖫴𖫰𖫱𖫳𖫲꛰ᩝ𛰚",
+        "pinned_tweet_id": "2072293238267142341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005372844805636096/6WLieqNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2182,
+          "following_count": 1616,
+          "like_count": 49215,
+          "listed_count": 7,
+          "media_count": 1070,
+          "tweet_count": 6995
+        },
+        "url": "",
+        "username": "Mercury_97z",
+        "verified": false
+      }
+    ]
+  }
+}

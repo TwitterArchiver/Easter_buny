@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2076691212413579671",
+    "created_at": "2026-07-13T23:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T00:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076805537334014308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4788252866",
+          "start": 0,
+          "username": "menyajun123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076805537334014308",
+    "in_reply_to_user_id": "4788252866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076691212413579671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@menyajun123 天呐，门牙老师🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 764,
+        "media_key": "3_2076691141597057024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHjlysX0AARvAU.jpg",
+        "width": 1242
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076691140502265856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHjlunWoAAw-Rx.jpg",
+        "width": 946
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2076691140489662464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHjlukWUAAk15F.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2076691140481347584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHjluiXcAA82w8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2076691212413579671",
+        "created_at": "2026-07-13T23:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T00:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076805537334014308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4788252866",
+              "start": 0,
+              "username": "menyajun123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076805537334014308",
+        "in_reply_to_user_id": "4788252866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076691212413579671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@menyajun123 天呐，门牙老师🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076691141597057024",
+            "3_2076691140502265856",
+            "3_2076691140489662464",
+            "3_2076691140481347584"
+          ]
+        },
+        "author_id": "4788252866",
+        "conversation_id": "2076691212413579671",
+        "created_at": "2026-07-13T15:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076691212413579671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AvA9PhaPSp",
+              "end": 168,
+              "expanded_url": "https://x.com/menyajun123/status/2076691212413579671/photo/1",
+              "media_key": "3_2076691141597057024",
+              "start": 145,
+              "url": "https://t.co/AvA9PhaPSp"
+            },
+            {
+              "display_url": "pic.x.com/AvA9PhaPSp",
+              "end": 168,
+              "expanded_url": "https://x.com/menyajun123/status/2076691212413579671/photo/1",
+              "media_key": "3_2076691140502265856",
+              "start": 145,
+              "url": "https://t.co/AvA9PhaPSp"
+            },
+            {
+              "display_url": "pic.x.com/AvA9PhaPSp",
+              "end": 168,
+              "expanded_url": "https://x.com/menyajun123/status/2076691212413579671/photo/1",
+              "media_key": "3_2076691140489662464",
+              "start": 145,
+              "url": "https://t.co/AvA9PhaPSp"
+            },
+            {
+              "display_url": "pic.x.com/AvA9PhaPSp",
+              "end": 168,
+              "expanded_url": "https://x.com/menyajun123/status/2076691212413579671/photo/1",
+              "media_key": "3_2076691140481347584",
+              "start": 145,
+              "url": "https://t.co/AvA9PhaPSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076691212413579671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 496,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我家失火烧的什么都没了\n被人拍了视频\n我想把猫狗救下来但是烟雾太多了什么都看不见\n吸入不少烟雾我也快死过去我没有救下她们我什么都没做到\n毛豆死了 猫也找不到了估计也死了 家里没钱了从亲朋好友借钱\n实在太痛苦今天趁家人不在割了 又被送去医院缝了一百多针\n妈妈在医院里闷声哭泣\n我什么都没有了 https://t.co/AvA9PhaPSp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8403,
+          "following_count": 1256,
+          "like_count": 66941,
+          "listed_count": 8,
+          "media_count": 3091,
+          "tweet_count": 19082
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-20T10:36:09.000Z",
+        "description": "三度の飯より死/フォロー非推奨/🤞🏻🐸/手动催吐/edtwt/摂食障害/病みすぎて病み/疯了别管/画点画/人类都该死",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=5509847",
+                "start": 0,
+                "url": "https://t.co/Qtr8fAU128"
+              }
+            ]
+          }
+        },
+        "id": "4788252866",
+        "location": "🚪88 得到小号",
+        "name": "门牙君🤮前歯ちゃん",
+        "pinned_tweet_id": "2076699489264361526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770486783517880321/EnhJw_2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4244,
+          "following_count": 2002,
+          "like_count": 4534,
+          "listed_count": 23,
+          "media_count": 2859,
+          "tweet_count": 10101
+        },
+        "url": "https://t.co/Qtr8fAU128",
+        "username": "menyajun123",
+        "verified": false
+      }
+    ]
+  }
+}

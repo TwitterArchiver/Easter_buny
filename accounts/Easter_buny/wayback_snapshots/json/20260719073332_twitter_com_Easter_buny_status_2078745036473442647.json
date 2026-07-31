@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078745025752821760"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "conversation_id": "2078610821618311446",
+    "created_at": "2026-07-19T07:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T08:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078745036473442647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1871572991806525440",
+          "start": 0,
+          "username": "PawsPosting"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vB1zepooSp",
+          "end": 49,
+          "expanded_url": "https://x.com/Easter_buny/status/2078745036473442647/photo/1",
+          "media_key": "3_2078745025752821760",
+          "start": 26,
+          "url": "https://t.co/vB1zepooSp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078745036473442647",
+    "in_reply_to_user_id": "1871572991806525440",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078610821618311446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PawsPosting my rat：is AI https://t.co/vB1zepooSp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078745025752821760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkvllabcAA1W-W.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 37533,
+        "height": 960,
+        "media_key": "13_2078610682321260544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078610682321260544/img/7J9T6E2IyzRVdDPB.jpg",
+        "public_metrics": {
+          "view_count": 11688
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078610682321260544/vid/avc1/320x426/uAsrPIBPbbwH8GCf.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078610682321260544/vid/avc1/480x640/GULSmaTudH9ch-8u.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078610682321260544/vid/avc1/720x960/14413Lqa_tOvbLPQ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078610682321260544/pl/NWHqvkT04A9nRk6x.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078745025752821760"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2078610821618311446",
+        "created_at": "2026-07-19T07:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078745036473442647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1871572991806525440",
+              "start": 0,
+              "username": "PawsPosting"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vB1zepooSp",
+              "end": 49,
+              "expanded_url": "https://x.com/Easter_buny/status/2078745036473442647/photo/1",
+              "media_key": "3_2078745025752821760",
+              "start": 26,
+              "url": "https://t.co/vB1zepooSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078745036473442647",
+        "in_reply_to_user_id": "1871572991806525440",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078610821618311446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PawsPosting my rat：is AI https://t.co/vB1zepooSp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078610682321260544"
+          ]
+        },
+        "author_id": "1871572991806525440",
+        "conversation_id": "2078610821618311446",
+        "created_at": "2026-07-18T22:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T23:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078610821618311446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vZJs8Nkxwk",
+              "end": 62,
+              "expanded_url": "https://x.com/PawsPosting/status/2078610821618311446/video/1",
+              "media_key": "13_2078610682321260544",
+              "start": 39,
+              "url": "https://t.co/vZJs8Nkxwk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078610821618311446",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 45240,
+          "like_count": 1592,
+          "quote_count": 44,
+          "reply_count": 6,
+          "retweet_count": 329
+        },
+        "reply_settings": "everyone",
+        "text": "Rats taking their bath by themselves 🤣 https://t.co/vZJs8Nkxwk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8414,
+          "following_count": 1264,
+          "like_count": 67072,
+          "listed_count": 8,
+          "media_count": 3103,
+          "tweet_count": 19169
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T15:06:11.000Z",
+        "description": "Cats, Rats, Dogs, Hamsters, Guinea pigs, Possums, e.t.c. 🐾",
+        "id": "1871572991806525440",
+        "location": "Jurassic world",
+        "name": "Paws",
+        "pinned_tweet_id": "2066176512319963410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070491052142739457/jPwSBJZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 27,
+          "like_count": 14276,
+          "listed_count": 0,
+          "media_count": 2230,
+          "tweet_count": 15121
+        },
+        "url": "",
+        "username": "PawsPosting",
+        "verified": false
+      }
+    ]
+  }
+}

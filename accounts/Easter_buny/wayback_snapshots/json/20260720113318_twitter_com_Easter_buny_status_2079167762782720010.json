@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2079145791780962628",
+    "created_at": "2026-07-20T11:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079167762782720010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1644616720580218882",
+          "start": 0,
+          "username": "T01PUklPTU9SSQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079167762782720010",
+    "in_reply_to_user_id": "1644616720580218882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079167397358162409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@T01PUklPTU9SSQ 对，之前上瘾了，但是我戒断反应不强，一天就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2079145791780962628",
+        "created_at": "2026-07-20T11:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079167762782720010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1644616720580218882",
+              "start": 0,
+              "username": "T01PUklPTU9SSQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079167762782720010",
+        "in_reply_to_user_id": "1644616720580218882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079167397358162409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T01PUklPTU9SSQ 对，之前上瘾了，但是我戒断反应不强，一天就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644616720580218882",
+        "conversation_id": "2079145791780962628",
+        "created_at": "2026-07-20T11:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079167397358162409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079167397358162409",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079145791780962628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 印象里这东西会成瘾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8411,
+          "following_count": 1264,
+          "like_count": 67171,
+          "listed_count": 8,
+          "media_count": 3108,
+          "tweet_count": 19189
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T08:22:43.000Z",
+        "description": "🚮",
+        "id": "1644616720580218882",
+        "name": "basil",
+        "pinned_tweet_id": "1875070857036611592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766069312870342656/067cuMF8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 749,
+          "like_count": 17575,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 4205
+        },
+        "url": "",
+        "username": "T01PUklPTU9SSQ",
+        "verified": false
+      }
+    ]
+  }
+}

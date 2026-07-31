@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2071461269237096705",
+    "created_at": "2026-06-29T23:56:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T00:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071744599190855941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1766467973555052544",
+          "start": 0,
+          "username": "Iristy_oxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071744599190855941",
+    "in_reply_to_user_id": "1766467973555052544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071461269237096705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iristy_oxo 好耶！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 520,
+        "media_key": "3_2071461257509744640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9PCePaMAAxVhs.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2071461269237096705",
+        "created_at": "2026-06-29T23:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T00:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071744599190855941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766467973555052544",
+              "start": 0,
+              "username": "Iristy_oxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071744599190855941",
+        "in_reply_to_user_id": "1766467973555052544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071461269237096705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iristy_oxo 好耶！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071461257509744640"
+          ]
+        },
+        "author_id": "1766467973555052544",
+        "conversation_id": "2071461269237096705",
+        "created_at": "2026-06-29T05:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T06:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071461269237096705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/09a4L8MibO",
+              "end": 71,
+              "expanded_url": "https://x.com/Iristy_oxo/status/2071461269237096705/photo/1",
+              "media_key": "3_2071461257509744640",
+              "start": 48,
+              "url": "https://t.co/09a4L8MibO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071461269237096705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5577,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "八嘎刚刚发帖子太高兴不小心把自己实名上网了🙂‍↔️\n再发一次kkkk姥子终于接到offer惹！ https://t.co/09a4L8MibO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8408,
+          "following_count": 1245,
+          "like_count": 66548,
+          "listed_count": 8,
+          "media_count": 3066,
+          "tweet_count": 18920
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T14:16:15.000Z",
+        "description": "只是一片自留地。One who gets burned still tries to love fire.",
+        "id": "1766467973555052544",
+        "location": "Neverland",
+        "name": "情绪盒子",
+        "pinned_tweet_id": "1915031688775909480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065121502710886400/41s-OcCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2088,
+          "following_count": 183,
+          "like_count": 19321,
+          "listed_count": 5,
+          "media_count": 999,
+          "tweet_count": 4703
+        },
+        "url": "",
+        "username": "Iristy_oxo",
+        "verified": false
+      }
+    ]
+  }
+}

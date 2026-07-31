@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2074148636699795909",
+    "created_at": "2026-07-06T21:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T22:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074250848365097012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1962005640844574720",
+          "start": 0,
+          "username": "miemienieqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074250848365097012",
+    "in_reply_to_user_id": "1962005640844574720",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074209992891379844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miemienieqwq 🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2074148636699795909",
+        "created_at": "2026-07-06T21:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T22:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074250848365097012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1962005640844574720",
+              "start": 0,
+              "username": "miemienieqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074250848365097012",
+        "in_reply_to_user_id": "1962005640844574720",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074209992891379844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miemienieqwq 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962005640844574720",
+        "conversation_id": "2074148636699795909",
+        "created_at": "2026-07-06T19:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074209992891379844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074209992891379844",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074148636699795909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 你真的瘦好多。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8407,
+          "following_count": 1242,
+          "like_count": 66704,
+          "listed_count": 8,
+          "media_count": 3076,
+          "tweet_count": 18979
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T04:12:59.000Z",
+        "description": "不知道发哪里的东西就会通通扔到这里",
+        "id": "1962005640844574720",
+        "name": "咩咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056420735762288640/w43X-i9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 51,
+          "like_count": 13881,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 241
+        },
+        "url": "",
+        "username": "miemienieqwq",
+        "verified": false
+      }
+    ]
+  }
+}

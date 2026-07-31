@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2081573846621262283",
+    "created_at": "2026-07-27T06:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T07:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081633802548633835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1793001753568485376",
+          "start": 0,
+          "username": "YMNKsos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081633802548633835",
+    "in_reply_to_user_id": "1793001753568485376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081573846621262283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YMNKsos 痛痛飞走！一脚踢飞痛痛🦵🏻（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2081573846621262283",
+        "created_at": "2026-07-27T06:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081633802548633835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1793001753568485376",
+              "start": 0,
+              "username": "YMNKsos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081633802548633835",
+        "in_reply_to_user_id": "1793001753568485376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081573846621262283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMNKsos 痛痛飞走！一脚踢飞痛痛🦵🏻（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793001753568485376",
+        "conversation_id": "2081573846621262283",
+        "created_at": "2026-07-27T02:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081573846621262283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081573846621262283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的假牙装好了因为失忆摔掉一颗牙，现在22岁生日还没到呢就已经一颗假牙了，痛痛飞走吧！？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8427,
+          "following_count": 1273,
+          "like_count": 67694,
+          "listed_count": 8,
+          "media_count": 3123,
+          "tweet_count": 19314
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-21T19:32:20.000Z",
+        "description": "已幸福，再来骚扰直接杀鼠。法鼠！全家鼠！\n泛性恋，顺直也鼠，顺直公畜更是鼠完了😍",
+        "id": "1793001753568485376",
+        "location": "2.3km🚪188/288/520",
+        "name": "＞𐋣＜ 😽💖🏳️‍🌈✨",
+        "pinned_tweet_id": "1918517368680329280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793002232503476224/hbBsEqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 257,
+          "like_count": 5920,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 4169
+        },
+        "url": "",
+        "username": "YMNKsos",
+        "verified": false
+      }
+    ]
+  }
+}

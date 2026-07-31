@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2071959889795289433",
+    "created_at": "2026-06-30T14:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T15:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071959889795289433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/easter_buny/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/easter_buny/status/2071897272267514252",
+          "start": 10,
+          "url": "https://t.co/Q68lmAa316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071959889795289433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071897272267514252",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真没招了，气笑了 https://t.co/Q68lmAa316"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2071959889795289433",
+        "created_at": "2026-06-30T14:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071959889795289433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/easter_buny/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/easter_buny/status/2071897272267514252",
+              "start": 10,
+              "url": "https://t.co/Q68lmAa316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071959889795289433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071897272267514252",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真没招了，气笑了 https://t.co/Q68lmAa316"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2071896980071256559",
+        "created_at": "2026-06-30T10:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071897272267514252"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071897272267514252",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071896980071256559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一想到我等会清醒了，现在发生的事情态度我就想笑，哈哈哈哈，提前预判笑，我不行了，这个奇怪笑点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8413,
+          "following_count": 1238,
+          "like_count": 66627,
+          "listed_count": 8,
+          "media_count": 3070,
+          "tweet_count": 18938
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      }
+    ]
+  }
+}

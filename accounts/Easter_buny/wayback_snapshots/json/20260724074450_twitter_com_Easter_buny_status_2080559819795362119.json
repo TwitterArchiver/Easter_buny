@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2080339647545438359",
+    "created_at": "2026-07-24T07:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T08:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080559819795362119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1766467973555052544",
+          "start": 0,
+          "username": "Iristy_oxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080559819795362119",
+    "in_reply_to_user_id": "1766467973555052544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080550951480709470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iristy_oxo 骑兵和连队，杀伤力拉满（不要飞我头上啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2080339647545438359",
+        "created_at": "2026-07-24T07:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080559819795362119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766467973555052544",
+              "start": 0,
+              "username": "Iristy_oxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080559819795362119",
+        "in_reply_to_user_id": "1766467973555052544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080550951480709470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iristy_oxo 骑兵和连队，杀伤力拉满（不要飞我头上啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766467973555052544",
+        "conversation_id": "2080339647545438359",
+        "created_at": "2026-07-24T07:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080550951480709470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080550951480709470",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080461947221512526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 犯罪团伙作案和单兵作案🙂‍↕️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8418,
+          "following_count": 1264,
+          "like_count": 67416,
+          "listed_count": 8,
+          "media_count": 3115,
+          "tweet_count": 19252
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T14:16:15.000Z",
+        "description": "只是一片自留地。\n面刺寡人者处极刑。\nOne who gets burned still tries to love fire.",
+        "id": "1766467973555052544",
+        "location": "Neverland",
+        "name": "情绪盒子",
+        "pinned_tweet_id": "1915031688775909480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078562861719379968/O2Z1BmAq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2115,
+          "following_count": 189,
+          "like_count": 20311,
+          "listed_count": 5,
+          "media_count": 1011,
+          "tweet_count": 4871
+        },
+        "url": "",
+        "username": "Iristy_oxo",
+        "verified": false
+      }
+    ]
+  }
+}

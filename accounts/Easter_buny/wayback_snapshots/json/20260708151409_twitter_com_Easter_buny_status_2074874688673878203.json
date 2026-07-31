@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2074436358005993950",
+    "created_at": "2026-07-08T15:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T16:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074874688673878203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1358681624385257474",
+          "start": 0,
+          "username": "TissueGlue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074874688673878203",
+    "in_reply_to_user_id": "1358681624385257474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074870720174387553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TissueGlue 嘿嘿，我自己也很喜欢现在无体毛的状态"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2074436358005993950",
+        "created_at": "2026-07-08T15:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074874688673878203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1358681624385257474",
+              "start": 0,
+              "username": "TissueGlue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074874688673878203",
+        "in_reply_to_user_id": "1358681624385257474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074870720174387553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TissueGlue 嘿嘿，我自己也很喜欢现在无体毛的状态"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1358681624385257474",
+        "conversation_id": "2074436358005993950",
+        "created_at": "2026-07-08T14:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074870720174387553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074870720174387553",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074436358005993950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 好喜欢无体毛的男性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8406,
+          "following_count": 1249,
+          "like_count": 66718,
+          "listed_count": 8,
+          "media_count": 3080,
+          "tweet_count": 19014
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-08T07:39:27.000Z",
+        "description": "纵欲蝾螈",
+        "id": "1358681624385257474",
+        "name": "Dawn Pond",
+        "pinned_tweet_id": "1820757642081669194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820757541934284800/eu3_8Cht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 282,
+          "like_count": 423,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1299
+        },
+        "url": "",
+        "username": "TissueGlue",
+        "verified": false
+      }
+    ]
+  }
+}
