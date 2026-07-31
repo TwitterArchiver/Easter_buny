@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-31T10:58:03",
+  "last_updated": "2026-07-31T10:58:36",
   "html": {
     "https://web.archive.org/web/20260628133659if_/https://twitter.com/Easter_buny/status/2071226356185395702": {
       "status": "done",
@@ -3961,9 +3961,9 @@
       "referenced_by": [
         "20260627232742_twitter_com_Easter_buny_status_2071012627422286037.json"
       ],
-      "last_updated": "2026-07-31T10:37:45",
+      "last_updated": "2026-07-31T10:58:24",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260627232742if_/https://pbs.twimg.com/profile_images/2070895999510609920/rsztIfMu_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2043229630384238592/3-NifG2U_normal.jpg": {
       "status": "failed_all",
@@ -3972,9 +3972,9 @@
         "20260629115842_twitter_com_Easter_buny_status_2071564009145610545.json",
         "20260717022015_twitter_com_Easter_buny_status_2077941420653207938.json"
       ],
-      "last_updated": "2026-07-31T10:37:45",
+      "last_updated": "2026-07-31T10:58:26",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260717022015if_/https://pbs.twimg.com/profile_images/2043229630384238592/3-NifG2U_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1955898461733445632/CcIK__CK_normal.jpg": {
       "status": "done",
@@ -4086,9 +4086,9 @@
       "referenced_by": [
         "20260629053316_twitter_com_Easter_buny_status_2071467011738354145.json"
       ],
-      "last_updated": "2026-07-31T10:37:46",
+      "last_updated": "2026-07-31T10:58:28",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260629053316if_/https://pbs.twimg.com/profile_images/2066801665949433856/0Uc5GorO_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg": {
       "status": "done",
@@ -4119,20 +4119,20 @@
       "last_updated": "2026-07-31T10:37:43"
     },
     "https://pbs.twimg.com/profile_images/2046104369733705728/M0RKOdzV_normal.jpg": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260629120739_twitter_com_Easter_buny_status_2071566261339992549.json"
       ],
-      "last_updated": "2026-07-31T10:37:45",
+      "last_updated": "2026-07-31T10:58:28",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260629120739if_/https://pbs.twimg.com/profile_images/2046104369733705728/M0RKOdzV_normal.jpg",
       "miss_count": 1
     },
     "https://pbs.twimg.com/profile_images/2071571890653822977/cisZrrrR_normal.jpg": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260629123020_twitter_com_Easter_buny_status_2071571970416837071.json"
       ],
-      "last_updated": "2026-07-31T10:37:46",
+      "last_updated": "2026-07-31T10:58:28",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260629123020if_/https://pbs.twimg.com/profile_images/2071571890653822977/cisZrrrR_normal.jpg",
       "miss_count": 1
     },
@@ -4565,9 +4565,9 @@
       "referenced_by": [
         "20260710095008_twitter_com_Easter_buny_status_2075517922550956351.json"
       ],
-      "last_updated": "2026-07-31T10:56:07",
+      "last_updated": "2026-07-31T10:58:30",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260710095008if_/https://pbs.twimg.com/profile_images/2063829253427433472/56VBasNr_normal.jpg",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2036837774037245952/sUaZAijP_normal.jpg": {
       "status": "done",
@@ -4819,9 +4819,9 @@
       "referenced_by": [
         "20260715063135_twitter_com_Easter_buny_status_2077279895772942837.json"
       ],
-      "last_updated": "2026-07-31T10:56:07",
+      "last_updated": "2026-07-31T10:58:34",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260715063135if_/https://pbs.twimg.com/profile_images/2063298649027969025/YQfGGF8f_normal.jpg",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/1997457624556589056/z_hRiQW__normal.jpg": {
       "status": "done",
@@ -4918,9 +4918,9 @@
       "referenced_by": [
         "20260717022038_twitter_com_Easter_buny_status_2077941517008961735.json"
       ],
-      "last_updated": "2026-07-31T10:56:07",
+      "last_updated": "2026-07-31T10:58:36",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260717022038if_/https://pbs.twimg.com/profile_images/2062834375834869760/5rMsK19t_normal.jpg",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/1717021718571814912/t82tDl5y_normal.jpg": {
       "status": "done",
