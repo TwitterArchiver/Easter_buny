@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2085279426355564587",
+    "created_at": "2026-08-06T12:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T13:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085336520404386083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1442077789155299334",
+          "start": 0,
+          "username": "dljs1222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085336520404386083",
+    "in_reply_to_user_id": "1442077789155299334",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085322523432870085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dljs1222 ？！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2085322523432870085].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2085322523432870085",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2085322523432870085"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2085279426355564587",
+        "created_at": "2026-08-06T12:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085336520404386083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1442077789155299334",
+              "start": 0,
+              "username": "dljs1222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085336520404386083",
+        "in_reply_to_user_id": "1442077789155299334",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085322523432870085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dljs1222 ？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8488,
+          "following_count": 1293,
+          "like_count": 68425,
+          "listed_count": 8,
+          "media_count": 3127,
+          "tweet_count": 19450
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-26T10:45:23.000Z",
+        "description": "甜品重度爱好者/喜欢做饭喜欢美食/偶尔情绪不稳定/励志向甜品的顶峰前进/友跨🏳️‍⚧️/🏳️‍🌈",
+        "id": "1442077789155299334",
+        "location": "北大六院",
+        "name": "呱呱呱",
+        "pinned_tweet_id": "1936415860773786087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869712006913441792/KK34m8iM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 207,
+          "like_count": 2016,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 697
+        },
+        "url": "",
+        "username": "dljs1222",
+        "verified": false
+      }
+    ]
+  }
+}

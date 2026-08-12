@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2085733869232480765",
+    "created_at": "2026-08-07T15:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T16:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085744770010550570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1750040441880498176",
+          "start": 0,
+          "username": "kill_this_hate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085744770010550570",
+    "in_reply_to_user_id": "1750040441880498176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085733869232480765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kill_this_hate 普猫，哈哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085733855714258944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPID5B3asAA61Uc.jpg",
+        "width": 1100
+      },
+      {
+        "height": 548,
+        "media_key": "3_2085733855710048256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPID5B2acAAfVW7.jpg",
+        "width": 1146
+      },
+      {
+        "height": 648,
+        "media_key": "3_2085733855714250752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPID5B3akAAfEqQ.jpg",
+        "width": 1121
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2085733869232480765",
+        "created_at": "2026-08-07T15:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085744770010550570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1750040441880498176",
+              "start": 0,
+              "username": "kill_this_hate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085744770010550570",
+        "in_reply_to_user_id": "1750040441880498176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085733869232480765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kill_this_hate 普猫，哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085733855714258944",
+            "3_2085733855710048256",
+            "3_2085733855714250752"
+          ]
+        },
+        "author_id": "1750040441880498176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085733869232480765",
+        "created_at": "2026-08-07T14:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085733869232480765"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "反馈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eR2hoeeA24",
+              "end": 27,
+              "expanded_url": "https://x.com/kill_this_hate/status/2085733869232480765/photo/1",
+              "media_key": "3_2085733855714258944",
+              "start": 4,
+              "url": "https://t.co/eR2hoeeA24"
+            },
+            {
+              "display_url": "pic.x.com/eR2hoeeA24",
+              "end": 27,
+              "expanded_url": "https://x.com/kill_this_hate/status/2085733869232480765/photo/1",
+              "media_key": "3_2085733855710048256",
+              "start": 4,
+              "url": "https://t.co/eR2hoeeA24"
+            },
+            {
+              "display_url": "pic.x.com/eR2hoeeA24",
+              "end": 27,
+              "expanded_url": "https://x.com/kill_this_hate/status/2085733869232480765/photo/1",
+              "media_key": "3_2085733855714250752",
+              "start": 4,
+              "url": "https://t.co/eR2hoeeA24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085733869232480765",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#反馈 https://t.co/eR2hoeeA24"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8484,
+          "following_count": 1291,
+          "like_count": 68504,
+          "listed_count": 8,
+          "media_count": 3132,
+          "tweet_count": 19471
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T06:19:04.000Z",
+        "description": "星盘教学小班课开课中 120/h 一周一次课",
+        "id": "1750040441880498176",
+        "name": "占卜小雀雀",
+        "pinned_tweet_id": "2080147322835759454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058873451960848384/4vaGtDZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 109,
+          "like_count": 25985,
+          "listed_count": 2,
+          "media_count": 1045,
+          "tweet_count": 11151
+        },
+        "url": "",
+        "username": "kill_this_hate",
+        "verified": false
+      }
+    ]
+  }
+}

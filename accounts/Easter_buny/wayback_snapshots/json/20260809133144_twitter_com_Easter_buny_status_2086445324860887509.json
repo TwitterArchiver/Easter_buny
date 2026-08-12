@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2086432640350175458",
+    "created_at": "2026-08-09T13:31:44.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T14:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086445324860887509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2064542363595493376",
+          "start": 0,
+          "username": "ToriNoelle003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086445324860887509",
+    "in_reply_to_user_id": "2064542363595493376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086432640350175458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ToriNoelle003 抽太多了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2086432627704406016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPR_a6YbIAATwwj.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2086432640350175458",
+        "created_at": "2026-08-09T13:31:44.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T14:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086445324860887509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2064542363595493376",
+              "start": 0,
+              "username": "ToriNoelle003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086445324860887509",
+        "in_reply_to_user_id": "2064542363595493376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086432640350175458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ToriNoelle003 抽太多了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086432627704406016"
+          ]
+        },
+        "author_id": "2064542363595493376",
+        "conversation_id": "2086432640350175458",
+        "created_at": "2026-08-09T12:41:20.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086432640350175458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CR2uzerKzT",
+              "end": 122,
+              "expanded_url": "https://x.com/ToriNoelle003/status/2086432640350175458/photo/1",
+              "media_key": "3_2086432627704406016",
+              "start": 99,
+              "url": "https://t.co/CR2uzerKzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086432640350175458",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086432627704406016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次卷捲的很醜，中途散了還好沒浪費。我體驗上非常好，強烈的眩暈感，睜眼有物體變大變小或旋轉的感覺，極度的放鬆和鎮靜，四肢酥麻無力有消失感，持續時間比我想象的要久，我已經躺一個小時了還有明顯藥效。 https://t.co/CR2uzerKzT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2086445324860887509",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8468,
+          "following_count": 1286,
+          "like_count": 68622,
+          "listed_count": 8,
+          "media_count": 3138,
+          "tweet_count": 19509
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-10T02:58:59.000Z",
+        "description": "“為遠去的鳥兒獻上革命的花朵。”\n（前世@DKR_World）同類互fo大歡迎！\n🚪52/101",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "DKR_World"
+              }
+            ]
+          }
+        },
+        "id": "2064542363595493376",
+        "is_identity_verified": false,
+        "location": "東京暴動革命支部",
+        "most_recent_tweet_id": "2086432640350175458",
+        "name": "◎東アジア躁鬱革委會",
+        "pinned_tweet_id": "2085343225972244522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2064542363595493376/1783695885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064542992820830208/n5svD8S2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 143,
+          "like_count": 2316,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 320
+        },
+        "url": "",
+        "username": "ToriNoelle003",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

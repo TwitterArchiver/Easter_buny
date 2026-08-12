@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2084330605932925041",
+    "created_at": "2026-08-03T20:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T21:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084380795184325059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1795064016227954688",
+          "start": 0,
+          "username": "xiaoyuan7733"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084380795184325059",
+    "in_reply_to_user_id": "1795064016227954688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084330605932925041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyuan7733 好像是有个绳师48？专门弄这个吧，不过听说在广州"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2084330605932925041",
+        "created_at": "2026-08-03T20:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T21:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084380795184325059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1795064016227954688",
+              "start": 0,
+              "username": "xiaoyuan7733"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084380795184325059",
+        "in_reply_to_user_id": "1795064016227954688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084330605932925041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuan7733 好像是有个绳师48？专门弄这个吧，不过听说在广州"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795064016227954688",
+        "conversation_id": "2084330605932925041",
+        "created_at": "2026-08-03T17:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084330605932925041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084330605932925041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还想体验绳缚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8489,
+          "following_count": 1289,
+          "like_count": 68244,
+          "listed_count": 8,
+          "media_count": 3115,
+          "tweet_count": 19399
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:06:40.000Z",
+        "description": "想成为你最爱的那个人",
+        "id": "1795064016227954688",
+        "location": "离你心里521米",
+        "name": "水水木",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082889738214883328/5EIZIcDZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 133,
+          "like_count": 1027,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 552
+        },
+        "url": "",
+        "username": "xiaoyuan7733",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2083550191282774431",
+    "created_at": "2026-08-01T13:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083550191282774431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/easter_buny/st…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/easter_buny/status/2083478858406486157",
+          "start": 28,
+          "url": "https://t.co/FAdyK3u2WD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083550191282774431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083478858406486157",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在才知道阿普可以应对癫痫的发作…只不过生效慢就是了 https://t.co/FAdyK3u2WD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2083478817520451584",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HOoA8h9bgAApGSq.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HOoA8h9bgAApGSq.mp4"
+          }
+        ],
+        "width": 360
+      },
+      {
+        "height": 956,
+        "media_key": "3_2083478817566502912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoA8iIaMAAYV6M.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2083550191282774431",
+        "created_at": "2026-08-01T13:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083550191282774431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/easter_buny/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/easter_buny/status/2083478858406486157",
+              "start": 28,
+              "url": "https://t.co/FAdyK3u2WD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083550191282774431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083478858406486157",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在才知道阿普可以应对癫痫的发作…只不过生效慢就是了 https://t.co/FAdyK3u2WD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2083478817520451584",
+            "3_2083478817566502912"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2083478858406486157",
+        "created_at": "2026-08-01T09:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083478858406486157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KpvyukZrcu",
+              "end": 145,
+              "expanded_url": "https://x.com/Easter_buny/status/2083478858406486157/photo/1",
+              "media_key": "16_2083478817520451584",
+              "start": 122,
+              "url": "https://t.co/KpvyukZrcu"
+            },
+            {
+              "display_url": "pic.x.com/KpvyukZrcu",
+              "end": 145,
+              "expanded_url": "https://x.com/Easter_buny/status/2083478858406486157/photo/1",
+              "media_key": "3_2083478817566502912",
+              "start": 122,
+              "url": "https://t.co/KpvyukZrcu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083478858406486157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1449,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天太难过了，喝酒之后加联用了几种药物，最后在厕所吐晕过去了，今天中午睡醒之后全身神经异常放电抽搐起来了，剧痛无比，含服了一片阿普才好点，然后现在全身因为抽搐导致疼痛，又要吃止痛药，今天一整天都吃不了东西，一吃就吐。\n这个世界对我一点都不好… https://t.co/KpvyukZrcu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8474,
+          "following_count": 1276,
+          "like_count": 68096,
+          "listed_count": 8,
+          "media_count": 3112,
+          "tweet_count": 19369
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2083381815650443748",
+    "created_at": "2026-08-01T08:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T09:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083467756641698051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1587693577588846592",
+          "start": 0,
+          "username": "XLapin9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083467756641698051",
+    "in_reply_to_user_id": "1587693577588846592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083381815650443748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XLapin9 如何让它溶解在油状物里是个问题（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2083381815650443748",
+        "created_at": "2026-08-01T08:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083467756641698051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1587693577588846592",
+              "start": 0,
+              "username": "XLapin9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083467756641698051",
+        "in_reply_to_user_id": "1587693577588846592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083381815650443748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XLapin9 如何让它溶解在油状物里是个问题（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587693577588846592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Vaping",
+              "id": "1047109035600764929",
+              "name": "Vaping"
+            }
+          }
+        ],
+        "conversation_id": "2083381815650443748",
+        "created_at": "2026-08-01T02:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083381815650443748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xlapin9/status…",
+              "end": 304,
+              "expanded_url": "https://twitter.com/xlapin9/status/2083374518719094899",
+              "start": 281,
+              "url": "https://t.co/HKSjlvb8KF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083381815650443748",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083374518719094899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RELX6, 8W 5deep draws, each held in the lungs for approximately 10 seconds. The effects lasted about 20 minutes. \nThe effects included colorful visuals, visual distortions, and mild alterations in mental while communication remained normal. typical low-dose tryptamine experience. https://t.co/HKSjlvb8KF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8465,
+          "following_count": 1272,
+          "like_count": 68044,
+          "listed_count": 8,
+          "media_count": 3111,
+          "tweet_count": 19362
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T06:30:28.000Z",
+        "description": "漸変色的枝桠 生出水母花",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lapin9.top",
+                "end": 23,
+                "expanded_url": "http://lapin9.top",
+                "start": 0,
+                "url": "https://t.co/4ZFuRkKD5q"
+              }
+            ]
+          }
+        },
+        "id": "1587693577588846592",
+        "location": "16h 29m 24s、−26° 25′ 55″",
+        "name": "👁️‍🗨️Lapin9",
+        "pinned_tweet_id": "2082986677820092807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009969593901821958/QFGri68L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 63,
+          "like_count": 25,
+          "listed_count": 3,
+          "media_count": 22,
+          "tweet_count": 71
+        },
+        "url": "https://t.co/4ZFuRkKD5q",
+        "username": "XLapin9",
+        "verified": false
+      }
+    ]
+  }
+}

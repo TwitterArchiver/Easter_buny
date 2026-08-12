@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2083894757311578202",
+    "created_at": "2026-08-02T13:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083905161983144151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2077713332812083200",
+          "start": 0,
+          "username": "fries420cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083905161983144151",
+    "in_reply_to_user_id": "2077713332812083200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083894757311578202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fries420cn 又学一招，扦插原来可以这样剪叶子！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2083894747253633024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOt7O09a8AAk-o-.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2083894757311578202",
+        "created_at": "2026-08-02T13:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083905161983144151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077713332812083200",
+              "start": 0,
+              "username": "fries420cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083905161983144151",
+        "in_reply_to_user_id": "2077713332812083200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083894757311578202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fries420cn 又学一招，扦插原来可以这样剪叶子！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083894747253633024"
+          ]
+        },
+        "author_id": "2077713332812083200",
+        "conversation_id": "2083894757311578202",
+        "created_at": "2026-08-02T12:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083894757311578202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lr2JI6Fna0",
+              "end": 177,
+              "expanded_url": "https://x.com/fries420cn/status/2083894757311578202/photo/1",
+              "media_key": "3_2083894747253633024",
+              "start": 154,
+              "url": "https://t.co/lr2JI6Fna0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083894757311578202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "大麻成分：THC、CBD +大麻属性： S、I、Hy 一次搞懂🪴\n先说两种最重要的成分，再说三种常见类型～  \n1. THC 和 CBD（成分区别）\nTHC（会让人嗨的那个） 😵‍💫\n  会产生明显的“嗨”感  \n感觉时间变慢、情绪轻松或有点飘  \n主要来自普通大麻  \n常见反应：口干、心跳加快、感官放大\r\n\nCBD（几乎不会让人嗨的那个）✅\n   基本不会上头，感觉更平静放松  \n主要来自工业大麻（THC含量很低）  \n副作用通常较少，有时会有点困  \n\r\n2. S、I、Hy（类型区别）\n大麻常见分成三种类型，主要影响“感觉往哪个方向走”：\nS（Sativa 偏日间型）☀️   感觉更清晰、活跃、有点“上扬”  \n很多人白天用，比较提神  \n适合创作、社交、聊天\n\nI（Indica 偏夜间型） 🌕   感觉更放松、身体沉、想躺着  \n很多人晚上用，比较助眠  \n身体放松感更强，抽了吃东西个人认为比S更好吃\n\nHy（Hybrid 混合型） 🔄   S 和 I 的混合版本  \n有的偏 S（活跃一点），有的偏 I（放松一点）  \n现在市面上大部分都是这种，效果介于两者之间，我个人最喜欢的就是50%S、50%I\n\n记住就行：\nTHC / CBD 决定「会不会嗨、嗨多强」\nS / I / Hy 决定「感觉往哪个方向走」"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大麻成分：THC、CBD +大麻属性： S、I、Hy 一次搞懂🪴\n先说两种最重要的成分，再说三种常见类型～  \n1. THC 和 CBD（成分区别）\nTHC（会让人嗨的那个） 😵‍💫\n  会产生明显的“嗨”感  \n感觉时间变慢、情绪轻松或有点飘  \n主要来自普通大麻  \n常见反应：口干、心跳加快、感官放大 https://t.co/lr2JI6Fna0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8482,
+          "following_count": 1279,
+          "like_count": 68145,
+          "listed_count": 8,
+          "media_count": 3112,
+          "tweet_count": 19381
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-16T11:15:51.000Z",
+        "description": "支持亚洲大麻合法化｜大麻除罪化｜正视医疗用途｜大麻/ Vape爱好者  🏳️‍⚧️🏳️‍🌈LGBTQ友好\n私信会回｜\r禁止未成年🚫｜平台网站开发中",
+        "id": "2077713332812083200",
+        "name": "薯条🍟(大麻\\電子煙)",
+        "pinned_tweet_id": "2083175269524017656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079675187579252736/n1no54_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 294,
+          "like_count": 728,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 165
+        },
+        "url": "",
+        "username": "fries420cn",
+        "verified": true
+      }
+    ]
+  }
+}

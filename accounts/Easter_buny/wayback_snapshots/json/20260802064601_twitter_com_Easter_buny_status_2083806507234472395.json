@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2083586636177354867",
+    "created_at": "2026-08-02T06:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T07:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083806507234472395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1677530479782768641",
+          "start": 0,
+          "username": "bai57248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083806507234472395",
+    "in_reply_to_user_id": "1677530479782768641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083586636177354867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai57248 各类爆珠香烟会不会串味？😧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1512,
+        "media_key": "3_2083586613414875136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpi_E9aUAA5-iX.jpg",
+        "width": 1152
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2083586623070232576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpi_o7bYAA9BRq.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2083586636177354867",
+        "created_at": "2026-08-02T06:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083806507234472395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1677530479782768641",
+              "start": 0,
+              "username": "bai57248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083806507234472395",
+        "in_reply_to_user_id": "1677530479782768641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083586636177354867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai57248 各类爆珠香烟会不会串味？😧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083586613414875136",
+            "3_2083586623070232576"
+          ]
+        },
+        "author_id": "1677530479782768641",
+        "conversation_id": "2083586636177354867",
+        "created_at": "2026-08-01T16:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083586636177354867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hp7KUnC3ZS",
+              "end": 31,
+              "expanded_url": "https://x.com/bai57248/status/2083586636177354867/photo/1",
+              "media_key": "3_2083586613414875136",
+              "start": 8,
+              "url": "https://t.co/Hp7KUnC3ZS"
+            },
+            {
+              "display_url": "pic.x.com/Hp7KUnC3ZS",
+              "end": 31,
+              "expanded_url": "https://x.com/bai57248/status/2083586636177354867/photo/1",
+              "media_key": "3_2083586623070232576",
+              "start": 8,
+              "url": "https://t.co/Hp7KUnC3ZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083586636177354867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1729,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了个香烟盲盒 https://t.co/Hp7KUnC3ZS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8480,
+          "following_count": 1277,
+          "like_count": 68132,
+          "listed_count": 8,
+          "media_count": 3112,
+          "tweet_count": 19375
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T04:10:14.000Z",
+        "description": "泉//类日记//！！包含无意义喊话！！//",
+        "id": "1677530479782768641",
+        "name": "小水儿",
+        "pinned_tweet_id": "2025813693687308701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033832964237496323/B-NIeNXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5592,
+          "following_count": 789,
+          "like_count": 48882,
+          "listed_count": 10,
+          "media_count": 2023,
+          "tweet_count": 12515
+        },
+        "url": "",
+        "username": "bai57248",
+        "verified": false
+      }
+    ]
+  }
+}

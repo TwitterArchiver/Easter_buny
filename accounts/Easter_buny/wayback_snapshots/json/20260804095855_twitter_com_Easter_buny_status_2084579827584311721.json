@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2084246417082900714",
+    "created_at": "2026-08-04T09:58:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T10:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084579827584311721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1161907687749296128",
+          "start": 0,
+          "username": "XRMKunome"
+        },
+        {
+          "end": 22,
+          "id": "2077713332812083200",
+          "start": 11,
+          "username": "fries420cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084579827584311721",
+    "in_reply_to_user_id": "1161907687749296128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084442223215808665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XRMKunome @fries420cn 需要烘焙才行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2084246417082900714",
+        "created_at": "2026-08-04T09:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084579827584311721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1161907687749296128",
+              "start": 0,
+              "username": "XRMKunome"
+            },
+            {
+              "end": 22,
+              "id": "2077713332812083200",
+              "start": 11,
+              "username": "fries420cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084579827584311721",
+        "in_reply_to_user_id": "1161907687749296128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084442223215808665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XRMKunome @fries420cn 需要烘焙才行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1161907687749296128",
+        "conversation_id": "2084246417082900714",
+        "created_at": "2026-08-04T00:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T01:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084442223215808665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077713332812083200",
+              "start": 0,
+              "username": "fries420cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084442223215808665",
+        "in_reply_to_user_id": "2077713332812083200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084246417082900714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fries420cn 既然茶叶也能飞 那叶子是不是也能泡茶🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8487,
+          "following_count": 1290,
+          "like_count": 68267,
+          "listed_count": 8,
+          "media_count": 3117,
+          "tweet_count": 19409
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-15T07:49:14.000Z",
+        "description": "是个人类，活着的（暂时）。\n是重度ADHD患者，欢迎交流讨论。\n很喜欢看可可爱爱的碎碎念。",
+        "id": "1161907687749296128",
+        "location": "我在你背后",
+        "name": "XRMK-Suspended Fate",
+        "pinned_tweet_id": "2069342375055401157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073556703006932992/f0ulYp-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 26,
+          "like_count": 2541,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1381
+        },
+        "url": "",
+        "username": "XRMKunome",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-16T11:15:51.000Z",
+        "description": "支持亚洲大麻合法化｜大麻除罪化｜正视医疗用途｜大麻/ Vape爱好者  🏳️‍⚧️🏳️‍🌈LGBTQ友好\n私信会回｜\r禁止未成年🚫｜平台网站开发中",
+        "id": "2077713332812083200",
+        "name": "薯条🍟(大麻\\電子煙)",
+        "pinned_tweet_id": "2083175269524017656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079675187579252736/n1no54_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 408,
+          "like_count": 754,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 179
+        },
+        "url": "",
+        "username": "fries420cn",
+        "verified": true
+      }
+    ]
+  }
+}

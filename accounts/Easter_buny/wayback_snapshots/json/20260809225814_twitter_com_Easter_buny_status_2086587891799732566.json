@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2086547427243552903",
+    "created_at": "2026-08-09T22:58:14.000Z",
+    "display_text_range": [
+      13,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T23:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086587891799732566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1423208974657236994",
+          "start": 0,
+          "username": "cishengbuxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086587891799732566",
+    "in_reply_to_user_id": "1423208974657236994",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086547427243552903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cishengbuxi 笑死我了，好的～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2086547427243552903",
+        "created_at": "2026-08-09T22:58:14.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T23:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086587891799732566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1423208974657236994",
+              "start": 0,
+              "username": "cishengbuxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086587891799732566",
+        "in_reply_to_user_id": "1423208974657236994",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086547427243552903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cishengbuxi 笑死我了，好的～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423208974657236994",
+        "conversation_id": "2086547427243552903",
+        "created_at": "2026-08-09T20:17:27.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T21:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086547427243552903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086547427243552903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好了我以后胡说八道时的互联网人设就是男娘了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2086587891799732566",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8467,
+          "following_count": 1286,
+          "like_count": 68626,
+          "listed_count": 8,
+          "media_count": 3138,
+          "tweet_count": 19511
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-05T09:07:54.000Z",
+        "description": "我就不写简介\n\n新提问箱 https://t.co/d72sYL6kWu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cishengbuxi2",
+                "end": 36,
+                "expanded_url": "http://ngl.link/cishengbuxi2",
+                "start": 13,
+                "url": "https://t.co/d72sYL6kWu"
+              }
+            ]
+          }
+        },
+        "id": "1423208974657236994",
+        "is_identity_verified": false,
+        "location": "∞km",
+        "most_recent_tweet_id": "2086562330280882337",
+        "name": "及生",
+        "pinned_tweet_id": "1870660466034524335",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1423208974657236994/1628157681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423222145467879426/byvKnvYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 927,
+          "like_count": 15062,
+          "listed_count": 5,
+          "media_count": 387,
+          "tweet_count": 13027
+        },
+        "url": "",
+        "username": "cishengbuxi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

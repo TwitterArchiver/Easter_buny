@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2083150552519844064",
+    "created_at": "2026-08-01T08:51:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T09:51:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083475790474494419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1423208974657236994",
+          "start": 0,
+          "username": "cishengbuxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083475790474494419",
+    "in_reply_to_user_id": "1423208974657236994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083150552519844064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cishengbuxi 蚂蚁不在，人：无蚂蚁！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 821,
+        "media_key": "3_2083150545850867712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjWYmsaIAAL5bU.jpg",
+        "width": 887
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2083150552519844064",
+        "created_at": "2026-08-01T08:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083475790474494419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1423208974657236994",
+              "start": 0,
+              "username": "cishengbuxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083475790474494419",
+        "in_reply_to_user_id": "1423208974657236994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083150552519844064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cishengbuxi 蚂蚁不在，人：无蚂蚁！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083150545850867712"
+          ]
+        },
+        "author_id": "1423208974657236994",
+        "conversation_id": "2083150552519844064",
+        "created_at": "2026-07-31T11:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083150552519844064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Dz4OdGHHC",
+              "end": 31,
+              "expanded_url": "https://x.com/cishengbuxi/status/2083150552519844064/photo/1",
+              "media_key": "3_2083150545850867712",
+              "start": 8,
+              "url": "https://t.co/9Dz4OdGHHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083150552519844064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一点谐音梗笑话 https://t.co/9Dz4OdGHHC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8465,
+          "following_count": 1272,
+          "like_count": 68054,
+          "listed_count": 8,
+          "media_count": 3111,
+          "tweet_count": 19363
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-05T09:07:54.000Z",
+        "description": "我就不写简介\n\n新提问箱 https://t.co/d72sYL6kWu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cishengbuxi2",
+                "end": 36,
+                "expanded_url": "http://ngl.link/cishengbuxi2",
+                "start": 13,
+                "url": "https://t.co/d72sYL6kWu"
+              }
+            ]
+          }
+        },
+        "id": "1423208974657236994",
+        "location": "∞km",
+        "name": "及生",
+        "pinned_tweet_id": "1870660466034524335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423222145467879426/byvKnvYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 919,
+          "like_count": 14660,
+          "listed_count": 5,
+          "media_count": 339,
+          "tweet_count": 12501
+        },
+        "url": "",
+        "username": "cishengbuxi",
+        "verified": false
+      }
+    ]
+  }
+}

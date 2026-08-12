@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084806751472570368"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "conversation_id": "2084806792589255082",
+    "created_at": "2026-08-05T01:00:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T02:00:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084806792589255082"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S2msIjV63J",
+          "end": 34,
+          "expanded_url": "https://x.com/Easter_buny/status/2084806792589255082/video/1",
+          "media_key": "13_2084806751472570368",
+          "start": 11,
+          "url": "https://t.co/S2msIjV63J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084806792589255082",
+    "lang": "nl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "fav drug＜3 https://t.co/S2msIjV63J"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9521,
+        "height": 720,
+        "media_key": "13_2084806751472570368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084806751472570368/img/bM5KQqwSuuBJDm2c.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084806751472570368/vid/avc1/480x270/brsYc7dsBmHAqnSo.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084806751472570368/vid/avc1/640x360/MCTizFxI_VwGEVCK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084806751472570368/vid/avc1/1280x720/EbK57SLcscr_gXX0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084806751472570368/pl/_iqlXcU3x2gLzEGJ.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084806751472570368"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2084806792589255082",
+        "created_at": "2026-08-05T01:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T02:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084806792589255082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S2msIjV63J",
+              "end": 34,
+              "expanded_url": "https://x.com/Easter_buny/status/2084806792589255082/video/1",
+              "media_key": "13_2084806751472570368",
+              "start": 11,
+              "url": "https://t.co/S2msIjV63J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084806792589255082",
+        "lang": "nl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "fav drug＜3 https://t.co/S2msIjV63J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8485,
+          "following_count": 1294,
+          "like_count": 68347,
+          "listed_count": 8,
+          "media_count": 3122,
+          "tweet_count": 19427
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      }
+    ]
+  }
+}

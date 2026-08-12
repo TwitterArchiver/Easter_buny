@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083559869987360768"
+      ],
+      "media_source_tweet_id": [
+        "2083559891931914566"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "conversation_id": "2083806821912117486",
+    "created_at": "2026-08-02T06:47:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T07:47:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083806821912117486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1791295407978696704",
+          "start": 3,
+          "username": "qkgpso4tQw85289"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t6AXWwRSkP",
+          "end": 63,
+          "expanded_url": "https://x.com/qkgpso4tQw85289/status/2083559891931914566/video/1",
+          "media_key": "13_2083559869987360768",
+          "start": 40,
+          "url": "https://t.co/t6AXWwRSkP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083806821912117486",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 559
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083559891931914566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qkgpso4tQw85289: お留守番カメラ\n\n何やら警戒してる🐰 https://t.co/t6AXWwRSkP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37000,
+        "height": 1080,
+        "media_key": "13_2083559869987360768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083559869987360768/img/nHltibn_EleTocdR.jpg",
+        "public_metrics": {
+          "view_count": 23462
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083559869987360768/vid/avc1/1920x1080/tTKLkwWczTUyuw8L.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083559869987360768/vid/avc1/1280x720/BIyEOUHqMgLGscMs.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083559869987360768/vid/avc1/640x360/FzorFN_1bw6-Qlg4.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083559869987360768/vid/avc1/480x270/5s7ivX5xzbS3CMKT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083559869987360768/pl/2Uh-_jedXSh79nZe.m3u8?v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083559869987360768"
+          ]
+        },
+        "author_id": "1791295407978696704",
+        "conversation_id": "2083559891931914566",
+        "created_at": "2026-08-01T14:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083559891931914566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t6AXWwRSkP",
+              "end": 42,
+              "expanded_url": "https://x.com/qkgpso4tQw85289/status/2083559891931914566/video/1",
+              "media_key": "13_2083559869987360768",
+              "start": 19,
+              "url": "https://t.co/t6AXWwRSkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083559891931914566",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 489,
+          "impression_count": 57610,
+          "like_count": 4037,
+          "quote_count": 27,
+          "reply_count": 9,
+          "retweet_count": 559
+        },
+        "reply_settings": "everyone",
+        "text": "お留守番カメラ\n\n何やら警戒してる🐰 https://t.co/t6AXWwRSkP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083559869987360768"
+          ],
+          "media_source_tweet_id": [
+            "2083559891931914566"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2083806821912117486",
+        "created_at": "2026-08-02T06:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083806821912117486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1791295407978696704",
+              "start": 3,
+              "username": "qkgpso4tQw85289"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t6AXWwRSkP",
+              "end": 63,
+              "expanded_url": "https://x.com/qkgpso4tQw85289/status/2083559891931914566/video/1",
+              "media_key": "13_2083559869987360768",
+              "start": 40,
+              "url": "https://t.co/t6AXWwRSkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083806821912117486",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 559
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083559891931914566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qkgpso4tQw85289: お留守番カメラ\n\n何やら警戒してる🐰 https://t.co/t6AXWwRSkP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8480,
+          "following_count": 1277,
+          "like_count": 68136,
+          "listed_count": 8,
+          "media_count": 3112,
+          "tweet_count": 19376
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T02:32:21.000Z",
+        "description": "ネザーランドドワーフの女の子🐰♀️名前はゴンちゃん💛\nめだか、観葉植物🪴、アガベ、塊根植物、サボテン🌵など。\n収集癖があります\n投資、QYLD. JEPQ. QQQI 個別はPLTR、毎日スクワット、ウォーキング、アコースティックギター",
+        "id": "1791295407978696704",
+        "name": "ゴンちゃんのお部屋",
+        "pinned_tweet_id": "2078653209112154184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959781619583401984/xGjWfYW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12831,
+          "following_count": 7900,
+          "like_count": 78059,
+          "listed_count": 48,
+          "media_count": 6626,
+          "tweet_count": 59785
+        },
+        "url": "",
+        "username": "qkgpso4tQw85289",
+        "verified": true
+      }
+    ]
+  }
+}

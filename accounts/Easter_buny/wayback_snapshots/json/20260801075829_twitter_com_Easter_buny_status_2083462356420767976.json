@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2083462356420767976",
+    "created_at": "2026-08-01T07:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T08:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083462356420767976"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bunnylover6544…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/bunnylover65441/status/2083098084435968107",
+          "start": 19,
+          "url": "https://t.co/bCKr9gGXGU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083462356420767976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083098084435968107",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "兔子就是这样，莫名其妙的就转圈圈跳跳 https://t.co/bCKr9gGXGU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4969,
+        "height": 998,
+        "media_key": "13_2083098052940963840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083098052940963840/img/rghQmLjw8wPoACr0.jpg",
+        "public_metrics": {
+          "view_count": 19251
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083098052940963840/vid/avc1/720x720/3s_wiy9IC_NFB5uZ.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083098052940963840/vid/avc1/320x320/DflJ7B7vTmcjx5Lj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083098052940963840/pl/L0C9bQdntxb5BbP4.m3u8"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083098052940963840/vid/avc1/998x998/MtwSv9gr18sBbXxc.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083098052940963840/vid/avc1/540x540/Xo_AfHeaIEzJKm02.mp4"
+          }
+        ],
+        "width": 998
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2083462356420767976",
+        "created_at": "2026-08-01T07:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083462356420767976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bunnylover6544…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/bunnylover65441/status/2083098084435968107",
+              "start": 19,
+              "url": "https://t.co/bCKr9gGXGU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083462356420767976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083098084435968107",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "兔子就是这样，莫名其妙的就转圈圈跳跳 https://t.co/bCKr9gGXGU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083098052940963840"
+          ]
+        },
+        "author_id": "2039605136482332672",
+        "conversation_id": "2083098084435968107",
+        "created_at": "2026-07-31T07:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083098084435968107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GuSj9lQtme",
+              "end": 23,
+              "expanded_url": "https://x.com/Bunnylover65441/status/2083098084435968107/video/1",
+              "media_key": "13_2083098052940963840",
+              "start": 0,
+              "url": "https://t.co/GuSj9lQtme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083098084435968107",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 451,
+          "impression_count": 56218,
+          "like_count": 3749,
+          "quote_count": 27,
+          "reply_count": 0,
+          "retweet_count": 529
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GuSj9lQtme"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8465,
+          "following_count": 1271,
+          "like_count": 68032,
+          "listed_count": 8,
+          "media_count": 3111,
+          "tweet_count": 19359
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T07:25:53.000Z",
+        "description": "Hopping into your timeline with love 💕🐰",
+        "id": "2039605136482332672",
+        "name": "Bunnylover",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040026227378126848/c9uGbUjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3103,
+          "following_count": 1519,
+          "like_count": 1686,
+          "listed_count": 9,
+          "media_count": 1382,
+          "tweet_count": 1886
+        },
+        "url": "",
+        "username": "Bunnylover65441",
+        "verified": true
+      }
+    ]
+  }
+}

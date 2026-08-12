@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2085012893658165324",
+    "created_at": "2026-08-05T20:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T21:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085105556801618286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1423208974657236994",
+          "start": 0,
+          "username": "cishengbuxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085105556801618286",
+    "in_reply_to_user_id": "1423208974657236994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085102212863463508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cishengbuxi 等到冬天就又白回来（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2085012893658165324",
+        "created_at": "2026-08-05T20:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085105556801618286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1423208974657236994",
+              "start": 0,
+              "username": "cishengbuxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085105556801618286",
+        "in_reply_to_user_id": "1423208974657236994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085102212863463508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cishengbuxi 等到冬天就又白回来（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423208974657236994",
+        "conversation_id": "2085012893658165324",
+        "created_at": "2026-08-05T20:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085102212863463508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085102212863463508",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085101482303779131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 如此显而易见的理由"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8487,
+          "following_count": 1292,
+          "like_count": 68394,
+          "listed_count": 8,
+          "media_count": 3126,
+          "tweet_count": 19444
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-05T09:07:54.000Z",
+        "description": "我就不写简介\n\n新提问箱 https://t.co/d72sYL6kWu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cishengbuxi2",
+                "end": 36,
+                "expanded_url": "http://ngl.link/cishengbuxi2",
+                "start": 13,
+                "url": "https://t.co/d72sYL6kWu"
+              }
+            ]
+          }
+        },
+        "id": "1423208974657236994",
+        "location": "∞km",
+        "name": "及生",
+        "pinned_tweet_id": "1870660466034524335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423222145467879426/byvKnvYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 927,
+          "like_count": 14915,
+          "listed_count": 5,
+          "media_count": 365,
+          "tweet_count": 12786
+        },
+        "url": "",
+        "username": "cishengbuxi",
+        "verified": false
+      }
+    ]
+  }
+}

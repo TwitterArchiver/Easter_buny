@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083114129649475584"
+      ],
+      "media_source_tweet_id": [
+        "2083114149337555006"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "conversation_id": "2083826183389794518",
+    "created_at": "2026-08-02T08:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T09:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083826183389794518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2066164606213795840",
+          "start": 3,
+          "username": "HelloLLQuQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qPK0ws26nz",
+          "end": 44,
+          "expanded_url": "https://x.com/HelloLLQuQ/status/2083114149337555006/photo/1",
+          "media_key": "3_2083114129649475584",
+          "start": 21,
+          "url": "https://t.co/qPK0ws26nz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083826183389794518",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083114149337555006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HelloLLQuQ: 尼古女孩 https://t.co/qPK0ws26nz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083114129649475584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOi1Q5xaoAAkOQb.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083114129649475584"
+          ]
+        },
+        "author_id": "2066164606213795840",
+        "conversation_id": "2083114149337555006",
+        "created_at": "2026-07-31T08:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083114149337555006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qPK0ws26nz",
+              "end": 28,
+              "expanded_url": "https://x.com/HelloLLQuQ/status/2083114149337555006/photo/1",
+              "media_key": "3_2083114129649475584",
+              "start": 5,
+              "url": "https://t.co/qPK0ws26nz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083114149337555006",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "尼古女孩 https://t.co/qPK0ws26nz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083114129649475584"
+          ],
+          "media_source_tweet_id": [
+            "2083114149337555006"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2083826183389794518",
+        "created_at": "2026-08-02T08:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083826183389794518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2066164606213795840",
+              "start": 3,
+              "username": "HelloLLQuQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qPK0ws26nz",
+              "end": 44,
+              "expanded_url": "https://x.com/HelloLLQuQ/status/2083114149337555006/photo/1",
+              "media_key": "3_2083114129649475584",
+              "start": 21,
+              "url": "https://t.co/qPK0ws26nz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083826183389794518",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083114149337555006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HelloLLQuQ: 尼古女孩 https://t.co/qPK0ws26nz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8481,
+          "following_count": 1278,
+          "like_count": 68138,
+          "listed_count": 8,
+          "media_count": 3112,
+          "tweet_count": 19378
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T14:31:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/73AamQYIbZG",
+                "end": 23,
+                "expanded_url": "https://xhslink.com/m/73AamQYIbZG",
+                "start": 0,
+                "url": "https://t.co/2McKGqqrDj"
+              }
+            ]
+          }
+        },
+        "id": "2066164606213795840",
+        "location": "天国",
+        "name": "网络人机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083114299472687104/B2x4dY6F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 46,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 17
+        },
+        "url": "https://t.co/2McKGqqrDj",
+        "username": "HelloLLQuQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2085708462626075133",
+    "created_at": "2026-08-07T13:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T14:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085716342184018326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1897907755446681603",
+          "start": 0,
+          "username": "weirdfisheeees"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085716342184018326",
+    "in_reply_to_user_id": "1897907755446681603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085715008303124870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weirdfisheeees 我前段时间刚刚开始的时候，腱鞘炎痛了两个月，后来又吃了一个月的止痛药🫠"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2085715008303124870].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2085715008303124870",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2085715008303124870"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2085708462626075133",
+        "created_at": "2026-08-07T13:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085716342184018326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1897907755446681603",
+              "start": 0,
+              "username": "weirdfisheeees"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085716342184018326",
+        "in_reply_to_user_id": "1897907755446681603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085715008303124870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weirdfisheeees 我前段时间刚刚开始的时候，腱鞘炎痛了两个月，后来又吃了一个月的止痛药🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8485,
+          "following_count": 1291,
+          "like_count": 68483,
+          "listed_count": 8,
+          "media_count": 3132,
+          "tweet_count": 19468
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T07:10:52.000Z",
+        "description": "穿过骨头抚摸你\n提问箱https://t.co/BzzSFhObct",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/brohungryasfuck",
+                "end": 34,
+                "expanded_url": "https://confess.ngl.link/brohungryasfuck",
+                "start": 11,
+                "url": "https://t.co/BzzSFhObct"
+              }
+            ]
+          }
+        },
+        "id": "1897907755446681603",
+        "name": "WeirdFish",
+        "pinned_tweet_id": "1897915052055052728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005177601703510023/bzSxGZ18_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 463,
+          "like_count": 25148,
+          "listed_count": 2,
+          "media_count": 609,
+          "tweet_count": 6462
+        },
+        "url": "",
+        "username": "weirdfisheeees",
+        "verified": false
+      }
+    ]
+  }
+}
