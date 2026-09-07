@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2094753070391635968"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "conversation_id": "2094753168127414606",
+    "created_at": "2026-09-01T11:44:08.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T12:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094753168127414606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cSFRZWqmMT",
+          "end": 40,
+          "expanded_url": "https://x.com/Easter_buny/status/2094753168127414606/video/1",
+          "media_key": "13_2094753070391635968",
+          "start": 17,
+          "url": "https://t.co/cSFRZWqmMT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094753168127414606",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2094753070391635968"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "摸摸摸摸摸摸摸摸🫳🏻🫳🏻🫳🏻🫳🏻 https://t.co/cSFRZWqmMT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35165,
+        "height": 720,
+        "media_key": "13_2094753070391635968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094753070391635968/img/mLt3J4hhK2Y5C66S.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094753070391635968/vid/avc1/480x270/SALVynnxykwjGTBb.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094753070391635968/vid/avc1/640x360/hHscyRvgoa2aCpjK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094753070391635968/vid/avc1/1280x720/13Be-kbZvJM0M-5K.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094753070391635968/pl/paUyijjR8j1QcUZr.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094753070391635968"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2094753168127414606",
+        "created_at": "2026-09-01T11:44:08.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094753168127414606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cSFRZWqmMT",
+              "end": 40,
+              "expanded_url": "https://x.com/Easter_buny/status/2094753168127414606/video/1",
+              "media_key": "13_2094753070391635968",
+              "start": 17,
+              "url": "https://t.co/cSFRZWqmMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094753168127414606",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2094753070391635968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "摸摸摸摸摸摸摸摸🫳🏻🫳🏻🫳🏻🫳🏻 https://t.co/cSFRZWqmMT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2094753168127414606",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8697,
+          "following_count": 1288,
+          "like_count": 69700,
+          "listed_count": 9,
+          "media_count": 3155,
+          "tweet_count": 19727
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

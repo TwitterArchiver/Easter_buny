@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2090692571970355256",
+    "created_at": "2026-08-21T11:25:26.000Z",
+    "display_text_range": [
+      15,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T12:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090762196783677702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2064542363595493376",
+          "start": 0,
+          "username": "ToriNoelle003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090762196783677702",
+    "in_reply_to_user_id": "2064542363595493376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090692571970355256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ToriNoelle003 我目前状态已经和阿尔兹海默症接近了，真的时不时掉进回忆，认知反应错误，反应过来已经不知道自己在干嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2090692571970355256",
+        "created_at": "2026-08-21T11:25:26.000Z",
+        "display_text_range": [
+          15,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T12:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090762196783677702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2064542363595493376",
+              "start": 0,
+              "username": "ToriNoelle003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090762196783677702",
+        "in_reply_to_user_id": "2064542363595493376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090692571970355256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ToriNoelle003 我目前状态已经和阿尔兹海默症接近了，真的时不时掉进回忆，认知反应错误，反应过来已经不知道自己在干嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064542363595493376",
+        "conversation_id": "2090692571970355256",
+        "created_at": "2026-08-21T06:48:47.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090692571970355256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090692571970355256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精神病真的會導致大腦萎縮和前額葉受損，年紀小的孩子患病即便青春期結束也會導致大腦功能的上限低於原本該有的水平。例如長期反復抑鬱症會導致大腦萎縮的程度近似於早期阿爾海默症。\n說白了慘圈的大部分人所處的年齡都在發育期間，而長期反復精神病會導致未來也不會有正常的智力。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2090762196783677702",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8668,
+          "following_count": 1278,
+          "like_count": 69217,
+          "listed_count": 8,
+          "media_count": 3158,
+          "tweet_count": 19630
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-10T02:58:59.000Z",
+        "description": "“為遠去的鳥兒獻上革命的花朵。”\n（前世@DKR_World）同類互fo大歡迎！\n🚪52/101",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "DKR_World"
+              }
+            ]
+          }
+        },
+        "id": "2064542363595493376",
+        "is_identity_verified": false,
+        "location": "東京暴動革命支部",
+        "most_recent_tweet_id": "2090741202454978673",
+        "name": "◎東アジア躁鬱革委會",
+        "pinned_tweet_id": "2085343225972244522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2064542363595493376/1783695885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064542992820830208/n5svD8S2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 154,
+          "like_count": 3196,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 433
+        },
+        "url": "",
+        "username": "ToriNoelle003",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

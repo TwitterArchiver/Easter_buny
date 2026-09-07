@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094027721143889920",
+        "3_2094027721148112897"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2094027737191342423",
+    "created_at": "2026-08-30T11:41:32.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T12:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094027737191342423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/R8QrkJAA1m",
+          "end": 82,
+          "expanded_url": "https://x.com/Easter_buny/status/2094027737191342423/photo/1",
+          "media_key": "3_2094027721143889920",
+          "start": 59,
+          "url": "https://t.co/R8QrkJAA1m"
+        },
+        {
+          "display_url": "pic.x.com/R8QrkJAA1m",
+          "end": 82,
+          "expanded_url": "https://x.com/Easter_buny/status/2094027737191342423/photo/1",
+          "media_key": "3_2094027721148112897",
+          "start": 59,
+          "url": "https://t.co/R8QrkJAA1m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094027737191342423",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094027721143889920"
+      },
+      {
+        "media_key": "3_2094027721148112897"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开始尝试低压训练，这个花盆直径有30cm，打了顶，现在是第38天！旁边的因为基因问题，全部都这样了，我的火麻不行了… https://t.co/R8QrkJAA1m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2094027721143889920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ97HiSaMAAT3_t.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2094027721148112897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ97HiTaoAEklLM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094027721143889920",
+            "3_2094027721148112897"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2094027737191342423",
+        "created_at": "2026-08-30T11:41:32.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T12:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094027737191342423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R8QrkJAA1m",
+              "end": 82,
+              "expanded_url": "https://x.com/Easter_buny/status/2094027737191342423/photo/1",
+              "media_key": "3_2094027721143889920",
+              "start": 59,
+              "url": "https://t.co/R8QrkJAA1m"
+            },
+            {
+              "display_url": "pic.x.com/R8QrkJAA1m",
+              "end": 82,
+              "expanded_url": "https://x.com/Easter_buny/status/2094027737191342423/photo/1",
+              "media_key": "3_2094027721148112897",
+              "start": 59,
+              "url": "https://t.co/R8QrkJAA1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094027737191342423",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094027721143889920"
+          },
+          {
+            "media_key": "3_2094027721148112897"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开始尝试低压训练，这个花盆直径有30cm，打了顶，现在是第38天！旁边的因为基因问题，全部都这样了，我的火麻不行了… https://t.co/R8QrkJAA1m"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2094027737191342423",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8680,
+          "following_count": 1286,
+          "like_count": 69623,
+          "listed_count": 9,
+          "media_count": 3152,
+          "tweet_count": 19703
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

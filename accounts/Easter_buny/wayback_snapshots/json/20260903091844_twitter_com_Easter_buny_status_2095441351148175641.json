@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2095380926201315388",
+    "created_at": "2026-09-03T09:18:44.000Z",
+    "display_text_range": [
+      15,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T10:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095441351148175641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757320080604741633",
+          "start": 0,
+          "username": "Hiyallcestmoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095441351148175641",
+    "in_reply_to_user_id": "1757320080604741633",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095380926201315388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiyallcestmoi 好好笑，什么琥珀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2095380926201315388",
+        "created_at": "2026-09-03T09:18:44.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T10:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095441351148175641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757320080604741633",
+              "start": 0,
+              "username": "Hiyallcestmoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095441351148175641",
+        "in_reply_to_user_id": "1757320080604741633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095380926201315388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiyallcestmoi 好好笑，什么琥珀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757320080604741633",
+        "conversation_id": "2095380926201315388",
+        "created_at": "2026-09-03T05:18:37.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T06:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095380926201315388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095380926201315388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美甲师把蚊子封在我指甲里了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2095441351148175641",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8701,
+          "following_count": 1294,
+          "like_count": 69806,
+          "listed_count": 9,
+          "media_count": 3155,
+          "tweet_count": 19744
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-13T08:25:47.000Z",
+        "description": "👽AS小孩 | 🌈彩虹友好 |🍹生活艺术 | 🤮赤石分享 |♀低脂蝈釹 | 🍼幼稚巨婴 |❔持续虚无 | 🥃荣誉健全 | 👻随地抛尸 | 🪷人淡如莲 | enby 酷儿 pansexual | 给我发送匿名消息：https://t.co/mazPCu6XHb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hiyallcestmoi",
+                "end": 129,
+                "expanded_url": "https://ngl.link/hiyallcestmoi",
+                "start": 106,
+                "url": "https://t.co/mazPCu6XHb"
+              }
+            ]
+          }
+        },
+        "id": "1757320080604741633",
+        "is_identity_verified": false,
+        "location": "\nℕ𝕠𝕥𝕙𝕚𝕟𝕘𝕧𝕚𝕝𝕝𝕖",
+        "most_recent_tweet_id": "2095380926201315388",
+        "name": "阿溪Kay(重生之在BeverlyHill RodeoDrive飙Pink Convertible）",
+        "pinned_tweet_id": "2021167129974739317",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757320080604741633/1735203469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984426303538544644/6ht9CNJU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 449,
+          "like_count": 3480,
+          "listed_count": 3,
+          "media_count": 589,
+          "tweet_count": 4101
+        },
+        "url": "",
+        "username": "Hiyallcestmoi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

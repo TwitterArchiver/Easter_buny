@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092579852318875648",
+        "3_2092579852318908416",
+        "3_2092579852314722304"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2092579871344275739",
+    "created_at": "2026-08-26T11:48:14.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T12:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092579871344275739"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G1p1Uhzivq",
+          "end": 102,
+          "expanded_url": "https://x.com/Easter_buny/status/2092579871344275739/photo/1",
+          "media_key": "3_2092579852318875648",
+          "start": 79,
+          "url": "https://t.co/G1p1Uhzivq"
+        },
+        {
+          "display_url": "pic.x.com/G1p1Uhzivq",
+          "end": 102,
+          "expanded_url": "https://x.com/Easter_buny/status/2092579871344275739/photo/1",
+          "media_key": "3_2092579852318908416",
+          "start": 79,
+          "url": "https://t.co/G1p1Uhzivq"
+        },
+        {
+          "display_url": "pic.x.com/G1p1Uhzivq",
+          "end": 102,
+          "expanded_url": "https://x.com/Easter_buny/status/2092579871344275739/photo/1",
+          "media_key": "3_2092579852314722304",
+          "start": 79,
+          "url": "https://t.co/G1p1Uhzivq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092579871344275739",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092579852318875648"
+      },
+      {
+        "media_key": "3_2092579852318908416"
+      },
+      {
+        "media_key": "3_2092579852314722304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每天就喜欢搬个小板凳坐在边上玩手机，静静欣赏，好好玩，这是一千块以内最好的玩具！说真的，这些东西加起来差不多一千多出头，包括设备架子什么的，因为架子是手搓的 https://t.co/G1p1Uhzivq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092579852318875648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpWSembIAA_aPp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2092579852318908416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpWSemboAAHWWw.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092579852314722304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpWSelbwAApjGD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092579852318875648",
+            "3_2092579852318908416",
+            "3_2092579852314722304"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092579871344275739",
+        "created_at": "2026-08-26T11:48:14.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092579871344275739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G1p1Uhzivq",
+              "end": 102,
+              "expanded_url": "https://x.com/Easter_buny/status/2092579871344275739/photo/1",
+              "media_key": "3_2092579852318875648",
+              "start": 79,
+              "url": "https://t.co/G1p1Uhzivq"
+            },
+            {
+              "display_url": "pic.x.com/G1p1Uhzivq",
+              "end": 102,
+              "expanded_url": "https://x.com/Easter_buny/status/2092579871344275739/photo/1",
+              "media_key": "3_2092579852318908416",
+              "start": 79,
+              "url": "https://t.co/G1p1Uhzivq"
+            },
+            {
+              "display_url": "pic.x.com/G1p1Uhzivq",
+              "end": 102,
+              "expanded_url": "https://x.com/Easter_buny/status/2092579871344275739/photo/1",
+              "media_key": "3_2092579852314722304",
+              "start": 79,
+              "url": "https://t.co/G1p1Uhzivq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092579871344275739",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092579852318875648"
+          },
+          {
+            "media_key": "3_2092579852318908416"
+          },
+          {
+            "media_key": "3_2092579852314722304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天就喜欢搬个小板凳坐在边上玩手机，静静欣赏，好好玩，这是一千块以内最好的玩具！说真的，这些东西加起来差不多一千多出头，包括设备架子什么的，因为架子是手搓的 https://t.co/G1p1Uhzivq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2092579871344275739",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8680,
+          "following_count": 1283,
+          "like_count": 69381,
+          "listed_count": 9,
+          "media_count": 3143,
+          "tweet_count": 19643
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

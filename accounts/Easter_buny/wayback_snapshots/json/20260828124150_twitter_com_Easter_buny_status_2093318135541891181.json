@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2093318135541891181",
+    "created_at": "2026-08-28T12:41:50.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T13:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093318135541891181"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/__amourcries/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/__amourcries/status/2092720158707970114",
+          "start": 8,
+          "url": "https://t.co/zcMQLoqAv8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093318135541891181",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092720158707970114",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好狂野的文字… https://t.co/zcMQLoqAv8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2093318135541891181",
+        "created_at": "2026-08-28T12:41:50.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T13:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093318135541891181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__amourcries/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/__amourcries/status/2092720158707970114",
+              "start": 8,
+              "url": "https://t.co/zcMQLoqAv8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093318135541891181",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092720158707970114",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好狂野的文字… https://t.co/zcMQLoqAv8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957541526130638850",
+        "conversation_id": "2092720158707970114",
+        "created_at": "2026-08-26T21:05:41.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T22:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092720158707970114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092720158707970114",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2457,
+          "impression_count": 978847,
+          "like_count": 43437,
+          "quote_count": 759,
+          "reply_count": 278,
+          "retweet_count": 4655
+        },
+        "reply_settings": "everyone",
+        "text": "me bloqueou com os mesmos dedos que enfiou na minha buceta"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2093318135541891181",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8677,
+          "following_count": 1286,
+          "like_count": 69555,
+          "listed_count": 9,
+          "media_count": 3149,
+          "tweet_count": 19673
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-18T20:34:17.000Z",
+        "description": "ㅤ",
+        "id": "1957541526130638850",
+        "is_identity_verified": false,
+        "location": "NSFW || NÃO MANDO FOTO",
+        "most_recent_tweet_id": "2093117368377413960",
+        "name": "𝒜𝓃𝑔ℯ𝓁 ꨄ︎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957541526130638850/1776901759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075064975375089664/rDCtKQ4L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2539,
+          "following_count": 144,
+          "like_count": 3600,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1004
+        },
+        "url": "",
+        "username": "__amourcries",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2095033455125868679",
+    "created_at": "2026-09-03T08:49:12.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T09:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095433918795436093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1991971365600301056",
+          "start": 0,
+          "username": "yuan_litongku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095433918795436093",
+    "in_reply_to_user_id": "1991971365600301056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095033455125868679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuan_litongku 好好笑这个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095033444359114753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMN0VOWkAEztlo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2095033455125868679",
+        "created_at": "2026-09-03T08:49:12.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T09:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095433918795436093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1991971365600301056",
+              "start": 0,
+              "username": "yuan_litongku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095433918795436093",
+        "in_reply_to_user_id": "1991971365600301056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095033455125868679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuan_litongku 好好笑这个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095033444359114753"
+          ]
+        },
+        "author_id": "1991971365600301056",
+        "conversation_id": "2095033455125868679",
+        "created_at": "2026-09-02T06:17:54.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T07:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095033455125868679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nR6g2qqNZ0",
+              "end": 39,
+              "expanded_url": "https://x.com/yuan_litongku/status/2095033455125868679/photo/1",
+              "media_key": "3_2095033444359114753",
+              "start": 16,
+              "url": "https://t.co/nR6g2qqNZ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095033455125868679",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095033444359114753"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1373,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一般丑的我不买，特别丑的我必买 https://t.co/nR6g2qqNZ0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2095433918795436093",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8701,
+          "following_count": 1294,
+          "like_count": 69781,
+          "listed_count": 9,
+          "media_count": 3155,
+          "tweet_count": 19743
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T20:46:15.000Z",
+        "description": "我只是来宣泄负能量的｜https://t.co/kTK1DpEqov 👈提问｜止于推",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuan_litongku",
+                "end": 34,
+                "expanded_url": "https://ngl.link/yuan_litongku",
+                "start": 11,
+                "url": "https://t.co/kTK1DpEqov"
+              }
+            ]
+          }
+        },
+        "id": "1991971365600301056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095424244339327117",
+        "name": "我想好好吃饭",
+        "pinned_tweet_id": "2085314513310470215",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991971365600301056/1763758330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991972070402801664/UNoGZxMx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3796,
+          "following_count": 49,
+          "like_count": 514,
+          "listed_count": 13,
+          "media_count": 168,
+          "tweet_count": 1092
+        },
+        "url": "",
+        "username": "yuan_litongku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

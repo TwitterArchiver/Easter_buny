@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088224855007404032",
+        "3_2088224854999011329"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "conversation_id": "2088224866285826122",
+    "created_at": "2026-08-14T11:23:00.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T12:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088224866285826122"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CiU3IYZlYv",
+          "end": 94,
+          "expanded_url": "https://x.com/Easter_buny/status/2088224866285826122/photo/1",
+          "media_key": "3_2088224855007404032",
+          "start": 71,
+          "url": "https://t.co/CiU3IYZlYv"
+        },
+        {
+          "display_url": "pic.x.com/CiU3IYZlYv",
+          "end": 94,
+          "expanded_url": "https://x.com/Easter_buny/status/2088224866285826122/photo/1",
+          "media_key": "3_2088224854999011329",
+          "start": 71,
+          "url": "https://t.co/CiU3IYZlYv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088224866285826122",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2088224855007404032"
+      },
+      {
+        "media_key": "3_2088224854999011329"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "I feel like my life lately has been like a movie, and I'm the bad guy？ https://t.co/CiU3IYZlYv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1017,
+        "media_key": "3_2088224855007404032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrdcRXboAAdnFF.jpg",
+        "width": 986
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2088224854999011329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrdcRVbkAEBT_w.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088224855007404032",
+            "3_2088224854999011329"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2088224866285826122",
+        "created_at": "2026-08-14T11:23:00.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088224866285826122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CiU3IYZlYv",
+              "end": 94,
+              "expanded_url": "https://x.com/Easter_buny/status/2088224866285826122/photo/1",
+              "media_key": "3_2088224855007404032",
+              "start": 71,
+              "url": "https://t.co/CiU3IYZlYv"
+            },
+            {
+              "display_url": "pic.x.com/CiU3IYZlYv",
+              "end": 94,
+              "expanded_url": "https://x.com/Easter_buny/status/2088224866285826122/photo/1",
+              "media_key": "3_2088224854999011329",
+              "start": 71,
+              "url": "https://t.co/CiU3IYZlYv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088224866285826122",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088224855007404032"
+          },
+          {
+            "media_key": "3_2088224854999011329"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I feel like my life lately has been like a movie, and I'm the bad guy？ https://t.co/CiU3IYZlYv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2088224866285826122",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8448,
+          "following_count": 1284,
+          "like_count": 68907,
+          "listed_count": 8,
+          "media_count": 3151,
+          "tweet_count": 19549
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

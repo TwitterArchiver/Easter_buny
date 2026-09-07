@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2094403365895880732",
+    "created_at": "2026-09-01T05:16:29.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T06:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094655610457559325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1618196891887611906",
+          "start": 0,
+          "username": "kayoko_0619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094655610457559325",
+    "in_reply_to_user_id": "1618196891887611906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094651166332514443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kayoko_0619 有一部分人确实是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2094403365895880732",
+        "created_at": "2026-09-01T05:16:29.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T06:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094655610457559325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1618196891887611906",
+              "start": 0,
+              "username": "kayoko_0619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094655610457559325",
+        "in_reply_to_user_id": "1618196891887611906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094651166332514443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kayoko_0619 有一部分人确实是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618196891887611906",
+        "conversation_id": "2094403365895880732",
+        "created_at": "2026-09-01T04:58:49.000Z",
+        "display_text_range": [
+          13,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094651166332514443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094651166332514443",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094403365895880732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 感觉像轮盘赌可以用“或然率自杀”来形容…至少自己是抱着“万一死了呢”或者“万一能活呢”的心理反复这么做的，每次醒来都解脱一次又失望一次"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2094655610457559325",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8697,
+          "following_count": 1288,
+          "like_count": 69681,
+          "listed_count": 9,
+          "media_count": 3152,
+          "tweet_count": 19719
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-25T10:39:49.000Z",
+        "description": "derealization",
+        "id": "1618196891887611906",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094651166332514443",
+        "name": "kayoko♪",
+        "pinned_tweet_id": "2064935702027247943",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1618196891887611906/1674711554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656986784062922752/QMtPLjjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 127,
+          "like_count": 2813,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 812
+        },
+        "url": "",
+        "username": "kayoko_0619",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

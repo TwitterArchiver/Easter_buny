@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094358773062369280"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "conversation_id": "2094358785326559621",
+    "created_at": "2026-08-31T09:37:00.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T10:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094358785326559621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3iMPMKIwDA",
+          "end": 71,
+          "expanded_url": "https://x.com/Easter_buny/status/2094358785326559621/photo/1",
+          "media_key": "3_2094358773062369280",
+          "start": 48,
+          "url": "https://t.co/3iMPMKIwDA"
+        },
+        {
+          "display_url": "x.com/nana_naiiiiiii…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/nana_naiiiiiii/status/2073063415334253024",
+          "start": 72,
+          "url": "https://t.co/bPQrjrIVDW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094358785326559621",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094358773062369280"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073063415334253024",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥹你在那边一定要开心噢，不然我会难过的，对不起还是没有去买你喜欢的中南海，先拿这个凑合凑合啦！ https://t.co/3iMPMKIwDA https://t.co/bPQrjrIVDW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094358773062369280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCoNSybAAArcYF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094358773062369280"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2094358785326559621",
+        "created_at": "2026-08-31T09:37:00.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T10:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094358785326559621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3iMPMKIwDA",
+              "end": 71,
+              "expanded_url": "https://x.com/Easter_buny/status/2094358785326559621/photo/1",
+              "media_key": "3_2094358773062369280",
+              "start": 48,
+              "url": "https://t.co/3iMPMKIwDA"
+            },
+            {
+              "display_url": "x.com/nana_naiiiiiii…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/nana_naiiiiiii/status/2073063415334253024",
+              "start": 72,
+              "url": "https://t.co/bPQrjrIVDW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094358785326559621",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094358773062369280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073063415334253024",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥹你在那边一定要开心噢，不然我会难过的，对不起还是没有去买你喜欢的中南海，先拿这个凑合凑合啦！ https://t.co/3iMPMKIwDA https://t.co/bPQrjrIVDW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2073063415334253024",
+        "created_at": "2026-07-03T15:16:48.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073063415334253024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073063415334253024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5568,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奈奈爱你们 开心就好幸福就好平安就好"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2094358785326559621",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8679,
+          "following_count": 1286,
+          "like_count": 69660,
+          "listed_count": 9,
+          "media_count": 3153,
+          "tweet_count": 19713
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "对不起\n我爱你",
+        "id": "1993150970705199108",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2083509798104887575",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1993150970705199108/1776585751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2305,
+          "following_count": 297,
+          "like_count": 24324,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 1888
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2092771789084790855",
+    "created_at": "2026-08-27T00:30:50.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T01:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092771789084790855"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1965chich/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/1965chich/status/2092603493165207564",
+          "start": 19,
+          "url": "https://t.co/ZasPzCuOxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092771789084790855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092603493165207564",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "前半段纯情小楚南，后半段：妈的死出生 https://t.co/ZasPzCuOxz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2092771789084790855",
+        "created_at": "2026-08-27T00:30:50.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T01:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092771789084790855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1965chich/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/1965chich/status/2092603493165207564",
+              "start": 19,
+              "url": "https://t.co/ZasPzCuOxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092771789084790855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092603493165207564",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前半段纯情小楚南，后半段：妈的死出生 https://t.co/ZasPzCuOxz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703762928",
+        "conversation_id": "2092603493165207564",
+        "created_at": "2026-08-26T13:22:06.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092603493165207564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092603493165207564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 91561,
+          "like_count": 1677,
+          "quote_count": 13,
+          "reply_count": 374,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "平常都是抱着他睡的，昨天因为太热了，没有抱他，我转过去睡的，睡到半夜发现他在偷偷哭，我当时心疼死了，问他怎么了，他说我不爱他了，也不抱着他睡了，说我腻了，那一刻，我真的好爱他\n今天分手了，其实是他找前女友复合，前女友没同意，所以哭了，正好被我发现他在哭编了这个理由"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2092771789084790855",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8684,
+          "following_count": 1285,
+          "like_count": 69410,
+          "listed_count": 9,
+          "media_count": 3143,
+          "tweet_count": 19646
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-08-27T05:20:31.000Z",
+        "description": "🇨🇳爱中国 145/44kg 欢迎来到互联网上的大王KFC的内心世界 非跨/不会尊重人的关小黑屋/敌蜜@akui1121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "akui1121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://4399.com",
+                "start": 0,
+                "url": "https://t.co/pdROfRxwRx"
+              }
+            ]
+          }
+        },
+        "id": "1703762928",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2092646798548746557",
+        "name": "Kentucky Fried Chicken",
+        "pinned_tweet_id": "1943737094880604528",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1703762928/1737315994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036915004172296192/eM928-u__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9446,
+          "following_count": 1271,
+          "like_count": 28379,
+          "listed_count": 11,
+          "media_count": 427,
+          "tweet_count": 9246
+        },
+        "url": "https://t.co/pdROfRxwRx",
+        "username": "1965chich",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
