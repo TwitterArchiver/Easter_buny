@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2103211261593088143",
+    "created_at": "2026-09-25T01:20:27.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T02:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103293520002040129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1755664020944941056",
+          "start": 0,
+          "username": "Korewoizontoyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103293520002040129",
+    "in_reply_to_user_id": "1755664020944941056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103211261593088143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Korewoizontoyo 哇哦，99"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103211252801732608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTAbfbraAAALcQ3.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2103211261593088143",
+        "created_at": "2026-09-25T01:20:27.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T02:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103293520002040129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1755664020944941056",
+              "start": 0,
+              "username": "Korewoizontoyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103293520002040129",
+        "in_reply_to_user_id": "1755664020944941056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103211261593088143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Korewoizontoyo 哇哦，99"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103211252801732608"
+          ]
+        },
+        "author_id": "1755664020944941056",
+        "conversation_id": "2103211261593088143",
+        "created_at": "2026-09-24T19:53:35.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T20:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103211261593088143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4jWSynDGVX",
+              "end": 31,
+              "expanded_url": "https://x.com/Korewoizontoyo/status/2103211261593088143/photo/1",
+              "media_key": "3_2103211252801732608",
+              "start": 8,
+              "url": "https://t.co/4jWSynDGVX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103211261593088143",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103211252801732608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跑路去广西了😭 https://t.co/4jWSynDGVX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2103293520002040129",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8766,
+          "following_count": 1321,
+          "like_count": 70880,
+          "listed_count": 9,
+          "media_count": 3196,
+          "tweet_count": 20040
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T18:45:05.000Z",
+        "description": "恨比天高\n我是渔鸽。ed | od。非二元性别/性别流动 但更希望你称呼我为＇他＇。喜欢模糊性别。撒旦信徒。会查成分回关。\n\n家里那口子@67De_dian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 68,
+                "username": "67De_dian"
+              }
+            ]
+          }
+        },
+        "id": "1755664020944941056",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2103211261593088143",
+        "name": "將眼泪与過往一同埋葬",
+        "pinned_tweet_id": "2075254551624728638",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755664020944941056/1783600638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092246536931655680/D9y_JTTI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 631,
+          "like_count": 6404,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1813
+        },
+        "url": "",
+        "username": "Korewoizontoyo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

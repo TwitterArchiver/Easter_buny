@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2043232770085056545",
+    "created_at": "2026-09-23T05:29:40.000Z",
+    "display_text_range": [
+      11,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T06:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102631463632191887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1431725991743959048",
+          "start": 0,
+          "username": "Aa1389729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102631463632191887",
+    "in_reply_to_user_id": "1431725991743959048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102624947336352197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aa1389729 这个是用特殊方法进入了濒死状态，走马灯了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2043232770085056545",
+        "created_at": "2026-09-23T05:29:40.000Z",
+        "display_text_range": [
+          11,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T06:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102631463632191887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1431725991743959048",
+              "start": 0,
+              "username": "Aa1389729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102631463632191887",
+        "in_reply_to_user_id": "1431725991743959048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102624947336352197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aa1389729 这个是用特殊方法进入了濒死状态，走马灯了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431725991743959048",
+        "conversation_id": "2043232770085056545",
+        "created_at": "2026-09-23T05:03:46.000Z",
+        "display_text_range": [
+          13,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T06:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102624947336352197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Easter_buny/st…",
+              "end": 36,
+              "expanded_url": "https://x.com/Easter_buny/status/1711745046104432817",
+              "start": 13,
+              "url": "https://t.co/TBjBbH5AaO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102624947336352197",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1711745046104432817",
+            "type": "quoted"
+          },
+          {
+            "id": "2043232770085056545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny https://t.co/TBjBbH5AaO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2102631463632191887",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8763,
+          "following_count": 1317,
+          "like_count": 70909,
+          "listed_count": 9,
+          "media_count": 3192,
+          "tweet_count": 20018
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-28T21:10:56.000Z",
+        "description": "寄托在另一个世界相见和实现",
+        "id": "1431725991743959048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102624947336352197",
+        "name": "charKJ",
+        "pinned_tweet_id": "1595432699241848832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1431725991743959048/1747737719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726831831742619648/4G6MfH9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 330,
+          "like_count": 12600,
+          "listed_count": 4,
+          "media_count": 91,
+          "tweet_count": 2968
+        },
+        "url": "",
+        "username": "Aa1389729",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

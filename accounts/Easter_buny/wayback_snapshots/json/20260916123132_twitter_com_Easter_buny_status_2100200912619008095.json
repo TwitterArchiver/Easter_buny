@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2100181805831999952",
+    "created_at": "2026-09-16T12:31:32.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T13:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100200912619008095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2077713332812083200",
+          "start": 0,
+          "username": "fries420cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100200912619008095",
+    "in_reply_to_user_id": "2077713332812083200",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100197949280288907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fries420cn 🤯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2100181805831999952",
+        "created_at": "2026-09-16T12:31:32.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T13:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100200912619008095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077713332812083200",
+              "start": 0,
+              "username": "fries420cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100200912619008095",
+        "in_reply_to_user_id": "2077713332812083200",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100197949280288907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fries420cn 🤯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077713332812083200",
+        "conversation_id": "2100181805831999952",
+        "created_at": "2026-09-16T12:19:45.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T13:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100197949280288907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100197949280288907",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100194239984660649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 右边是进口啊 左边是国产"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2100200912619008095",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8729,
+          "following_count": 1303,
+          "like_count": 70555,
+          "listed_count": 9,
+          "media_count": 3185,
+          "tweet_count": 19941
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-16T11:15:51.000Z",
+        "description": "🌿亚洲大麻合法化·除罪化·医疗用途  \n🍟安全隐私暗网级平台| 🚫未成年勿入  \n\n全匿名社区开发中，想吃根最安全的薯条🍟？关注等上线！",
+        "id": "2077713332812083200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100198844961333422",
+        "name": "薯条🍟(大麻)",
+        "pinned_tweet_id": "2083175269524017656",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077713332812083200/1784541038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079675187579252736/n1no54_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 770,
+          "like_count": 1495,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 296
+        },
+        "url": "",
+        "username": "fries420cn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

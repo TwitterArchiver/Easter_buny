@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2097162818655228403",
+    "created_at": "2026-09-08T15:27:48.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T16:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097346169311838377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1971786415420985350",
+          "start": 0,
+          "username": "mob_luu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097346169311838377",
+    "in_reply_to_user_id": "1971786415420985350",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097278132080484391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mob_luu 会的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2097162818655228403",
+        "created_at": "2026-09-08T15:27:48.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097346169311838377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1971786415420985350",
+              "start": 0,
+              "username": "mob_luu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097346169311838377",
+        "in_reply_to_user_id": "1971786415420985350",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097278132080484391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mob_luu 会的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971786415420985350",
+        "conversation_id": "2097162818655228403",
+        "created_at": "2026-09-08T10:57:26.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T11:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097278132080484391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097278132080484391",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097162818655228403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 我去！会耐受的吗😱😱😱😱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2097346169311838377",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8706,
+          "following_count": 1280,
+          "like_count": 70025,
+          "listed_count": 9,
+          "media_count": 3162,
+          "tweet_count": 19791
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-27T03:58:35.000Z",
+        "description": "🎨&🪢&📷",
+        "id": "1971786415420985350",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097302589738217577",
+        "name": "🍄",
+        "pinned_tweet_id": "2092462441527734685",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971786415420985350/1770616552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020738183626158080/_409gA5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 190,
+          "like_count": 14005,
+          "listed_count": 3,
+          "media_count": 11,
+          "tweet_count": 847
+        },
+        "url": "",
+        "username": "mob_luu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

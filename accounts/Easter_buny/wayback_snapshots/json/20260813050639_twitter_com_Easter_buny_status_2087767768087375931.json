@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087525642963464192"
+      ],
+      "media_source_tweet_id": [
+        "2087525668364206170"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087767768087375931",
+    "created_at": "2026-08-13T05:06:39.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T06:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087767768087375931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1791295407978696704",
+          "start": 3,
+          "username": "qkgpso4tQw85289"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rmObDCrqpC",
+          "end": 58,
+          "expanded_url": "https://x.com/qkgpso4tQw85289/status/2087525668364206170/video/1",
+          "media_key": "13_2087525642963464192",
+          "start": 35,
+          "url": "https://t.co/rmObDCrqpC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087767768087375931",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2087525642963464192"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 281
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087525668364206170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qkgpso4tQw85289: ゴンちゃんニンジンだよー🥕 https://t.co/rmObDCrqpC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26666,
+        "height": 720,
+        "media_key": "13_2087525642963464192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087525642963464192/img/T24JqKAVgcARoIBg.jpg",
+        "public_metrics": {
+          "view_count": 12003
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087525642963464192/vid/avc1/480x270/D8DyE3VEXdosaxSR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087525642963464192/vid/avc1/640x360/qGSNJbKjZUFZJDDf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087525642963464192/vid/avc1/1280x720/l6K34Pra9rooRbHy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087525642963464192/pl/zMHYYujr0gugZgmY.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087525642963464192"
+          ]
+        },
+        "author_id": "1791295407978696704",
+        "conversation_id": "2087525668364206170",
+        "created_at": "2026-08-12T13:04:38.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087525668364206170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rmObDCrqpC",
+              "end": 37,
+              "expanded_url": "https://x.com/qkgpso4tQw85289/status/2087525668364206170/video/1",
+              "media_key": "13_2087525642963464192",
+              "start": 14,
+              "url": "https://t.co/rmObDCrqpC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087525668364206170",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2087525642963464192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 194,
+          "impression_count": 31866,
+          "like_count": 1995,
+          "quote_count": 13,
+          "reply_count": 12,
+          "retweet_count": 281
+        },
+        "reply_settings": "everyone",
+        "text": "ゴンちゃんニンジンだよー🥕 https://t.co/rmObDCrqpC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087525642963464192"
+          ],
+          "media_source_tweet_id": [
+            "2087525668364206170"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087767768087375931",
+        "created_at": "2026-08-13T05:06:39.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T06:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087767768087375931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1791295407978696704",
+              "start": 3,
+              "username": "qkgpso4tQw85289"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rmObDCrqpC",
+              "end": 58,
+              "expanded_url": "https://x.com/qkgpso4tQw85289/status/2087525668364206170/video/1",
+              "media_key": "13_2087525642963464192",
+              "start": 35,
+              "url": "https://t.co/rmObDCrqpC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087767768087375931",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2087525642963464192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 281
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087525668364206170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qkgpso4tQw85289: ゴンちゃんニンジンだよー🥕 https://t.co/rmObDCrqpC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2087767768087375931",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8459,
+          "following_count": 1286,
+          "like_count": 68853,
+          "listed_count": 8,
+          "media_count": 3146,
+          "tweet_count": 19534
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T02:32:21.000Z",
+        "description": "ネザーランドドワーフの女の子🐰♀️名前はゴンちゃん💛\nめだか、観葉植物🪴、アガベ、塊根植物、サボテン🌵など。\n収集癖があります\n投資、QYLD. JEPQ. QQQI 個別はPLTR、毎日スクワット、ウォーキング、アコースティックギター",
+        "id": "1791295407978696704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087761859927789987",
+        "name": "ゴンちゃんのお部屋",
+        "pinned_tweet_id": "2078653209112154184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791295407978696704/1756083325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959781619583401984/xGjWfYW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13187,
+          "following_count": 8230,
+          "like_count": 83082,
+          "listed_count": 50,
+          "media_count": 6929,
+          "tweet_count": 65217
+        },
+        "url": "",
+        "username": "qkgpso4tQw85289",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

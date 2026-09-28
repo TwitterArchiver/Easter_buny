@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2103114189120438465",
+    "created_at": "2026-09-24T14:58:30.000Z",
+    "display_text_range": [
+      16,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T15:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103137004439675351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688182828587171840",
+          "start": 0,
+          "username": "xiaoqi20021218"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103137004439675351",
+    "in_reply_to_user_id": "1688182828587171840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103135202356924755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoqi20021218 反正拿来做巧克力，黑点也无所谓了哈哈哈，这个已经烤过，上次吃起来爽晕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2103114189120438465",
+        "created_at": "2026-09-24T14:58:30.000Z",
+        "display_text_range": [
+          16,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T15:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103137004439675351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688182828587171840",
+              "start": 0,
+              "username": "xiaoqi20021218"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103137004439675351",
+        "in_reply_to_user_id": "1688182828587171840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103135202356924755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi20021218 反正拿来做巧克力，黑点也无所谓了哈哈哈，这个已经烤过，上次吃起来爽晕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688182828587171840",
+        "conversation_id": "2103114189120438465",
+        "created_at": "2026-09-24T14:51:21.000Z",
+        "display_text_range": [
+          13,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T15:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103135202356924755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103135202356924755",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103114189120438465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 蒸干基本是黑的，做bho提出效率高杂质少效果好，不用什么设备"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2103137004439675351",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8764,
+          "following_count": 1320,
+          "like_count": 70970,
+          "listed_count": 9,
+          "media_count": 3196,
+          "tweet_count": 20036
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-06T13:39:01.000Z",
+        "description": "",
+        "id": "1688182828587171840",
+        "is_identity_verified": false,
+        "location": "你家",
+        "most_recent_tweet_id": "2103136734502699368",
+        "name": "77",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1688182828587171840/1717657910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939444615758663680/CSm0RT43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 132,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "xiaoqi20021218",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

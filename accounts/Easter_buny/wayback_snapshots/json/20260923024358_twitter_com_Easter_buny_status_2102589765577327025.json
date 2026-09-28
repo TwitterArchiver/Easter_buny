@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102589752386179072",
+        "3_2102589752369348608",
+        "3_2102589752348397568"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2102589765577327025",
+    "created_at": "2026-09-23T02:43:58.000Z",
+    "display_text_range": [
+      0,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T03:43:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102589765577327025"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kuIyaKqXM7",
+          "end": 112,
+          "expanded_url": "https://x.com/Easter_buny/status/2102589765577327025/photo/1",
+          "media_key": "3_2102589752386179072",
+          "start": 89,
+          "url": "https://t.co/kuIyaKqXM7"
+        },
+        {
+          "display_url": "pic.x.com/kuIyaKqXM7",
+          "end": 112,
+          "expanded_url": "https://x.com/Easter_buny/status/2102589765577327025/photo/1",
+          "media_key": "3_2102589752369348608",
+          "start": 89,
+          "url": "https://t.co/kuIyaKqXM7"
+        },
+        {
+          "display_url": "pic.x.com/kuIyaKqXM7",
+          "end": 112,
+          "expanded_url": "https://x.com/Easter_buny/status/2102589765577327025/photo/1",
+          "media_key": "3_2102589752348397568",
+          "start": 89,
+          "url": "https://t.co/kuIyaKqXM7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102589765577327025",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102589752386179072"
+      },
+      {
+        "media_key": "3_2102589752369348608"
+      },
+      {
+        "media_key": "3_2102589752348397568"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Badazz OG × UK Cheese\n依次是60天-30天-7天\n2个月时间长这么大了！下个月我不知道能长到多大，期间应该是还可以采收两次叶子，我准备做巧克力吃，拿叶片做 https://t.co/kuIyaKqXM7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2102589752386179072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS3mPWNa0AA3b9i.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2102589752369348608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS3mPWJaAAAn4Xd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1394,
+        "media_key": "3_2102589752348397568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS3mPWEaUAAmzsr.jpg",
+        "width": 1046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102589752386179072",
+            "3_2102589752369348608",
+            "3_2102589752348397568"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2102589765577327025",
+        "created_at": "2026-09-23T02:43:58.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T03:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102589765577327025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kuIyaKqXM7",
+              "end": 112,
+              "expanded_url": "https://x.com/Easter_buny/status/2102589765577327025/photo/1",
+              "media_key": "3_2102589752386179072",
+              "start": 89,
+              "url": "https://t.co/kuIyaKqXM7"
+            },
+            {
+              "display_url": "pic.x.com/kuIyaKqXM7",
+              "end": 112,
+              "expanded_url": "https://x.com/Easter_buny/status/2102589765577327025/photo/1",
+              "media_key": "3_2102589752369348608",
+              "start": 89,
+              "url": "https://t.co/kuIyaKqXM7"
+            },
+            {
+              "display_url": "pic.x.com/kuIyaKqXM7",
+              "end": 112,
+              "expanded_url": "https://x.com/Easter_buny/status/2102589765577327025/photo/1",
+              "media_key": "3_2102589752348397568",
+              "start": 89,
+              "url": "https://t.co/kuIyaKqXM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102589765577327025",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102589752386179072"
+          },
+          {
+            "media_key": "3_2102589752369348608"
+          },
+          {
+            "media_key": "3_2102589752348397568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Badazz OG × UK Cheese\n依次是60天-30天-7天\n2个月时间长这么大了！下个月我不知道能长到多大，期间应该是还可以采收两次叶子，我准备做巧克力吃，拿叶片做 https://t.co/kuIyaKqXM7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2102589765577327025",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8761,
+          "following_count": 1317,
+          "like_count": 70891,
+          "listed_count": 9,
+          "media_count": 3192,
+          "tweet_count": 20017
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

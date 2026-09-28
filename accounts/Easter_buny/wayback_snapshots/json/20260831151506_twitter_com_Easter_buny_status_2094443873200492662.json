@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2094403365895880732",
+    "created_at": "2026-08-31T15:15:06.000Z",
+    "display_text_range": [
+      25,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T16:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094443873200492662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2048683684191154176",
+          "start": 0,
+          "username": "lsdprettyboy"
+        },
+        {
+          "end": 24,
+          "id": "1500264356638261251",
+          "start": 14,
+          "username": "X77291975"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094443873200492662",
+    "in_reply_to_user_id": "2048683684191154176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094436307720454646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lsdprettyboy @X77291975 我的药物耐受程度特别低，我普瑞用量才150mg，你这个给我吃，估计我已经坟头草2米高了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2094403365895880732",
+        "created_at": "2026-08-31T15:15:06.000Z",
+        "display_text_range": [
+          25,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094443873200492662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2048683684191154176",
+              "start": 0,
+              "username": "lsdprettyboy"
+            },
+            {
+              "end": 24,
+              "id": "1500264356638261251",
+              "start": 14,
+              "username": "X77291975"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094443873200492662",
+        "in_reply_to_user_id": "2048683684191154176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094436307720454646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lsdprettyboy @X77291975 我的药物耐受程度特别低，我普瑞用量才150mg，你这个给我吃，估计我已经坟头草2米高了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048683684191154176",
+        "conversation_id": "2094403365895880732",
+        "created_at": "2026-08-31T14:45:03.000Z",
+        "display_text_range": [
+          24,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094436307720454646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1500264356638261251",
+              "start": 0,
+              "username": "X77291975"
+            },
+            {
+              "end": 23,
+              "id": "1481172876589821952",
+              "start": 11,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094436307720454646",
+        "in_reply_to_user_id": "1500264356638261251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094435000938828270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X77291975 @Easter_buny 我和你几乎一样的配方，当时有点喘不过气，如果换成现在的体重吃的话，估计你可以给我烧纸钱了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2094443873200492662",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8684,
+          "following_count": 1286,
+          "like_count": 69668,
+          "listed_count": 9,
+          "media_count": 3152,
+          "tweet_count": 19718
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T08:41:44.000Z",
+        "description": "xwx｜我脑子有问题\n🚪 58｜88 没区别，你比较慷慨可以给我更多",
+        "id": "2048683684191154176",
+        "is_identity_verified": false,
+        "location": "NOT FOUND",
+        "most_recent_tweet_id": "2094436307720454646",
+        "name": "豆包我全家活了",
+        "pinned_tweet_id": "2088934895028666697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048683684191154176/1786864787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088889126976417792/e9A6Db_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 71,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "lsdprettyboy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-06T00:18:12.000Z",
+        "description": "",
+        "id": "1500264356638261251",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2094435000938828270",
+        "name": "小起🍥 抑制剂重度依赖(",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011121027326361600/HcnX5dAJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 83,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 355
+        },
+        "url": "",
+        "username": "X77291975",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

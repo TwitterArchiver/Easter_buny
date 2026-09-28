@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2092480891599933492",
+    "created_at": "2026-08-26T10:19:56.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T11:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092557652853404086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2084990480618770432",
+          "start": 0,
+          "username": "yuda3_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092557652853404086",
+    "in_reply_to_user_id": "2084990480618770432",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092480891599933492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuda3_8964 why"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2092480891599933492",
+        "created_at": "2026-08-26T10:19:56.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092557652853404086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2084990480618770432",
+              "start": 0,
+              "username": "yuda3_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092557652853404086",
+        "in_reply_to_user_id": "2084990480618770432",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092480891599933492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuda3_8964 why"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084990480618770432",
+        "conversation_id": "2092480891599933492",
+        "created_at": "2026-08-26T05:14:55.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T06:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092480891599933492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092480891599933492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下一次用普瑞巴林我一定会把自己绑在床上"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2092557652853404086",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8682,
+          "following_count": 1285,
+          "like_count": 69372,
+          "listed_count": 9,
+          "media_count": 3142,
+          "tweet_count": 19638
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T13:12:24.000Z",
+        "description": "一个神秘的乐乐  基本不会见证  来自支国南部的王牌讲师  三代目",
+        "id": "2084990480618770432",
+        "is_identity_verified": false,
+        "location": "你家",
+        "most_recent_tweet_id": "2092489369726681321",
+        "name": "𝖞𝖚𝖉𝖆،支国王牌讲师🏴‍☠️三代目",
+        "pinned_tweet_id": "2091148776421675102",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084990480618770432/1785936237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084991632076865537/chE31pU-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 157,
+          "like_count": 6539,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 475
+        },
+        "url": "",
+        "username": "yuda3_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

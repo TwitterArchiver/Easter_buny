@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097270062550016000"
+      ],
+      "media_source_tweet_id": [
+        "2097270653582000469"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "conversation_id": "2097520116825260491",
+    "created_at": "2026-09-09T02:59:00.000Z",
+    "display_text_range": [
+      0,
+      136
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T03:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097520116825260491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678171777409875968",
+          "start": 3,
+          "username": "420420420CTL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UxqkMjbHnT",
+          "end": 136,
+          "expanded_url": "https://x.com/420420420CTL/status/2097270653582000469/photo/1",
+          "media_key": "3_2097270062550016000",
+          "start": 113,
+          "url": "https://t.co/UxqkMjbHnT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097520116825260491",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097270062550016000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097270653582000469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @420420420CTL: 根据上次中国人能飞活动投票，本期决定杭州空投5，点赞评论转发 ,发送给@caidantu_420，9月13日 主页社群内22:00发帖开奖 为避免小号水名额（仅限x有50个以上关注者参加） https://t.co/UxqkMjbHnT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 538,
+        "media_key": "3_2097270062550016000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsAApRa4AAOCuI.jpg",
+        "width": 1160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097270062550016000"
+          ],
+          "media_source_tweet_id": [
+            "2097270653582000469"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2097520116825260491",
+        "created_at": "2026-09-09T02:59:00.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T03:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097520116825260491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678171777409875968",
+              "start": 3,
+              "username": "420420420CTL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UxqkMjbHnT",
+              "end": 136,
+              "expanded_url": "https://x.com/420420420CTL/status/2097270653582000469/photo/1",
+              "media_key": "3_2097270062550016000",
+              "start": 113,
+              "url": "https://t.co/UxqkMjbHnT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097520116825260491",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097270062550016000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097270653582000469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @420420420CTL: 根据上次中国人能飞活动投票，本期决定杭州空投5，点赞评论转发 ,发送给@caidantu_420，9月13日 主页社群内22:00发帖开奖 为避免小号水名额（仅限x有50个以上关注者参加） https://t.co/UxqkMjbHnT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097270062550016000"
+          ]
+        },
+        "author_id": "1678171777409875968",
+        "conversation_id": "2097270653582000469",
+        "created_at": "2026-09-08T10:27:43.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T11:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097270653582000469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UxqkMjbHnT",
+              "end": 118,
+              "expanded_url": "https://x.com/420420420CTL/status/2097270653582000469/photo/1",
+              "media_key": "3_2097270062550016000",
+              "start": 95,
+              "url": "https://t.co/UxqkMjbHnT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097270653582000469",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097270062550016000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1620,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "根据上次中国人能飞活动投票，本期决定杭州空投5，点赞评论转发 ,发送给@caidantu_420，9月13日 主页社群内22:00发帖开奖 为避免小号水名额（仅限x有50个以上关注者参加） https://t.co/UxqkMjbHnT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2097520116825260491",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8707,
+          "following_count": 1281,
+          "like_count": 70051,
+          "listed_count": 9,
+          "media_count": 3165,
+          "tweet_count": 19804
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-09T22:38:41.000Z",
+        "description": "支持亞洲大麻合法化，大麻除罪，正視醫療大麻用途，MTF🏳️‍⚧️🏳️‍🌈LGBTQ友好🧑‍🤝‍🧑👭只有x和谷歌電郵聯繫方式，會回私信，社群：https://t.co/YwMarw2XdU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 93,
+                "expanded_url": "https://x.com/i/communities/2002034506979750304",
+                "start": 70,
+                "url": "https://t.co/YwMarw2XdU"
+              }
+            ]
+          }
+        },
+        "id": "1678171777409875968",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2097332415538806801",
+        "name": "邦尼兔weed_420（大麻/電子煙）",
+        "pinned_tweet_id": "2056029691916713996",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678171777409875968/1785863310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018807810830770177/xgp8x96H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5295,
+          "following_count": 697,
+          "like_count": 783,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 1202
+        },
+        "url": "",
+        "username": "420420420CTL",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2101655818391462075",
+    "created_at": "2026-09-20T13:56:12.000Z",
+    "display_text_range": [
+      15,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T14:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101671771175112713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2054968042107346944",
+          "start": 0,
+          "username": "yangyv_huntun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101671771175112713",
+    "in_reply_to_user_id": "2054968042107346944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101655818391462075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangyv_huntun 阿片戒断反应吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2101655818391462075",
+        "created_at": "2026-09-20T13:56:12.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T14:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101671771175112713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2054968042107346944",
+              "start": 0,
+              "username": "yangyv_huntun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101671771175112713",
+        "in_reply_to_user_id": "2054968042107346944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101655818391462075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangyv_huntun 阿片戒断反应吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054968042107346944",
+        "conversation_id": "2101655818391462075",
+        "created_at": "2026-09-20T12:52:48.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101655818391462075"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101655818391462075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怎么浑身冒虚汗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2101671771175112713",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8742,
+          "following_count": 1313,
+          "like_count": 70768,
+          "listed_count": 9,
+          "media_count": 3191,
+          "tweet_count": 19997
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-14T16:52:28.000Z",
+        "description": "前世：yangyan_huntun寻回互关中\nINTP | 双相已确诊 | 喜扩列  | 06/185 |  bi男  |  细胞神曲 重返未来1999  | oder | 术力口 | 💊🔪🚬🍺🍥🍬全肯定\n下面是匿名提问，随便问捏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yangyan_huntun",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yangyan_huntun",
+                "start": 0,
+                "url": "https://t.co/BzlAM4DgrC"
+              }
+            ]
+          }
+        },
+        "id": "2054968042107346944",
+        "is_identity_verified": false,
+        "location": "重塑之手",
+        "most_recent_tweet_id": "2101671294127460490",
+        "name": "羊🐏言转生2.0(咩咩机形态)",
+        "pinned_tweet_id": "2090077682755412427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054968042107346944/1787131897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090008776548159488/NC9zVCI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 320,
+          "like_count": 730,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 233
+        },
+        "url": "https://t.co/BzlAM4DgrC",
+        "username": "yangyv_huntun",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

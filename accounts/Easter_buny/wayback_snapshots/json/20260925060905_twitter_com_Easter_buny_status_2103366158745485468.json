@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2103366158745485468",
+    "created_at": "2026-09-25T06:09:05.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T07:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103366158745485468"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/medicalgrower4…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/medicalgrower42/status/2103139313382813949",
+          "start": 31,
+          "url": "https://t.co/DWFRVbWqQq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103366158745485468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103139313382813949",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "weed的第二张之所以在笑其实是因为weed的效果，哈哈哈哈 https://t.co/DWFRVbWqQq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1468,
+        "media_key": "3_2103139310199357440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_aD0mXwAAb7Pr.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2103366158745485468",
+        "created_at": "2026-09-25T06:09:05.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T07:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103366158745485468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/medicalgrower4…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/medicalgrower42/status/2103139313382813949",
+              "start": 31,
+              "url": "https://t.co/DWFRVbWqQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103366158745485468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103139313382813949",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "weed的第二张之所以在笑其实是因为weed的效果，哈哈哈哈 https://t.co/DWFRVbWqQq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103139310199357440"
+          ]
+        },
+        "author_id": "1518705955487293445",
+        "conversation_id": "2103139313382813949",
+        "created_at": "2026-09-24T15:07:41.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T16:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103139313382813949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SOceSD4Hm5",
+              "end": 34,
+              "expanded_url": "https://x.com/medicalgrower42/status/2103139313382813949/photo/1",
+              "media_key": "3_2103139310199357440",
+              "start": 11,
+              "url": "https://t.co/SOceSD4Hm5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103139313382813949",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2103139310199357440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1549,
+          "impression_count": 1284941,
+          "like_count": 22425,
+          "quote_count": 63,
+          "reply_count": 141,
+          "retweet_count": 1183
+        },
+        "reply_settings": "everyone",
+        "text": "Very true! https://t.co/SOceSD4Hm5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2103366158745485468",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8767,
+          "following_count": 1322,
+          "like_count": 70942,
+          "listed_count": 9,
+          "media_count": 3200,
+          "tweet_count": 20055
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T21:38:25.000Z",
+        "description": "Autoflower Connoisseur. NO SALES. St.Louis Native. Husband to @winston_420s. LED Grow by @MarsHydroLight.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "winston_420s"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "MarsHydroLight"
+              }
+            ]
+          }
+        },
+        "id": "1518705955487293445",
+        "is_identity_verified": false,
+        "location": "Illinois, USA",
+        "most_recent_tweet_id": "2103279407943028820",
+        "name": "Medical Grower 420 🇺🇸",
+        "pinned_tweet_id": "2090098736579895633",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518705955487293445/1655807045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647049615110283266/9vjyt9WZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33842,
+          "following_count": 18488,
+          "like_count": 376866,
+          "listed_count": 37,
+          "media_count": 7445,
+          "tweet_count": 39669
+        },
+        "url": "",
+        "username": "medicalgrower42",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

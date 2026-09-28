@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2092419254666809370",
+    "created_at": "2026-08-26T02:50:45.000Z",
+    "display_text_range": [
+      12,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T03:50:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092444611134492739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "708700717",
+          "start": 0,
+          "username": "GuajavaDuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092444611134492739",
+    "in_reply_to_user_id": "708700717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092419254666809370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuajavaDuo 我小时候在这种环境生活了4年🥹，不同的是没有围栏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2044,
+        "media_key": "3_2092418783977848832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQnDzERawAA5vwW.jpg",
+        "width": 1541
+      },
+      {
+        "height": 1464,
+        "media_key": "3_2092418849140563968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQnD23Ba4AAttIp.jpg",
+        "width": 1765
+      },
+      {
+        "height": 2044,
+        "media_key": "3_2092418977922506752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQnD-WxbYAA8y3P.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2034,
+        "media_key": "3_2092419045291433984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQnECRvboAAFmb7.jpg",
+        "width": 2714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2092419254666809370",
+        "created_at": "2026-08-26T02:50:45.000Z",
+        "display_text_range": [
+          12,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T03:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092444611134492739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "708700717",
+              "start": 0,
+              "username": "GuajavaDuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092444611134492739",
+        "in_reply_to_user_id": "708700717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092419254666809370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuajavaDuo 我小时候在这种环境生活了4年🥹，不同的是没有围栏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092418783977848832",
+            "3_2092418849140563968",
+            "3_2092418977922506752",
+            "3_2092419045291433984"
+          ]
+        },
+        "author_id": "708700717",
+        "conversation_id": "2092419254666809370",
+        "created_at": "2026-08-26T01:10:00.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T02:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092419254666809370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z1pK0HRcv0",
+              "end": 40,
+              "expanded_url": "https://x.com/GuajavaDuo/status/2092419254666809370/photo/1",
+              "media_key": "3_2092418783977848832",
+              "start": 17,
+              "url": "https://t.co/Z1pK0HRcv0"
+            },
+            {
+              "display_url": "pic.x.com/Z1pK0HRcv0",
+              "end": 40,
+              "expanded_url": "https://x.com/GuajavaDuo/status/2092419254666809370/photo/1",
+              "media_key": "3_2092418849140563968",
+              "start": 17,
+              "url": "https://t.co/Z1pK0HRcv0"
+            },
+            {
+              "display_url": "pic.x.com/Z1pK0HRcv0",
+              "end": 40,
+              "expanded_url": "https://x.com/GuajavaDuo/status/2092419254666809370/photo/1",
+              "media_key": "3_2092418977922506752",
+              "start": 17,
+              "url": "https://t.co/Z1pK0HRcv0"
+            },
+            {
+              "display_url": "pic.x.com/Z1pK0HRcv0",
+              "end": 40,
+              "expanded_url": "https://x.com/GuajavaDuo/status/2092419254666809370/photo/1",
+              "media_key": "3_2092419045291433984",
+              "start": 17,
+              "url": "https://t.co/Z1pK0HRcv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092419254666809370",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2092418783977848832"
+          },
+          {
+            "media_key": "3_2092418849140563968"
+          },
+          {
+            "media_key": "3_2092418977922506752"
+          },
+          {
+            "media_key": "3_2092419045291433984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Piss in the wind https://t.co/Z1pK0HRcv0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2092444611134492739",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8682,
+          "following_count": 1284,
+          "like_count": 69340,
+          "listed_count": 8,
+          "media_count": 3141,
+          "tweet_count": 19627
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-07-21T09:28:17.000Z",
+        "description": "厨师，专业烹煮何包蛋",
+        "id": "708700717",
+        "is_identity_verified": false,
+        "location": "長安東路三十三巷",
+        "most_recent_tweet_id": "2092439600799363577",
+        "name": "河又猫",
+        "pinned_tweet_id": "2092419254666809370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/708700717/1786639338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085380124434989056/MwdrnzJp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9389,
+          "following_count": 1788,
+          "like_count": 8550,
+          "listed_count": 60,
+          "media_count": 22811,
+          "tweet_count": 350591
+        },
+        "url": "",
+        "username": "GuajavaDuo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102199309072744449"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2102185591844831669",
+    "created_at": "2026-09-22T00:52:29.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T01:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102199319428558923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2095401063016964096",
+          "start": 0,
+          "username": "zifeneight"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sRTupGjyp9",
+          "end": 37,
+          "expanded_url": "https://x.com/Easter_buny/status/2102199319428558923/photo/1",
+          "media_key": "3_2102199309072744449",
+          "start": 14,
+          "url": "https://t.co/sRTupGjyp9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102199319428558923",
+    "in_reply_to_user_id": "2095401063016964096",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2102199309072744449"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102185591844831669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zifeneight 🫪 https://t.co/sRTupGjyp9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2102199309072744449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSyDIjhaQAE2byg.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102199309072744449"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2102185591844831669",
+        "created_at": "2026-09-22T00:52:29.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T01:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102199319428558923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2095401063016964096",
+              "start": 0,
+              "username": "zifeneight"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sRTupGjyp9",
+              "end": 37,
+              "expanded_url": "https://x.com/Easter_buny/status/2102199319428558923/photo/1",
+              "media_key": "3_2102199309072744449",
+              "start": 14,
+              "url": "https://t.co/sRTupGjyp9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102199319428558923",
+        "in_reply_to_user_id": "2095401063016964096",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2102199309072744449"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102185591844831669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zifeneight 🫪 https://t.co/sRTupGjyp9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2095401063016964096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2102185591844831669",
+        "created_at": "2026-09-21T23:57:56.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T00:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102185591844831669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/litztsong/stat…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/litztsong/status/2102058597933101408",
+              "start": 128,
+              "url": "https://t.co/xxeytSGF33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102185591844831669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102058597933101408",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大麻的医疗价值真的很高\n但是你指望一个连电子烟都搞网禁搞禁止水果口味只是因为影响了税收的国家去开放大麻真的不太可能\n在这个烂透的国家被诅咒的土地上没有人在意别人的身心健康 就算有一种物质吃下去能包治百病 只要它符合支那人心中“毒品”的定义那就不可能合法了 https://t.co/xxeytSGF33"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2102199319428558923",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8750,
+          "following_count": 1314,
+          "like_count": 70791,
+          "listed_count": 9,
+          "media_count": 3191,
+          "tweet_count": 20003
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-03T06:39:46.000Z",
+        "description": "友好所有人😋\n09年/17岁/oder/药物报告/男的🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zifenod1",
+                "end": 23,
+                "expanded_url": "https://t.me/zifenod1",
+                "start": 0,
+                "url": "https://t.co/j9jF8I3LIy"
+              }
+            ]
+          }
+        },
+        "id": "2095401063016964096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102193651514532217",
+        "name": "自分",
+        "pinned_tweet_id": "2101145711744290962",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101145511868940288/cHbXqr64_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 65,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 101
+        },
+        "url": "https://t.co/j9jF8I3LIy",
+        "username": "zifeneight",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

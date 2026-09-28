@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2098059053834666078",
+    "created_at": "2026-09-11T00:26:21.000Z",
+    "display_text_range": [
+      13,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T01:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098206476884152626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1694381257877004288",
+          "start": 0,
+          "username": "abdzp166732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098206476884152626",
+    "in_reply_to_user_id": "1694381257877004288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098059053834666078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abdzp166732 它就是那条狗（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2098059053834666078",
+        "created_at": "2026-09-11T00:26:21.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T01:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098206476884152626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1694381257877004288",
+              "start": 0,
+              "username": "abdzp166732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098206476884152626",
+        "in_reply_to_user_id": "1694381257877004288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098059053834666078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abdzp166732 它就是那条狗（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694381257877004288",
+        "conversation_id": "2098059053834666078",
+        "created_at": "2026-09-10T14:40:33.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T15:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098059053834666078"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098059053834666078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今晚在二环高架路旁边街道散步，走到乐山大厦前头，即将拐弯的地方，余光瞥见绿化带里侧站着一个中年男子，光头，胡子拉碴，形容瘦削。我以为他在等狗如厕，便好奇他脚边是何种狗，随曾想呢，看到他裤子里飚出一根水柱。这男的死了全家了，自己也离死不远了。你说你躲隐蔽点背着身子尿也就罢了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2098206476884152626",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8707,
+          "following_count": 1284,
+          "like_count": 70200,
+          "listed_count": 9,
+          "media_count": 3172,
+          "tweet_count": 19847
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-23T16:09:20.000Z",
+        "description": "想发啥发啥的神人。",
+        "id": "1694381257877004288",
+        "is_identity_verified": false,
+        "location": "0.6km",
+        "most_recent_tweet_id": "2098060166210138387",
+        "name": "R",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1694381257877004288/1776513994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045474040123719680/RpGyTCHt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 135,
+          "like_count": 6472,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 3786
+        },
+        "url": "",
+        "username": "abdzp166732",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2102553840222712312",
+    "created_at": "2026-09-23T00:21:13.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T01:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102553840222712312"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/easter_buny/st…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/easter_buny/status/2102402285251031399",
+          "start": 35,
+          "url": "https://t.co/9pZSc2kv4N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102553840222712312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102402285251031399",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "空腹生效大概90分钟，持续时间10小时😋，我现在还是处于类似宿醉状态 https://t.co/9pZSc2kv4N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2102402253198163968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS07tdTbgAAxpOT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2102402253210689537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS07tdWaoAE9VUe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2102553840222712312",
+        "created_at": "2026-09-23T00:21:13.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T01:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102553840222712312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/easter_buny/st…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/easter_buny/status/2102402285251031399",
+              "start": 35,
+              "url": "https://t.co/9pZSc2kv4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102553840222712312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102402285251031399",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "空腹生效大概90分钟，持续时间10小时😋，我现在还是处于类似宿醉状态 https://t.co/9pZSc2kv4N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102402253198163968",
+            "3_2102402253210689537"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2102402285251031399",
+        "created_at": "2026-09-22T14:19:00.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T15:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102402285251031399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GFJkY9i7yb",
+              "end": 95,
+              "expanded_url": "https://x.com/Easter_buny/status/2102402285251031399/photo/1",
+              "media_key": "3_2102402253198163968",
+              "start": 72,
+              "url": "https://t.co/GFJkY9i7yb"
+            },
+            {
+              "display_url": "pic.x.com/GFJkY9i7yb",
+              "end": 95,
+              "expanded_url": "https://x.com/Easter_buny/status/2102402285251031399/photo/1",
+              "media_key": "3_2102402253210689537",
+              "start": 72,
+              "url": "https://t.co/GFJkY9i7yb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102402285251031399",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102402253198163968"
+          },
+          {
+            "media_key": "3_2102402253210689537"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1863,
+          "like_count": 64,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今晚喝了从大麻叶片做的大麻牛奶，没想到真的有效果，就是有一点过量了，口服效果太好，我的幻觉已经突破到现实世界了，喝了大概10-30mg的thc https://t.co/GFJkY9i7yb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2102553840222712312",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8759,
+          "following_count": 1315,
+          "like_count": 70879,
+          "listed_count": 9,
+          "media_count": 3191,
+          "tweet_count": 20014
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

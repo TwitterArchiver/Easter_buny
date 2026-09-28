@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2098713196664402238",
+    "created_at": "2026-09-12T15:04:51.000Z",
+    "display_text_range": [
+      14,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T16:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098789947239268733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2079926361557524480",
+          "start": 0,
+          "username": "iwantredeyes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098789947239268733",
+    "in_reply_to_user_id": "2079926361557524480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098785514501349633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iwantredeyes 房间待久了就有点味…"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2098785514501349633].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2098785514501349633",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2098785514501349633"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2098713196664402238",
+        "created_at": "2026-09-12T15:04:51.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098789947239268733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2079926361557524480",
+              "start": 0,
+              "username": "iwantredeyes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098789947239268733",
+        "in_reply_to_user_id": "2079926361557524480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098785514501349633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iwantredeyes 房间待久了就有点味…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2098789947239268733",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8718,
+          "following_count": 1291,
+          "like_count": 70386,
+          "listed_count": 9,
+          "media_count": 3175,
+          "tweet_count": 19883
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-22T13:50:54.000Z",
+        "description": "这里还有人吗？？？？？？？？？@crispyvege",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "crispyvege"
+              }
+            ]
+          }
+        },
+        "id": "2079926361557524480",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098715186882388344",
+        "name": "红眼病",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2079926361557524480/1784733399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080678026866810880/Tm-U-TII_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 112,
+          "like_count": 3975,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 924
+        },
+        "url": "",
+        "username": "iwantredeyes",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

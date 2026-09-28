@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2090376323273552194",
+    "created_at": "2026-08-20T14:52:27.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T15:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090451905399140773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2039726927750340608",
+          "start": 0,
+          "username": "kikiwqwqw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090451905399140773",
+    "in_reply_to_user_id": "2039726927750340608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090405229414261165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kikiwqwqw 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2090376323273552194",
+        "created_at": "2026-08-20T14:52:27.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090451905399140773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2039726927750340608",
+              "start": 0,
+              "username": "kikiwqwqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090451905399140773",
+        "in_reply_to_user_id": "2039726927750340608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090405229414261165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikiwqwqw 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039726927750340608",
+        "conversation_id": "2090376323273552194",
+        "created_at": "2026-08-20T11:46:59.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090405229414261165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090405229414261165",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090376323273552194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 兔子你爽上了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2090451905399140773",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8550,
+          "following_count": 1274,
+          "like_count": 69261,
+          "listed_count": 8,
+          "media_count": 3158,
+          "tweet_count": 19620
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-02T15:30:45.000Z",
+        "description": "苏拉，164/53，泛性恋，高P，常刷新北京、江浙沪，爸爸活一日女友摄影模特BDSM线上陪聊语音业务广泛，欢迎咨询",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/c/4400172243/6…",
+                "end": 23,
+                "expanded_url": "https://t.me/c/4400172243/688",
+                "start": 0,
+                "url": "https://t.co/85bed8F7qi"
+              }
+            ]
+          }
+        },
+        "id": "2039726927750340608",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090406207077167296",
+        "name": "苏拉SULA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2039726927750340608/1787226849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089761148203913216/UF57Tmf4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 28,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 23
+        },
+        "url": "https://t.co/85bed8F7qi",
+        "username": "kikiwqwqw",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

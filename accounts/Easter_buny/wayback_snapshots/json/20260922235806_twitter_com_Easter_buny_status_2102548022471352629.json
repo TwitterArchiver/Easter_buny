@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2102547068153987529",
+    "created_at": "2026-09-22T23:58:06.000Z",
+    "display_text_range": [
+      9,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T00:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102548022471352629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2074357086889316352",
+          "start": 0,
+          "username": "Odivzsd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102548022471352629",
+    "in_reply_to_user_id": "2074357086889316352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102547068153987529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Odivzsd 需要把它115度烘烤35-40分钟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2102547068153987529",
+        "created_at": "2026-09-22T23:58:06.000Z",
+        "display_text_range": [
+          9,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T00:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102548022471352629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2074357086889316352",
+              "start": 0,
+              "username": "Odivzsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102548022471352629",
+        "in_reply_to_user_id": "2074357086889316352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102547068153987529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Odivzsd 需要把它115度烘烤35-40分钟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074357086889316352",
+        "conversation_id": "2102547068153987529",
+        "created_at": "2026-09-22T23:54:19.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T00:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102547068153987529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/easter_buny/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/easter_buny/status/2102402285251031399",
+              "start": 15,
+              "url": "https://t.co/9PaGpDnaWi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102547068153987529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102402285251031399",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠，可以整THC 酊剂玩的 https://t.co/9PaGpDnaWi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2102548022471352629",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8758,
+          "following_count": 1315,
+          "like_count": 70879,
+          "listed_count": 9,
+          "media_count": 3191,
+          "tweet_count": 20013
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-07T05:00:07.000Z",
+        "description": "",
+        "id": "2074357086889316352",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102547068153987529",
+        "name": "Rabbits are cute!",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2074357086889316352/1783402175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074358432879300608/rATRdGiM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 29,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "Odivzsd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

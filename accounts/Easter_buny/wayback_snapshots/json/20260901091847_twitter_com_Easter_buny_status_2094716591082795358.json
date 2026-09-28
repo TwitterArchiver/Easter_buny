@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094678220402728960",
+        "3_2094678220402741248"
+      ],
+      "media_source_tweet_id": [
+        "2094678403920396336",
+        "2094678403920396336"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094716591082795358",
+    "created_at": "2026-09-01T09:18:47.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T10:18:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094716591082795358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1817203225306800128",
+          "start": 3,
+          "username": "youmaidawang"
+        },
+        {
+          "end": 48,
+          "id": "1487351578419871746",
+          "start": 36,
+          "username": "Vanilla6201"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FokggrgodA",
+          "end": 85,
+          "expanded_url": "https://x.com/youmaidawang/status/2094678403920396336/photo/1",
+          "media_key": "3_2094678220402728960",
+          "start": 62,
+          "url": "https://t.co/FokggrgodA"
+        },
+        {
+          "display_url": "pic.x.com/FokggrgodA",
+          "end": 85,
+          "expanded_url": "https://x.com/youmaidawang/status/2094678403920396336/photo/1",
+          "media_key": "3_2094678220402741248",
+          "start": 62,
+          "url": "https://t.co/FokggrgodA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094716591082795358",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094678220402728960"
+      },
+      {
+        "media_key": "3_2094678220402741248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094678403920396336",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youmaidawang: 我是麻薯，麻麻地原来是鼠掉了。\n大号@Vanilla6201惨被炸号，现绝赞寻回互关中 https://t.co/FokggrgodA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2094678220402728960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHKvk3aIAAYhAm.jpg",
+        "width": 1024
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2094678220402741248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHKvk3aUAAkUze.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094678220402728960",
+            "3_2094678220402741248"
+          ],
+          "media_source_tweet_id": [
+            "2094678403920396336",
+            "2094678403920396336"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094716591082795358",
+        "created_at": "2026-09-01T09:18:47.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T10:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094716591082795358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817203225306800128",
+              "start": 3,
+              "username": "youmaidawang"
+            },
+            {
+              "end": 48,
+              "id": "1487351578419871746",
+              "start": 36,
+              "username": "Vanilla6201"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FokggrgodA",
+              "end": 85,
+              "expanded_url": "https://x.com/youmaidawang/status/2094678403920396336/photo/1",
+              "media_key": "3_2094678220402728960",
+              "start": 62,
+              "url": "https://t.co/FokggrgodA"
+            },
+            {
+              "display_url": "pic.x.com/FokggrgodA",
+              "end": 85,
+              "expanded_url": "https://x.com/youmaidawang/status/2094678403920396336/photo/1",
+              "media_key": "3_2094678220402741248",
+              "start": 62,
+              "url": "https://t.co/FokggrgodA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094716591082795358",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094678220402728960"
+          },
+          {
+            "media_key": "3_2094678220402741248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094678403920396336",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youmaidawang: 我是麻薯，麻麻地原来是鼠掉了。\n大号@Vanilla6201惨被炸号，现绝赞寻回互关中 https://t.co/FokggrgodA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094678220402728960",
+            "3_2094678220402741248"
+          ]
+        },
+        "author_id": "1817203225306800128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094678403920396336",
+        "created_at": "2026-09-01T06:47:03.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T07:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094678403920396336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1487351578419871746",
+              "start": 18,
+              "username": "Vanilla6201"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FokggrgodA",
+              "end": 67,
+              "expanded_url": "https://x.com/youmaidawang/status/2094678403920396336/photo/1",
+              "media_key": "3_2094678220402728960",
+              "start": 44,
+              "url": "https://t.co/FokggrgodA"
+            },
+            {
+              "display_url": "pic.x.com/FokggrgodA",
+              "end": 67,
+              "expanded_url": "https://x.com/youmaidawang/status/2094678403920396336/photo/1",
+              "media_key": "3_2094678220402741248",
+              "start": 44,
+              "url": "https://t.co/FokggrgodA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094678403920396336",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094678220402728960"
+          },
+          {
+            "media_key": "3_2094678220402741248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 511,
+          "like_count": 10,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我是麻薯，麻麻地原来是鼠掉了。\n大号@Vanilla6201惨被炸号，现绝赞寻回互关中 https://t.co/FokggrgodA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2094716591082795358",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8697,
+          "following_count": 1288,
+          "like_count": 69689,
+          "listed_count": 9,
+          "media_count": 3154,
+          "tweet_count": 19723
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-27T14:19:57.000Z",
+        "description": "20|前世@Vanilla6201| 今生做一个温良的女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "Vanilla6201"
+              }
+            ]
+          }
+        },
+        "id": "1817203225306800128",
+        "is_identity_verified": false,
+        "location": "🚪188",
+        "most_recent_tweet_id": "2094703528946323698",
+        "name": "麻薯的一生如绿豆冰",
+        "pinned_tweet_id": "2094678403920396336",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1817203225306800128/1722180313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094452607003856896/9JZCTjtq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 71,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "youmaidawang",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-29T09:07:14.000Z",
+        "description": "20｜♏️｜ENTP ｜不闲聊🚪188｜恐怖片品鉴大师｜爱看纹身的女孩子｜提问箱https://t.co/6g7CRv7FkW｜私信会看｜不接推广！！！|防走丢@youmaidawang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "youmaidawang"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kirakira1026",
+                "end": 63,
+                "expanded_url": "https://ngl.link/kirakira1026",
+                "start": 40,
+                "url": "https://t.co/6g7CRv7FkW"
+              }
+            ]
+          }
+        },
+        "id": "1487351578419871746",
+        "is_identity_verified": false,
+        "location": "双人被",
+        "most_recent_tweet_id": "2094420234799337766",
+        "name": "泥麻薯掉惹🌙",
+        "pinned_tweet_id": "1869746551066951735",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1487351578419871746/1653833100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913144971525582848/tHhIDzqU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 20323,
+          "following_count": 1577,
+          "like_count": 25965,
+          "listed_count": 49,
+          "media_count": 365,
+          "tweet_count": 13073
+        },
+        "url": "",
+        "username": "Vanilla6201",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

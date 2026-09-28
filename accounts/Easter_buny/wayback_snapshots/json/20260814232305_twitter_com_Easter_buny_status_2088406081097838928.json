@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2088317368540049793",
+    "created_at": "2026-08-14T23:23:05.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T00:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088406081097838928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1971786415420985350",
+          "start": 0,
+          "username": "mob_luu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088406081097838928",
+    "in_reply_to_user_id": "1971786415420985350",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088317368540049793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mob_luu 好好笑"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2088317368540049793].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2088317368540049793",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2088317368540049793"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2088317368540049793",
+        "created_at": "2026-08-14T23:23:05.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T00:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088406081097838928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1971786415420985350",
+              "start": 0,
+              "username": "mob_luu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088406081097838928",
+        "in_reply_to_user_id": "1971786415420985350",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088317368540049793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mob_luu 好好笑"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2088406081097838928",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8449,
+          "following_count": 1282,
+          "like_count": 68916,
+          "listed_count": 8,
+          "media_count": 3151,
+          "tweet_count": 19552
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-27T03:58:35.000Z",
+        "description": ".",
+        "id": "1971786415420985350",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087532445755441652",
+        "name": "朝菌",
+        "pinned_tweet_id": "2084341998195273894",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971786415420985350/1770616552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020738183626158080/_409gA5f_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 108,
+          "like_count": 11538,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 913
+        },
+        "url": "",
+        "username": "mob_luu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

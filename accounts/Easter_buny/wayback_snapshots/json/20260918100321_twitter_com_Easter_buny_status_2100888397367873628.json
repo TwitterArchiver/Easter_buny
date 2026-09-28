@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2100243687590842421",
+    "created_at": "2026-09-18T10:03:21.000Z",
+    "display_text_range": [
+      11,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T11:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100888397367873628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2093261032005287936",
+          "start": 0,
+          "username": "Archer3td"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100888397367873628",
+    "in_reply_to_user_id": "2093261032005287936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100243687590842421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Archer3td 最后的那句好熟悉，你是湖南这边的吗？！🙀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1115,
+        "media_key": "3_2100243680124907521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWQf9-asAEcL8I.jpg",
+        "width": 1006
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2100243687590842421",
+        "created_at": "2026-09-18T10:03:21.000Z",
+        "display_text_range": [
+          11,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T11:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100888397367873628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2093261032005287936",
+              "start": 0,
+              "username": "Archer3td"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100888397367873628",
+        "in_reply_to_user_id": "2093261032005287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100243687590842421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Archer3td 最后的那句好熟悉，你是湖南这边的吗？！🙀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100243680124907521"
+          ]
+        },
+        "author_id": "2093261032005287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100243687590842421",
+        "created_at": "2026-09-16T15:21:30.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100243687590842421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6AImzp0PLc",
+              "end": 79,
+              "expanded_url": "https://x.com/Archer3td/status/2100243687590842421/photo/1",
+              "media_key": "3_2100243680124907521",
+              "start": 56,
+              "url": "https://t.co/6AImzp0PLc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100243687590842421",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100243680124907521"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呦无聊死了，一个人在家躺着，都不知道自己在干什么。朋友说过来找我玩八点说的现在还没出门，这一天天到底在干什么 https://t.co/6AImzp0PLc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2100888397367873628",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8738,
+          "following_count": 1307,
+          "like_count": 70617,
+          "listed_count": 9,
+          "media_count": 3186,
+          "tweet_count": 19976
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-28T08:56:11.000Z",
+        "description": "你在看我的同时我也在看你\n互fo请私",
+        "id": "2093261032005287936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100788994284171634",
+        "name": "Archer3.0复活版",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093261032005287936/1787907549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093262000893591552/5AGfjuRy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 17,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "Archer3td",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

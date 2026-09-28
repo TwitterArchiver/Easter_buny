@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2099723558272352704",
+    "created_at": "2026-09-15T12:16:45.000Z",
+    "display_text_range": [
+      15,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T13:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099834805089353919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1939281134010904576",
+          "start": 0,
+          "username": "emptyblisters"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099834805089353919",
+    "in_reply_to_user_id": "1939281134010904576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099723558272352704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emptyblisters 你不过滤一下吗，我的静脉之前因为经常注射，不知道为什么现在不打针，那个位置也经常起红疹，害得我天天要吃抗过敏药"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2099723548071702528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSO3cTFWMAAH39w.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2099723558272352704",
+        "created_at": "2026-09-15T12:16:45.000Z",
+        "display_text_range": [
+          15,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099834805089353919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1939281134010904576",
+              "start": 0,
+              "username": "emptyblisters"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099834805089353919",
+        "in_reply_to_user_id": "1939281134010904576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099723558272352704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emptyblisters 你不过滤一下吗，我的静脉之前因为经常注射，不知道为什么现在不打针，那个位置也经常起红疹，害得我天天要吃抗过敏药"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099723548071702528"
+          ]
+        },
+        "author_id": "1939281134010904576",
+        "conversation_id": "2099723558272352704",
+        "created_at": "2026-09-15T04:54:41.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T05:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099723558272352704"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "meth"
+            },
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "slam"
+            },
+            {
+              "end": 84,
+              "start": 76,
+              "tag": "cristal"
+            },
+            {
+              "end": 93,
+              "start": 85,
+              "tag": "drugtwt"
+            },
+            {
+              "end": 107,
+              "start": 94,
+              "tag": "druglatamtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fTrRrvh3dB",
+              "end": 131,
+              "expanded_url": "https://x.com/emptyblisters/status/2099723558272352704/photo/1",
+              "media_key": "3_2099723548071702528",
+              "start": 108,
+              "url": "https://t.co/fTrRrvh3dB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099723558272352704",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2099723548071702528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Haciendo los ultimos tiros por hoy! Amo el cri demasiado!! 😋🤪 \n\n#meth #slam #cristal #drugtwt #druglatamtwt https://t.co/fTrRrvh3dB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2099834805089353919",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8729,
+          "following_count": 1299,
+          "like_count": 70509,
+          "listed_count": 9,
+          "media_count": 3184,
+          "tweet_count": 19926
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T11:13:57.000Z",
+        "description": "I do many drugs, I'm not new here. #drugtwt #shtwt #kleptotwt #ketamine #cocaine #meth  #morphine #opioids #heroin",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 50,
+                "start": 44,
+                "tag": "shtwt"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "tag": "kleptotwt"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "tag": "ketamine"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "tag": "cocaine"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "meth"
+              },
+              {
+                "end": 97,
+                "start": 88,
+                "tag": "morphine"
+              },
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "opioids"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "heroin"
+              }
+            ]
+          }
+        },
+        "id": "1939281134010904576",
+        "is_identity_verified": false,
+        "location": "ERA 💉💉",
+        "most_recent_tweet_id": "2099797122962878567",
+        "name": "𝕄𝕆ℝ𝔽𝕀ℕ𝕀𝕋𝔸",
+        "pinned_tweet_id": "1954475974134825316",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939281134010904576/1786862617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088879333049835520/RZ2w4SQ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 1029,
+          "like_count": 9909,
+          "listed_count": 4,
+          "media_count": 66,
+          "tweet_count": 921
+        },
+        "url": "",
+        "username": "emptyblisters",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

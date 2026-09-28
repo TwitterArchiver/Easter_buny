@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2097558511723167815",
+    "created_at": "2026-09-09T11:49:42.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T12:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097653671874179173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1670362954590728197",
+          "start": 0,
+          "username": "citric_baizhou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097653671874179173",
+    "in_reply_to_user_id": "1670362954590728197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097558511723167815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@citric_baizhou 现在知道了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2097558511723167815].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2097558511723167815",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2097558511723167815"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2097558511723167815",
+        "created_at": "2026-09-09T11:49:42.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097653671874179173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1670362954590728197",
+              "start": 0,
+              "username": "citric_baizhou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097653671874179173",
+        "in_reply_to_user_id": "1670362954590728197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097558511723167815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@citric_baizhou 现在知道了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2097653671874179173",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8702,
+          "following_count": 1281,
+          "like_count": 70099,
+          "listed_count": 9,
+          "media_count": 3168,
+          "tweet_count": 19820
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-06-18T09:29:12.000Z",
+        "description": "MtM｜青春って値札が背中に貼られていて。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ikukoo0413",
+                "end": 23,
+                "expanded_url": "http://t.me/ikukoo0413",
+                "start": 0,
+                "url": "https://t.co/IuMJpLsd5g"
+              }
+            ]
+          }
+        },
+        "id": "1670362954590728197",
+        "is_identity_verified": false,
+        "location": "🐟鱼头朝向的地方",
+        "most_recent_tweet_id": "2090607037935988849",
+        "name": "粥白粥粥白 📷",
+        "pinned_tweet_id": "2014788860937716118",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670362954590728197/1780822665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087994905532764160/jjmB21eB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 982,
+          "like_count": 43045,
+          "listed_count": 6,
+          "media_count": 1012,
+          "tweet_count": 6829
+        },
+        "url": "https://t.co/IuMJpLsd5g",
+        "username": "citric_baizhou",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

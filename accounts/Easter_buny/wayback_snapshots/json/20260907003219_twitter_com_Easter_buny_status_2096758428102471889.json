@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096758417675448320"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "conversation_id": "2094027737191342423",
+    "created_at": "2026-09-07T00:32:19.000Z",
+    "display_text_range": [
+      31,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T01:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096758428102471889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1948431921387896832",
+          "start": 0,
+          "username": "wang_yi66192"
+        },
+        {
+          "end": 30,
+          "id": "1360593767191834624",
+          "start": 14,
+          "username": "28Kcd1BXZjxY7ES"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cBeCDqLEtw",
+          "end": 62,
+          "expanded_url": "https://x.com/Easter_buny/status/2096758428102471889/photo/1",
+          "media_key": "3_2096758417675448320",
+          "start": 39,
+          "url": "https://t.co/cBeCDqLEtw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096758428102471889",
+    "in_reply_to_user_id": "1948431921387896832",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096758417675448320"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096677071896326625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wang_yi66192 @28Kcd1BXZjxY7ES 我的是这个品种 https://t.co/cBeCDqLEtw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1265,
+        "media_key": "3_2096758417675448320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRkuq_la8AAY-9a.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096758417675448320"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2094027737191342423",
+        "created_at": "2026-09-07T00:32:19.000Z",
+        "display_text_range": [
+          31,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T01:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096758428102471889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948431921387896832",
+              "start": 0,
+              "username": "wang_yi66192"
+            },
+            {
+              "end": 30,
+              "id": "1360593767191834624",
+              "start": 14,
+              "username": "28Kcd1BXZjxY7ES"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cBeCDqLEtw",
+              "end": 62,
+              "expanded_url": "https://x.com/Easter_buny/status/2096758428102471889/photo/1",
+              "media_key": "3_2096758417675448320",
+              "start": 39,
+              "url": "https://t.co/cBeCDqLEtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096758428102471889",
+        "in_reply_to_user_id": "1948431921387896832",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096758417675448320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096677071896326625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wang_yi66192 @28Kcd1BXZjxY7ES 我的是这个品种 https://t.co/cBeCDqLEtw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948431921387896832",
+        "conversation_id": "2094027737191342423",
+        "created_at": "2026-09-06T19:09:02.000Z",
+        "display_text_range": [
+          30,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T20:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096677071896326625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1360593767191834624",
+              "start": 0,
+              "username": "28Kcd1BXZjxY7ES"
+            },
+            {
+              "end": 29,
+              "id": "1481172876589821952",
+              "start": 17,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096677071896326625",
+        "in_reply_to_user_id": "1360593767191834624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096482538625917317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@28Kcd1BXZjxY7ES @Easter_buny 朋友，你这个什么品种多少天的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2096758428102471889",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8702,
+          "following_count": 1293,
+          "like_count": 69963,
+          "listed_count": 9,
+          "media_count": 3159,
+          "tweet_count": 19766
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T17:15:53.000Z",
+        "description": "",
+        "id": "1948431921387896832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096677071896326625",
+        "name": "王雨一",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948431960311037953/1GavICCK_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 25,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "wang_yi66192",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-13T14:16:54.000Z",
+        "description": "",
+        "id": "1360593767191834624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096723228278550850",
+        "name": "蛋黄同学",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1360594798080454657/pqIpSElZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 12,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "28Kcd1BXZjxY7ES",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

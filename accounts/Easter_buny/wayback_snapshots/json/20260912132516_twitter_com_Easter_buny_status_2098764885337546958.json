@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2098032024921719010",
+    "created_at": "2026-09-12T13:25:16.000Z",
+    "display_text_range": [
+      12,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T14:25:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098764885337546958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1754871332091682817",
+          "start": 0,
+          "username": "shetong886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098764885337546958",
+    "in_reply_to_user_id": "1754871332091682817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098032024921719010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shetong886 差不多（，可能幻觉比这个更疯狂"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10827,
+        "height": 688,
+        "media_key": "13_2093157617187098625",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093157617187098625/img/x_cW75BBMTuaeIyJ.jpg",
+        "public_metrics": {
+          "view_count": 5573546
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093157617187098625/vid/avc1/320x320/fyZTY1UB3wTB2kbv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093157617187098625/vid/avc1/540x540/CmRKB8RK1NPbir3S.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093157617187098625/vid/avc1/688x688/PNUjhVUclJN1gpmK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093157617187098625/pl/VtTR3xErGuWPUJdC.m3u8?v=cfc"
+          }
+        ],
+        "width": 688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2098032024921719010",
+        "created_at": "2026-09-12T13:25:16.000Z",
+        "display_text_range": [
+          12,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098764885337546958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754871332091682817",
+              "start": 0,
+              "username": "shetong886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098764885337546958",
+        "in_reply_to_user_id": "1754871332091682817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098032024921719010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shetong886 差不多（，可能幻觉比这个更疯狂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093157617187098625"
+          ],
+          "media_source_tweet_id": [
+            "2093157649609040015"
+          ]
+        },
+        "author_id": "1754871332091682817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098032024921719010",
+        "created_at": "2026-09-10T12:53:08.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T13:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098032024921719010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NmhUlbYgVh",
+              "end": 37,
+              "expanded_url": "https://x.com/Velvtbug/status/2093157649609040015/video/1",
+              "media_key": "13_2093157617187098625",
+              "start": 14,
+              "url": "https://t.co/NmhUlbYgVh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098032024921719010",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2093157617187098625"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吸毒是不是真的是这样子的啊 https://t.co/NmhUlbYgVh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2098764885337546958",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8717,
+          "following_count": 1290,
+          "like_count": 70365,
+          "listed_count": 9,
+          "media_count": 3174,
+          "tweet_count": 19877
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-06T14:15:12.000Z",
+        "description": "蛇小瞳様毁灭中",
+        "id": "1754871332091682817",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098759647511642271",
+        "name": "心作泪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754871332091682817/1744012056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071810968321933312/IoqQHPOC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 678,
+          "like_count": 79921,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 12847
+        },
+        "url": "",
+        "username": "shetong886",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

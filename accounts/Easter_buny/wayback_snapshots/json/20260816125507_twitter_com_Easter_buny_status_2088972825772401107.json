@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2088903764761792929",
+    "created_at": "2026-08-16T12:55:07.000Z",
+    "display_text_range": [
+      14,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T13:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088972825772401107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1832707938764705792",
+          "start": 0,
+          "username": "shanqi114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088972825772401107",
+    "in_reply_to_user_id": "1832707938764705792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088971021722546504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shanqi114514 不喜欢吃披萨（，还有那个超大烧瓶买不起🫪，很贵的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2088903764761792929",
+        "created_at": "2026-08-16T12:55:07.000Z",
+        "display_text_range": [
+          14,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088972825772401107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1832707938764705792",
+              "start": 0,
+              "username": "shanqi114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088972825772401107",
+        "in_reply_to_user_id": "1832707938764705792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088971021722546504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shanqi114514 不喜欢吃披萨（，还有那个超大烧瓶买不起🫪，很贵的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832707938764705792",
+        "conversation_id": "2088903764761792929",
+        "created_at": "2026-08-16T12:47:57.000Z",
+        "display_text_range": [
+          13,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088971021722546504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088971021722546504",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088903764761792929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 还有一个周边是不是那个烧瓶和披萨"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2088972825772401107",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8445,
+          "following_count": 1280,
+          "like_count": 69068,
+          "listed_count": 8,
+          "media_count": 3156,
+          "tweet_count": 19576
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-08T09:10:05.000Z",
+        "description": "高重生ISFP（一语三关）身高180，体重如同野猪，♂，欢迎各位选择性骚扰，想互关直接说就行，注：不是同 有要加我的话我的🚪就一分吧，不约，最近找人聊天，除了钱该有的都没有以为，什么都没有，但也什么都没有，最爱漫画《电锯人》（挚爱桃子🍑，桃子真的太伟大了你知道吗，不用和我关系太好把我当乐子就行，特别标注我是看皇的👁",
+        "id": "1832707938764705792",
+        "is_identity_verified": false,
+        "location": "American",
+        "most_recent_tweet_id": "2088971021722546504",
+        "name": "冢中枯骨（拉普兰德头像版",
+        "pinned_tweet_id": "1948359182081556617",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1832707938764705792/1744037457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052704051973025792/vXEGeGhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 372,
+          "like_count": 4455,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 2676
+        },
+        "url": "",
+        "username": "shanqi114514",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

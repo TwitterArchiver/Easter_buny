@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2092638830906196319",
+    "created_at": "2026-08-27T07:02:37.000Z",
+    "display_text_range": [
+      27,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T08:02:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092870382240022865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1522862031795372032",
+          "start": 0,
+          "username": "Alouette_zzz"
+        },
+        {
+          "end": 26,
+          "id": "1779747754216198144",
+          "start": 14,
+          "username": "Mercury_97z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092870382240022865",
+    "in_reply_to_user_id": "1522862031795372032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092831458805297381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alouette_zzz @Mercury_97z 喝蟑螂neinei（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2092638830906196319",
+        "created_at": "2026-08-27T07:02:37.000Z",
+        "display_text_range": [
+          27,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092870382240022865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1522862031795372032",
+              "start": 0,
+              "username": "Alouette_zzz"
+            },
+            {
+              "end": 26,
+              "id": "1779747754216198144",
+              "start": 14,
+              "username": "Mercury_97z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092870382240022865",
+        "in_reply_to_user_id": "1522862031795372032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092831458805297381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alouette_zzz @Mercury_97z 喝蟑螂neinei（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522862031795372032",
+        "conversation_id": "2092638830906196319",
+        "created_at": "2026-08-27T04:27:57.000Z",
+        "display_text_range": [
+          13,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T05:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092831458805297381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779747754216198144",
+              "start": 0,
+              "username": "Mercury_97z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092831458805297381",
+        "in_reply_to_user_id": "1779747754216198144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092825649375510853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercury_97z 不看…不看…喝neinei🍼…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2092870382240022865",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8678,
+          "following_count": 1285,
+          "like_count": 69461,
+          "listed_count": 9,
+          "media_count": 3144,
+          "tweet_count": 19653
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-07T08:53:09.000Z",
+        "description": "｜你总问别人好不好 那你好不好₍˄·͈༝·͈˄*₎◞ ̑̑｜｜°.✩┈⋆⁺幸福请降临在𝓛𝓮𝓿𝓲/左然/顾时夜/保科宗四郎/鸣海弦/SMTR25手中₊⋆┈✩.°｜｜宝宝@wslcdg20｜💚💙🤍🩵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "wslcdg20"
+              }
+            ]
+          }
+        },
+        "id": "1522862031795372032",
+        "is_identity_verified": false,
+        "location": "帕拉迪岛",
+        "most_recent_tweet_id": "2092857303934611651",
+        "name": "小叙大王",
+        "pinned_tweet_id": "1874419696596074498",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522862031795372032/1741331170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007425087050248192/vZN1cwT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 419,
+          "like_count": 55396,
+          "listed_count": 4,
+          "media_count": 1323,
+          "tweet_count": 11290
+        },
+        "url": "",
+        "username": "Alouette_zzz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-15T05:45:24.000Z",
+        "description": "热爱蓝色/双/超爱动漫/热爱美好肉体和有趣的帖子/爱互动/听得杂/看得杂/人有点乱七八糟/🈲️4i/🈲️zz相关话题/讨厌傻福会拉黑",
+        "id": "1779747754216198144",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092866185176207374",
+        "name": "苔咩咩𛰙᭜𖫴𖫰𖫱𖫳𖫲꛰ᩝ︪᭜𖫴𖫰𖫱𖫳𖫲꛰ᩝ𛰚",
+        "pinned_tweet_id": "2072293238267142341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1779747754216198144/1775748377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005372844805636096/6WLieqNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2336,
+          "following_count": 1608,
+          "like_count": 51744,
+          "listed_count": 8,
+          "media_count": 1156,
+          "tweet_count": 7663
+        },
+        "url": "",
+        "username": "Mercury_97z",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

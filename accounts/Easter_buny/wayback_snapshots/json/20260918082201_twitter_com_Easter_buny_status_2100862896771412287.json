@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2100831983479955628",
+    "created_at": "2026-09-18T08:22:01.000Z",
+    "display_text_range": [
+      13,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T09:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100862896771412287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2076338240345579520",
+          "start": 0,
+          "username": "yuyuyu_2778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100862896771412287",
+    "in_reply_to_user_id": "2076338240345579520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100831983479955628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyuyu_2778 这一口会很疯狂，哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7730,
+        "height": 1280,
+        "media_key": "13_2100831958771326976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100831958771326976/img/znWuYrKZpjIB1gsH.jpg",
+        "public_metrics": {
+          "view_count": 114
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100831958771326976/vid/avc1/320x568/prhTdbusYAYvJtxI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100831958771326976/vid/avc1/480x852/zWnTSaN6JTB7gpGl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100831958771326976/vid/avc1/720x1280/MTD8e2ZRUZsHfnUo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100831958771326976/pl/DzuSgoT58IqEoZpv.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2100831983479955628",
+        "created_at": "2026-09-18T08:22:01.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T09:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100862896771412287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2076338240345579520",
+              "start": 0,
+              "username": "yuyuyu_2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100862896771412287",
+        "in_reply_to_user_id": "2076338240345579520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100831983479955628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyuyu_2778 这一口会很疯狂，哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100831958771326976"
+          ]
+        },
+        "author_id": "2076338240345579520",
+        "conversation_id": "2100831983479955628",
+        "created_at": "2026-09-18T06:19:11.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100831983479955628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uUHEA8TL3s",
+              "end": 31,
+              "expanded_url": "https://x.com/yuyuyu_2778/status/2100831983479955628/video/1",
+              "media_key": "13_2100831958771326976",
+              "start": 8,
+              "url": "https://t.co/uUHEA8TL3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100831983479955628",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2100831958771326976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 547,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老实人豁出去了 https://t.co/uUHEA8TL3s"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2100862896771412287",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8739,
+          "following_count": 1308,
+          "like_count": 70608,
+          "listed_count": 9,
+          "media_count": 3186,
+          "tweet_count": 19973
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-12T16:12:51.000Z",
+        "description": "喜欢我请给我打钱",
+        "id": "2076338240345579520",
+        "is_identity_verified": false,
+        "location": "🚪88 288",
+        "most_recent_tweet_id": "2100831983479955628",
+        "name": "苦桃",
+        "pinned_tweet_id": "2090006420540580348",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076338240345579520/1787420436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099388583429984256/upr0lEnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 72,
+          "like_count": 849,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 287
+        },
+        "url": "",
+        "username": "yuyuyu_2778",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

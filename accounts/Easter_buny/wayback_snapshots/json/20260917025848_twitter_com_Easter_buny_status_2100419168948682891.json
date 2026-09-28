@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2100415354883498298",
+    "created_at": "2026-09-17T02:58:48.000Z",
+    "display_text_range": [
+      15,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T03:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100419168948682891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1483726186991669250",
+          "start": 0,
+          "username": "EggTarts_King"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100419168948682891",
+    "in_reply_to_user_id": "1483726186991669250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100415354883498298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EggTarts_King 这个msk太坏了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100415339318415360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYsn2TbEAAp7rd.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2100415354883498298",
+        "created_at": "2026-09-17T02:58:48.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T03:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100419168948682891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1483726186991669250",
+              "start": 0,
+              "username": "EggTarts_King"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100419168948682891",
+        "in_reply_to_user_id": "1483726186991669250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100415354883498298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EggTarts_King 这个msk太坏了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100415339318415360"
+          ]
+        },
+        "author_id": "1483726186991669250",
+        "conversation_id": "2100415354883498298",
+        "created_at": "2026-09-17T02:43:39.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T03:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100415354883498298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lUF1Y8ruQU",
+              "end": 25,
+              "expanded_url": "https://x.com/EggTarts_King/status/2100415354883498298/photo/1",
+              "media_key": "3_2100415339318415360",
+              "start": 2,
+              "url": "https://t.co/lUF1Y8ruQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100415354883498298",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2100415339318415360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "6 https://t.co/lUF1Y8ruQU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2100419168948682891",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8730,
+          "following_count": 1304,
+          "like_count": 70549,
+          "listed_count": 9,
+          "media_count": 3186,
+          "tweet_count": 19956
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-19T09:01:16.000Z",
+        "description": "何で",
+        "id": "1483726186991669250",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100415354883498298",
+        "name": "くろいタバコ",
+        "pinned_tweet_id": "1824664213555646491",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1483726186991669250/1781785995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036646525116506112/OCgXH5FQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 288,
+          "like_count": 725,
+          "listed_count": 4,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "EggTarts_King",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

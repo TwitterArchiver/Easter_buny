@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2097323105089675710",
+    "created_at": "2026-09-09T03:14:08.000Z",
+    "display_text_range": [
+      12,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T04:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097523926788431990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2250064058",
+          "start": 0,
+          "username": "RatsPicnic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097523926788431990",
+    "in_reply_to_user_id": "2250064058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097323105089675710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RatsPicnic 我的花枝鼠也会这样，只不过更多的是吃醋，如果我在一只面前抚摸另一只，对方会生气的用牙齿拉拽我摸的那只耳朵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20130,
+        "height": 1280,
+        "media_key": "13_2097323043890876416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097323043890876416/img/WIf2dGb0XsERTbyF.jpg",
+        "public_metrics": {
+          "view_count": 12764
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097323043890876416/vid/avc1/320x568/0sMwwXMw2Syw8sDf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097323043890876416/vid/avc1/480x852/MpW9PB55f2yS3mua.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097323043890876416/vid/avc1/720x1280/A8Hb0YFtE9C4HQB1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097323043890876416/pl/Rtwx6AzezMzscLgN.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2097323105089675710",
+        "created_at": "2026-09-09T03:14:08.000Z",
+        "display_text_range": [
+          12,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T04:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097523926788431990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2250064058",
+              "start": 0,
+              "username": "RatsPicnic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097523926788431990",
+        "in_reply_to_user_id": "2250064058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097323105089675710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RatsPicnic 我的花枝鼠也会这样，只不过更多的是吃醋，如果我在一只面前抚摸另一只，对方会生气的用牙齿拉拽我摸的那只耳朵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097323043890876416"
+          ]
+        },
+        "author_id": "2250064058",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1493177750324056064",
+              "name": "Babies"
+            }
+          }
+        ],
+        "conversation_id": "2097323105089675710",
+        "created_at": "2026-09-08T13:56:09.000Z",
+        "display_text_range": [
+          0,
+          250
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T14:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097323105089675710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GNeu2es7c6",
+              "end": 274,
+              "expanded_url": "https://x.com/RatsPicnic/status/2097323105089675710/video/1",
+              "media_key": "13_2097323043890876416",
+              "start": 251,
+              "url": "https://t.co/GNeu2es7c6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097323105089675710",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2097323043890876416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 280,
+          "impression_count": 27769,
+          "like_count": 1876,
+          "quote_count": 16,
+          "reply_count": 10,
+          "retweet_count": 210
+        },
+        "reply_settings": "everyone",
+        "text": "History repeats itself 😭🙏\nGrey, just a baby herself had misplaced maternal instincts for her big sister Junebug, and would try and pull her to safety when she was too close to an edge. \nTwo years later, she’s now doing it to her younger sister, Bunny https://t.co/GNeu2es7c6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2097523926788431990",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8707,
+          "following_count": 1281,
+          "like_count": 70061,
+          "listed_count": 9,
+          "media_count": 3166,
+          "tweet_count": 19808
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-12-17T08:32:06.000Z",
+        "description": "🐀✨ Ratposting 🩺💉Helpin animals and tattooin",
+        "id": "2250064058",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097370209673777546",
+        "name": "a bunch of rats✨",
+        "pinned_tweet_id": "1998789014904549471",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2250064058/1721869735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993808600074997760/TXAzmCRZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41883,
+          "following_count": 45,
+          "like_count": 70072,
+          "listed_count": 160,
+          "media_count": 9523,
+          "tweet_count": 35393
+        },
+        "url": "",
+        "username": "RatsPicnic",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

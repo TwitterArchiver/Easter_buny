@@ -1,0 +1,565 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      }
+    ],
+    "conversation_id": "2098730400827019393",
+    "created_at": "2026-09-12T11:08:14.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T12:08:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098730400827019393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863834927914942464",
+          "start": 3,
+          "username": "MoBuds314"
+        },
+        {
+          "end": 120,
+          "id": "1693708138812235776",
+          "start": 111,
+          "username": "N_A_S_C_"
+        },
+        {
+          "end": 131,
+          "id": "3900486073",
+          "start": 123,
+          "username": "VIVOSUN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098730400827019393",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097332125661811116",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MoBuds314: rdwc - early veg to harvest the chocolate truffle shuffle (right) and grease truck (right) from @N_A_S_C_ \n\n@VIVOSUN  @Hydra…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 327819,
+        "height": 3412,
+        "media_key": "13_2097331329729732608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097331329729732608/img/BnqkCzgvzOGnlotY.jpg",
+        "public_metrics": {
+          "view_count": 15780
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097331329729732608/vid/avc1/720x1278/IOt7Di_tYiNRPsL0.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097331329729732608/vid/avc1/1920x3412/U2MfCOuA9SVDEZHW.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097331329729732608/vid/avc1/320x568/YBlHiHQZqd3i2XtZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097331329729732608/pl/DmyRI2GT9-TxyhQN.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097331329729732608/vid/avc1/480x852/VyibUp5Krl3uchr1.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097331329729732608/vid/avc1/1080x1918/Cdbh6HOj8sqgHkk6.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          }
+        ],
+        "conversation_id": "2098730400827019393",
+        "created_at": "2026-09-12T11:08:14.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T12:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098730400827019393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863834927914942464",
+              "start": 3,
+              "username": "MoBuds314"
+            },
+            {
+              "end": 120,
+              "id": "1693708138812235776",
+              "start": 111,
+              "username": "N_A_S_C_"
+            },
+            {
+              "end": 131,
+              "id": "3900486073",
+              "start": 123,
+              "username": "VIVOSUN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098730400827019393",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097332125661811116",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MoBuds314: rdwc - early veg to harvest the chocolate truffle shuffle (right) and grease truck (right) from @N_A_S_C_ \n\n@VIVOSUN  @Hydra…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097331329729732608"
+          ]
+        },
+        "author_id": "1863834927914942464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+              "id": "1557696986668707842",
+              "name": "Household Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Gardening",
+              "id": "864913136821784576",
+              "name": "Gardening"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gardening",
+              "id": "864913136821784576",
+              "name": "Gardening"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278016095144665089",
+              "name": "At home"
+            }
+          }
+        ],
+        "conversation_id": "2097332125661811116",
+        "created_at": "2026-09-08T14:31:59.000Z",
+        "display_text_range": [
+          0,
+          209
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T15:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097332125661811116"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 174,
+              "start": 169,
+              "tag": "rdwc"
+            },
+            {
+              "end": 181,
+              "start": 175,
+              "tag": "hydro"
+            },
+            {
+              "end": 192,
+              "start": 182,
+              "tag": "timelapse"
+            },
+            {
+              "end": 198,
+              "start": 193,
+              "tag": "rdwc"
+            },
+            {
+              "end": 209,
+              "start": 199,
+              "tag": "gardening"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 105,
+              "id": "1693708138812235776",
+              "start": 96,
+              "username": "N_A_S_C_"
+            },
+            {
+              "end": 116,
+              "id": "3900486073",
+              "start": 108,
+              "username": "VIVOSUN"
+            },
+            {
+              "end": 133,
+              "id": "775624903148052480",
+              "start": 118,
+              "username": "HydraunLimited"
+            },
+            {
+              "end": 149,
+              "id": "46216725",
+              "start": 134,
+              "username": "currentculture"
+            },
+            {
+              "end": 167,
+              "id": "1929358417766047744",
+              "start": 151,
+              "username": "Elufah_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vSDWpLIeA3",
+              "end": 233,
+              "expanded_url": "https://x.com/MoBuds314/status/2097332125661811116/video/1",
+              "media_key": "13_2097331329729732608",
+              "start": 210,
+              "url": "https://t.co/vSDWpLIeA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097332125661811116",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2097331329729732608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 10030,
+          "like_count": 509,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "rdwc - early veg to harvest the chocolate truffle shuffle (right) and grease truck (right) from @N_A_S_C_ \n\n@VIVOSUN  @HydraUnlimited @currentculture  @Elufah_official \n#rdwc #hydro #timelapse #rdwc #gardening https://t.co/vSDWpLIeA3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2098730400827019393",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8713,
+          "following_count": 1289,
+          "like_count": 70358,
+          "listed_count": 9,
+          "media_count": 3174,
+          "tweet_count": 19875
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-03T06:37:57.000Z",
+        "description": "Come learn to grow with me as I learn. I want to give you the confidence. let's grow some monsters. \n👇👇DISCOUNTS BELOW 👇👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/mobuds314",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/mobuds314",
+                "start": 0,
+                "url": "https://t.co/VR4RBem23J"
+              }
+            ]
+          }
+        },
+        "id": "1863834927914942464",
+        "is_identity_verified": false,
+        "location": "St Louis, MO",
+        "most_recent_tweet_id": "2098621515080114283",
+        "name": "MoBuds314",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1863834927914942464/1733267585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866885029852332032/tH__R-Uz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4110,
+          "following_count": 53,
+          "like_count": 888,
+          "listed_count": 2,
+          "media_count": 458,
+          "tweet_count": 1254
+        },
+        "url": "https://t.co/VR4RBem23J",
+        "username": "MoBuds314",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-21T19:34:45.000Z",
+        "description": "🏆ICA-Best Online Seed Shop USA 2024 & 2025🏆 info@northatlanticseed.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "northatlanticseed.com",
+                "end": 23,
+                "expanded_url": "http://www.northatlanticseed.com",
+                "start": 0,
+                "url": "https://t.co/N8T8CMkEXh"
+              }
+            ]
+          }
+        },
+        "id": "1693708138812235776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098441958171574739",
+        "name": "North Atlantic Seed Co.",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1693708138812235776/1692647938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925987656225185792/VfVYKefY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2537,
+          "following_count": 100,
+          "like_count": 739,
+          "listed_count": 5,
+          "media_count": 1399,
+          "tweet_count": 1798
+        },
+        "url": "https://t.co/N8T8CMkEXh",
+        "username": "N_A_S_C_",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-10-15T07:37:58.000Z",
+        "description": "We believe in making indoor growing accessible and effortless.\nLove Growing Green. 💚\nEnjoy 10% off your first order with code VSX. \n\nhttps://t.co/VERyElOvPq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linkin.bio/vivosun",
+                "end": 156,
+                "expanded_url": "https://linkin.bio/vivosun",
+                "start": 133,
+                "url": "https://t.co/VERyElOvPq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vivosun.com/?utm_source=MK…",
+                "end": 23,
+                "expanded_url": "https://vivosun.com/?utm_source=MKT&utm_medium=Community&utm_campaign=discord",
+                "start": 0,
+                "url": "https://t.co/pOagfPvaGW"
+              }
+            ]
+          }
+        },
+        "id": "3900486073",
+        "is_identity_verified": false,
+        "location": "California",
+        "most_recent_tweet_id": "2098355801731809683",
+        "name": "Vivosun.official",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3900486073/1752628327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057728534450524160/uuOMILKx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5519,
+          "following_count": 34,
+          "like_count": 1944,
+          "listed_count": 17,
+          "media_count": 802,
+          "tweet_count": 1414
+        },
+        "url": "https://t.co/pOagfPvaGW",
+        "username": "VIVOSUN",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

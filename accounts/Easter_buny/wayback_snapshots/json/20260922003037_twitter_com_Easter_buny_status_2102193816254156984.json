@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2102193816254156984",
+    "created_at": "2026-09-22T00:30:37.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T01:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102193816254156984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1558557957461225472",
+          "start": 3,
+          "username": "NorCalRoe78"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102193816254156984",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101849613271760961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NorCalRoe78: THCa (Left) and CBDa (Right) look identical pure.\n\nWhen those two decarboxylate, they change forms and transition to an oi…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1039,
+        "media_key": "3_2101849606187548672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HStFFKwagAA_84L.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1452,
+        "media_key": "3_2101849609991847936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HStFFY7bgAAQ5TB.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2102193816254156984",
+        "created_at": "2026-09-22T00:30:37.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T01:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102193816254156984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1558557957461225472",
+              "start": 3,
+              "username": "NorCalRoe78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102193816254156984",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101849613271760961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NorCalRoe78: THCa (Left) and CBDa (Right) look identical pure.\n\nWhen those two decarboxylate, they change forms and transition to an oi…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101849606187548672",
+            "3_2101849609991847936"
+          ]
+        },
+        "author_id": "1558557957461225472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299448895777374208",
+              "name": "Dieting"
+            }
+          }
+        ],
+        "conversation_id": "2101849613271760961",
+        "created_at": "2026-09-21T01:42:52.000Z",
+        "display_text_range": [
+          0,
+          270
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T02:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101849613271760961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1gkupk5A0V",
+              "end": 294,
+              "expanded_url": "https://x.com/NorCalRoe78/status/2101849613271760961/photo/1",
+              "media_key": "3_2101849606187548672",
+              "start": 271,
+              "url": "https://t.co/1gkupk5A0V"
+            },
+            {
+              "display_url": "pic.x.com/1gkupk5A0V",
+              "end": 294,
+              "expanded_url": "https://x.com/NorCalRoe78/status/2101849613271760961/photo/1",
+              "media_key": "3_2101849609991847936",
+              "start": 271,
+              "url": "https://t.co/1gkupk5A0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101849613271760961",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2101849606187548672"
+          },
+          {
+            "media_key": "3_2101849609991847936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 9514,
+          "like_count": 82,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "THCa (Left) and CBDa (Right) look identical pure.\n\nWhen those two decarboxylate, they change forms and transition to an oil aka \"THC or CBD Oil\"\n\n1g of either of these is enough to make ingredients that contribute to a healthy diet. \n\nThey want us focused on smoking it. https://t.co/1gkupk5A0V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2102193816254156984",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8750,
+          "following_count": 1314,
+          "like_count": 70777,
+          "listed_count": 9,
+          "media_count": 3190,
+          "tweet_count": 20002
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-13T20:56:26.000Z",
+        "description": "Just an observer, observing the world around him. I don't have many answers, but have a fuck ton of questions.",
+        "id": "1558557957461225472",
+        "is_identity_verified": false,
+        "location": "Non Localized Reality",
+        "most_recent_tweet_id": "2102175093657100313",
+        "name": "Justan Observer",
+        "pinned_tweet_id": "2021631582830993707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1558557957461225472/1731504504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670800411790327820/WEOcYaBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 160,
+          "like_count": 12654,
+          "listed_count": 10,
+          "media_count": 8147,
+          "tweet_count": 43011
+        },
+        "url": "",
+        "username": "NorCalRoe78",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2098779131848589671",
+    "created_at": "2026-09-12T15:23:09.000Z",
+    "display_text_range": [
+      11,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T16:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098794553738481692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1948035186584670209",
+          "start": 0,
+          "username": "thctroche"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098794553738481692",
+    "in_reply_to_user_id": "1948035186584670209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098792311622717547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thctroche 我是自己一个人住，但是因为经常过敏，所以有时候担心衣服上沾染什么脏东西洗不干净导致我过敏，就会加这些消毒产品，我有时候比较极端的时候会放氢氧化钠泡🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2098779131848589671",
+        "created_at": "2026-09-12T15:23:09.000Z",
+        "display_text_range": [
+          11,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098794553738481692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1948035186584670209",
+              "start": 0,
+              "username": "thctroche"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098794553738481692",
+        "in_reply_to_user_id": "1948035186584670209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098792311622717547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thctroche 我是自己一个人住，但是因为经常过敏，所以有时候担心衣服上沾染什么脏东西洗不干净导致我过敏，就会加这些消毒产品，我有时候比较极端的时候会放氢氧化钠泡🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948035186584670209",
+        "conversation_id": "2098779131848589671",
+        "created_at": "2026-09-12T15:14:15.000Z",
+        "display_text_range": [
+          13,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098792311622717547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098792311622717547",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098791570682335468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 我在国内学校用洗衣机也倒滴露"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2098794553738481692",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8718,
+          "following_count": 1291,
+          "like_count": 70398,
+          "listed_count": 9,
+          "media_count": 3175,
+          "tweet_count": 19885
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-23T15:01:34.000Z",
+        "description": "我只是个爱情的骗徒，是爱情的小坏蛋。Queer poly pan 🍳匿名提问⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shianbey",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shianbey",
+                "start": 0,
+                "url": "https://t.co/Ml7rVTONcx"
+              }
+            ]
+          }
+        },
+        "id": "1948035186584670209",
+        "is_identity_verified": false,
+        "location": "Pennsylvania, USA",
+        "most_recent_tweet_id": "2098794082076086285",
+        "name": "大麻軟糖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948035186584670209/1763941878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085830576418758656/_ry2AE4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 308,
+          "like_count": 3739,
+          "listed_count": 2,
+          "media_count": 378,
+          "tweet_count": 2453
+        },
+        "url": "https://t.co/Ml7rVTONcx",
+        "username": "thctroche",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
