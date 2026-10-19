@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2107363642736021564",
+    "created_at": "2026-10-06T12:06:49.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T13:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107442452823171490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1958169033528008704",
+          "start": 0,
+          "username": "Yukoi_uu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107442452823171490",
+    "in_reply_to_user_id": "1958169033528008704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107437490990931983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yukoi_uu 对，送人的礼物！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2107363642736021564",
+        "created_at": "2026-10-06T12:06:49.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T13:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107442452823171490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1958169033528008704",
+              "start": 0,
+              "username": "Yukoi_uu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107442452823171490",
+        "in_reply_to_user_id": "1958169033528008704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107437490990931983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yukoi_uu 对，送人的礼物！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958169033528008704",
+        "conversation_id": "2107363642736021564",
+        "created_at": "2026-10-06T11:47:06.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T12:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107437490990931983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107437490990931983",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107363642736021564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 巧克力兔兔啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "That day is coming soon...",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2107442452823171490",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8866,
+          "following_count": 1348,
+          "like_count": 71822,
+          "listed_count": 9,
+          "media_count": 3198,
+          "tweet_count": 20186
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-20T14:07:54.000Z",
+        "description": "骂我你就死了",
+        "id": "1958169033528008704",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2107441053309739324",
+        "name": "圈圈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1958169033528008704/1755894484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081915667083923456/pG4rod1__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 69,
+          "like_count": 331,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "Yukoi_uu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

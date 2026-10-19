@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2107478549989060837",
+    "created_at": "2026-10-06T14:30:16.000Z",
+    "display_text_range": [
+      0,
+      237
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T15:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107478549989060837"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2107478549989060837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吉他和鼓点在我脑内咆哮，脑海里一直重复\nI  can  still  hear  you  saying\nYou  would  never  break  the  chain\nYou  would  never  break  the  chain\nYou  would  never  break  the  chain\nYou  would  never  break  the  chain\nYou  would  never  break  the  chain"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2107478549989060837",
+        "created_at": "2026-10-06T14:30:16.000Z",
+        "display_text_range": [
+          0,
+          237
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T15:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107478549989060837"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107478549989060837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吉他和鼓点在我脑内咆哮，脑海里一直重复\nI  can  still  hear  you  saying\nYou  would  never  break  the  chain\nYou  would  never  break  the  chain\nYou  would  never  break  the  chain\nYou  would  never  break  the  chain\nYou  would  never  break  the  chain"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "That day is coming soon...",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2107478549989060837",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8866,
+          "following_count": 1351,
+          "like_count": 71855,
+          "listed_count": 9,
+          "media_count": 3201,
+          "tweet_count": 20194
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

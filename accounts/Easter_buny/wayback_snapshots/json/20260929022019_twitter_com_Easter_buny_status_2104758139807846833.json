@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2104746538505527705",
+    "created_at": "2026-09-29T02:20:19.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T03:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104758139807846833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2050195658603483136",
+          "start": 0,
+          "username": "Idontwanttmf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104758139807846833",
+    "in_reply_to_user_id": "2050195658603483136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104746538505527705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontwanttmf 吐舌那一下笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10066,
+        "height": 1280,
+        "media_key": "13_2104746509782958080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104746509782958080/img/KgVFTzUOy6M1UObJ.jpg",
+        "public_metrics": {
+          "view_count": 103
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104746509782958080/vid/avc1/320x568/JUFjMVatD9UrCVd2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104746509782958080/vid/avc1/480x852/FSSeHCj1kIGG6VvR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104746509782958080/vid/avc1/720x1280/WWtuqwhuaUpihlmH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104746509782958080/pl/OMXTXT6wSaFKdweI.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2104746538505527705",
+        "created_at": "2026-09-29T02:20:19.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T03:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104758139807846833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2050195658603483136",
+              "start": 0,
+              "username": "Idontwanttmf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104758139807846833",
+        "in_reply_to_user_id": "2050195658603483136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104746538505527705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontwanttmf 吐舌那一下笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104746509782958080"
+          ]
+        },
+        "author_id": "2050195658603483136",
+        "conversation_id": "2104746538505527705",
+        "created_at": "2026-09-29T01:34:13.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T02:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104746538505527705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SPhGOITvyK",
+              "end": 30,
+              "expanded_url": "https://x.com/Idontwanttmf/status/2104746538505527705/video/1",
+              "media_key": "13_2104746509782958080",
+              "start": 7,
+              "url": "https://t.co/SPhGOITvyK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104746538505527705",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2104746509782958080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "云南雪茄过肺 https://t.co/SPhGOITvyK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "That day is coming soon...",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2104758139807846833",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8806,
+          "following_count": 1328,
+          "like_count": 71264,
+          "listed_count": 9,
+          "media_count": 3186,
+          "tweet_count": 20087
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-01T12:49:21.000Z",
+        "description": "🚪88\n第四世\n前世：\n@kira20194922529\n@keaiiea\n@TheFirstKidz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 12,
+                "username": "kira20194922529"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "keaiiea"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "TheFirstKidz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keaiiea2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keaiiea2",
+                "start": 0,
+                "url": "https://t.co/YpqUDCP61D"
+              }
+            ]
+          }
+        },
+        "id": "2050195658603483136",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104753366983451047",
+        "name": "Jonas（4.0）",
+        "pinned_tweet_id": "2091201445618225564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050195658603483136/1784164826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077563930407546880/oMF7brlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 350,
+          "like_count": 8337,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 581
+        },
+        "url": "https://t.co/YpqUDCP61D",
+        "username": "Idontwanttmf",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

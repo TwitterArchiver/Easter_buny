@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2104468266429370752",
+    "created_at": "2026-09-28T08:09:49.000Z",
+    "display_text_range": [
+      11,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T09:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104483706656428386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2093261032005287936",
+          "start": 0,
+          "username": "Archer3td"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104483706656428386",
+    "in_reply_to_user_id": "2093261032005287936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104483226941325686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Archer3td 是可以，用湿一点的米饭，但是不要弄伤手了，然后外圈也用米饭糊一下！你要是不介意，还可以涂点胶粘一下，但是会有点味道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2104468266429370752",
+        "created_at": "2026-09-28T08:09:49.000Z",
+        "display_text_range": [
+          11,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T09:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104483706656428386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2093261032005287936",
+              "start": 0,
+              "username": "Archer3td"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104483706656428386",
+        "in_reply_to_user_id": "2093261032005287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104483226941325686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Archer3td 是可以，用湿一点的米饭，但是不要弄伤手了，然后外圈也用米饭糊一下！你要是不介意，还可以涂点胶粘一下，但是会有点味道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093261032005287936",
+        "conversation_id": "2104468266429370752",
+        "created_at": "2026-09-28T08:07:55.000Z",
+        "display_text_range": [
+          13,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T09:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104483226941325686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104483226941325686",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104482977124380697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 真的假的！！😭😭😭咋搞啊，我现在崩溃死了，卷烟像残疾人。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "That day is coming soon...",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2104483706656428386",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8796,
+          "following_count": 1322,
+          "like_count": 71188,
+          "listed_count": 9,
+          "media_count": 3184,
+          "tweet_count": 20075
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-28T08:56:11.000Z",
+        "description": "你在看我的同时我也在看你\n互fo请私",
+        "id": "2093261032005287936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104483226941325686",
+        "name": "Archer3.0复活版",
+        "pinned_tweet_id": "2093262594811261186",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093261032005287936/1787907549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093262000893591552/5AGfjuRy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 18,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 85
+        },
+        "url": "",
+        "username": "Archer3td",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

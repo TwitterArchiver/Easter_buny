@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2105713687818608672",
+    "created_at": "2026-10-02T03:12:38.000Z",
+    "display_text_range": [
+      12,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T04:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105858466908954676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "200113501",
+          "start": 0,
+          "username": "leaf3loveu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105858466908954676",
+    "in_reply_to_user_id": "200113501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105713687818608672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leaf3loveu 你是否在寻找“甲基苯丙胺”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2105713687818608672",
+        "created_at": "2026-10-02T03:12:38.000Z",
+        "display_text_range": [
+          12,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T04:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105858466908954676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "200113501",
+              "start": 0,
+              "username": "leaf3loveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105858466908954676",
+        "in_reply_to_user_id": "200113501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105713687818608672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leaf3loveu 你是否在寻找“甲基苯丙胺”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "200113501",
+        "conversation_id": "2105713687818608672",
+        "created_at": "2026-10-01T17:37:20.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T18:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105713687818608672"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105713687818608672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1906,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有什么药o完会食欲大减。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "That day is coming soon...",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2105858466908954676",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8819,
+          "following_count": 1331,
+          "like_count": 71447,
+          "listed_count": 9,
+          "media_count": 3189,
+          "tweet_count": 20116
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-10-08T13:44:33.000Z",
+        "description": "我该用几行字才能写尽我一生的痛楚\n\n防炸号@leaf5loveu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "leaf5loveu"
+              }
+            ]
+          }
+        },
+        "id": "200113501",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105715887169024380",
+        "name": "叶子大帝四世",
+        "pinned_tweet_id": "2093952083607404589",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093951095982940160/QfuHu2Pw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 211,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 396
+        },
+        "url": "",
+        "username": "leaf3loveu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

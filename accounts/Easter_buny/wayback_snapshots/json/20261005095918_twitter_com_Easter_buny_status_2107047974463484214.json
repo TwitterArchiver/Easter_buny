@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2107047856465154048"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "conversation_id": "2107039616050278777",
+    "created_at": "2026-10-05T09:59:18.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T10:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107047974463484214"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ltrLx7VQIA",
+          "end": 33,
+          "expanded_url": "https://x.com/Easter_buny/status/2107047974463484214/video/1",
+          "media_key": "13_2107047856465154048",
+          "start": 10,
+          "url": "https://t.co/ltrLx7VQIA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107047974463484214",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2107047856465154048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107039616050278777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "旋转跳跃我闭着眼（ https://t.co/ltrLx7VQIA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9850,
+        "height": 1920,
+        "media_key": "13_2107047856465154048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107047856465154048/img/3-WjmaQjx8Tcgt_c.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107047856465154048/vid/avc1/480x852/CRtrIoIwpHFLlQzJ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107047856465154048/vid/avc1/1080x1920/2mrNTnlTMCqxBiOk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107047856465154048/pl/yj8yZvS3ewiKcxG6.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107047856465154048/vid/avc1/320x568/-DSe47DiqVq_HbLN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107047856465154048/vid/avc1/720x1280/TqwAKRwJa9wDevSs.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 978,
+        "media_key": "3_2107039603626815488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT21Wx3bMAA3XeI.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2107039603626749953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT21Wx3aMAEVc4V.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107047856465154048"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2107039616050278777",
+        "created_at": "2026-10-05T09:59:18.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T10:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107047974463484214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ltrLx7VQIA",
+              "end": 33,
+              "expanded_url": "https://x.com/Easter_buny/status/2107047974463484214/video/1",
+              "media_key": "13_2107047856465154048",
+              "start": 10,
+              "url": "https://t.co/ltrLx7VQIA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107047974463484214",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2107047856465154048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107039616050278777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "旋转跳跃我闭着眼（ https://t.co/ltrLx7VQIA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107039603626815488",
+            "3_2107039603626749953"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2107039616050278777",
+        "created_at": "2026-10-05T09:26:06.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T10:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107039616050278777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Spi0w6ExKo",
+              "end": 31,
+              "expanded_url": "https://x.com/Easter_buny/status/2107039616050278777/photo/1",
+              "media_key": "3_2107039603626815488",
+              "start": 8,
+              "url": "https://t.co/Spi0w6ExKo"
+            },
+            {
+              "display_url": "pic.x.com/Spi0w6ExKo",
+              "end": 31,
+              "expanded_url": "https://x.com/Easter_buny/status/2107039616050278777/photo/1",
+              "media_key": "3_2107039603626749953",
+              "start": 8,
+              "url": "https://t.co/Spi0w6ExKo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107039616050278777",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107039603626815488"
+          },
+          {
+            "media_key": "3_2107039603626749953"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 161,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兔兔大厨出餐中 https://t.co/Spi0w6ExKo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "That day is coming soon...",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2107047974463484214",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8849,
+          "following_count": 1344,
+          "like_count": 71761,
+          "listed_count": 9,
+          "media_count": 3197,
+          "tweet_count": 20175
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

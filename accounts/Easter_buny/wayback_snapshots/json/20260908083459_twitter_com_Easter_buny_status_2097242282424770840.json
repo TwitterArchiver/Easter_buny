@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2097012019048432015",
+    "created_at": "2026-09-08T08:34:59.000Z",
+    "display_text_range": [
+      9,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T09:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097242282424770840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1971786415420985350",
+          "start": 0,
+          "username": "mob_luu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097242282424770840",
+    "in_reply_to_user_id": "1971786415420985350",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097012019048432015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mob_luu 我不行了🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2097012019048432015",
+        "created_at": "2026-09-08T08:34:59.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T09:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097242282424770840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1971786415420985350",
+              "start": 0,
+              "username": "mob_luu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097242282424770840",
+        "in_reply_to_user_id": "1971786415420985350",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097012019048432015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mob_luu 我不行了🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971786415420985350",
+        "conversation_id": "2097012019048432015",
+        "created_at": "2026-09-07T17:20:00.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T18:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097012019048432015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/he_chen37067/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/he_chen37067/status/2096981160647708988",
+              "start": 13,
+              "url": "https://t.co/ZfCOFvGL9I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097012019048432015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 776,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096981160647708988",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要转发这段文字报复推友 https://t.co/ZfCOFvGL9I"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2097242282424770840",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8704,
+          "following_count": 1291,
+          "like_count": 70016,
+          "listed_count": 9,
+          "media_count": 3162,
+          "tweet_count": 19786
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-27T03:58:35.000Z",
+        "description": "🎨&🪢&📷",
+        "id": "1971786415420985350",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097013885568221463",
+        "name": "🍄",
+        "pinned_tweet_id": "2092462441527734685",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971786415420985350/1770616552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020738183626158080/_409gA5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 190,
+          "like_count": 13984,
+          "listed_count": 3,
+          "media_count": 11,
+          "tweet_count": 840
+        },
+        "url": "",
+        "username": "mob_luu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

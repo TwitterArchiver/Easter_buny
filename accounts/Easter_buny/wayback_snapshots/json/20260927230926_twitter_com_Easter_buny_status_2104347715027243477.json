@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2104347715027243477",
+    "created_at": "2026-09-27T23:09:26.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T00:09:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104347715027243477"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/erqiu8013/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/erqiu8013/status/2104201124521939166",
+          "start": 16,
+          "url": "https://t.co/zH1jNFNnLJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104347715027243477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104201124521939166",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉，4年以来看到了太多的人离去 https://t.co/zH1jNFNnLJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2104347715027243477",
+        "created_at": "2026-09-27T23:09:26.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T00:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104347715027243477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/erqiu8013/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/erqiu8013/status/2104201124521939166",
+              "start": 16,
+              "url": "https://t.co/zH1jNFNnLJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104347715027243477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104201124521939166",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉，4年以来看到了太多的人离去 https://t.co/zH1jNFNnLJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735700650472955904",
+        "conversation_id": "2104201124521939166",
+        "created_at": "2026-09-27T13:26:56.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T14:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104201124521939166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104201124521939166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 526,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推油换了一批又一批，\n不用一年，半年，一个月，有的甚至一周\n都是完全不同的世界了，只剩下旧时代的残影…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "That day is coming soon...",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2104347715027243477",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8791,
+          "following_count": 1322,
+          "like_count": 71125,
+          "listed_count": 9,
+          "media_count": 3182,
+          "tweet_count": 20059
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-15T16:37:52.000Z",
+        "description": "秋儿｜降临派\n低能量 + 薬changing + 二次元 + 音游\nLGBTQ+友好，以及肮脏的过去\n欢迎互fo～遗漏私信回fo，\nip香港\n我们终究会走到对岸\n高强度转低强度发推  \n下面匿名提问箱喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/erqiu8013",
+                "end": 23,
+                "expanded_url": "https://ngl.link/erqiu8013",
+                "start": 0,
+                "url": "https://t.co/bhxSdtgAac"
+              }
+            ]
+          }
+        },
+        "id": "1735700650472955904",
+        "is_identity_verified": false,
+        "location": "night city",
+        "most_recent_tweet_id": "2104250879729905870",
+        "name": "𝓦𝓪𝓷𝓰 𝓠𝓲𝓾𝓮𝓻（秋儿）降临派",
+        "pinned_tweet_id": "2074415591658783121",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1735700650472955904/1772951055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967985654865989634/AOuJ3T6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 1684,
+          "like_count": 25716,
+          "listed_count": 4,
+          "media_count": 749,
+          "tweet_count": 5601
+        },
+        "url": "https://t.co/bhxSdtgAac",
+        "username": "ErQiu8013",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

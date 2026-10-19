@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2107843071551652038",
+    "created_at": "2026-10-08T00:43:35.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T01:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107995287017160882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1824473858575130624",
+          "start": 0,
+          "username": "pppppp105017107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107995287017160882",
+    "in_reply_to_user_id": "1824473858575130624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107843071551652038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pppppp105017107 给我（理直气壮"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2107843071551652038].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2107843071551652038",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2107843071551652038"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2107843071551652038",
+        "created_at": "2026-10-08T00:43:35.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T01:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107995287017160882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1824473858575130624",
+              "start": 0,
+              "username": "pppppp105017107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107995287017160882",
+        "in_reply_to_user_id": "1824473858575130624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107843071551652038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pppppp105017107 给我（理直气壮"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "That day is coming soon...",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2107995287017160882",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8861,
+          "following_count": 1355,
+          "like_count": 71883,
+          "listed_count": 9,
+          "media_count": 3201,
+          "tweet_count": 20203
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-16T15:50:47.000Z",
+        "description": "全网倒数第一不好惹的人",
+        "id": "1824473858575130624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2007142857589891579",
+        "name": "用户37796",
+        "pinned_tweet_id": "2084286373931237865",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1824473858575130624/1726901241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011065550693113856/QlbJB-SZ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 45,
+          "like_count": 2715,
+          "listed_count": 0,
+          "media_count": 581,
+          "tweet_count": 1908
+        },
+        "url": "",
+        "username": "pppppp105017107",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

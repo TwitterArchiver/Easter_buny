@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2107460047790055424",
+        "13_2107460047798501376"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "conversation_id": "2107460178346201543",
+    "created_at": "2026-10-06T13:17:15.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T14:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107460178346201543"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xmmgEm7OOA",
+          "end": 33,
+          "expanded_url": "https://x.com/Easter_buny/status/2107460178346201543/video/1",
+          "media_key": "13_2107460047790055424",
+          "start": 10,
+          "url": "https://t.co/xmmgEm7OOA"
+        },
+        {
+          "display_url": "pic.x.com/xmmgEm7OOA",
+          "end": 33,
+          "expanded_url": "https://x.com/Easter_buny/status/2107460178346201543/video/1",
+          "media_key": "13_2107460047798501376",
+          "start": 10,
+          "url": "https://t.co/xmmgEm7OOA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107460178346201543",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2107460047790055424"
+      },
+      {
+        "media_key": "13_2107460047798501376"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "剧烈变形，剧烈，爽 https://t.co/xmmgEm7OOA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 49988,
+        "height": 1920,
+        "media_key": "13_2107460047790055424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107460047790055424/img/wypqJKjTQp7V6Hfn.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107460047790055424/pl/eWTtPwlU-EuPa_3x.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107460047790055424/vid/avc1/320x568/OC9RTn--htjwXDKM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107460047790055424/vid/avc1/480x852/o5_cejqYrp6f88TE.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107460047790055424/vid/avc1/1080x1920/gx5KY_Fj6p5XAdA3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107460047790055424/vid/avc1/720x1280/AWzpw_WuoJ1ryA14.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 77056,
+        "height": 1080,
+        "media_key": "13_2107460047798501376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107460047798501376/img/9aXxYzhIlqWj8ee9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107460047798501376/pl/tlfKwh0gg4wznNgr.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107460047798501376/vid/avc1/1920x1080/_G4A0uUVuBtq7ukE.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107460047798501376/vid/avc1/640x360/tThjqFGBBz_RH_3I.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107460047798501376/vid/avc1/480x270/NY5y7ZKgbFz-EO4N.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107460047798501376/vid/avc1/1280x720/vtAlDNIR7G8nIYwH.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107460047790055424",
+            "13_2107460047798501376"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2107460178346201543",
+        "created_at": "2026-10-06T13:17:15.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T14:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107460178346201543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xmmgEm7OOA",
+              "end": 33,
+              "expanded_url": "https://x.com/Easter_buny/status/2107460178346201543/video/1",
+              "media_key": "13_2107460047790055424",
+              "start": 10,
+              "url": "https://t.co/xmmgEm7OOA"
+            },
+            {
+              "display_url": "pic.x.com/xmmgEm7OOA",
+              "end": 33,
+              "expanded_url": "https://x.com/Easter_buny/status/2107460178346201543/video/1",
+              "media_key": "13_2107460047798501376",
+              "start": 10,
+              "url": "https://t.co/xmmgEm7OOA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107460178346201543",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2107460047790055424"
+          },
+          {
+            "media_key": "13_2107460047798501376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剧烈变形，剧烈，爽 https://t.co/xmmgEm7OOA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "That day is coming soon...",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2107460178346201543",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8865,
+          "following_count": 1349,
+          "like_count": 71847,
+          "listed_count": 9,
+          "media_count": 3201,
+          "tweet_count": 20192
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

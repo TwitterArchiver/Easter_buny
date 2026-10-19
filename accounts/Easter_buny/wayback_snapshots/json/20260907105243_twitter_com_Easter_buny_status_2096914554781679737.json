@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2096822634881409456",
+    "created_at": "2026-09-07T10:52:43.000Z",
+    "display_text_range": [
+      13,
+      121
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T11:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096914554781679737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946132863457595392",
+          "start": 0,
+          "username": "AmieReineke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096914554781679737",
+    "in_reply_to_user_id": "1946132863457595392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096822634881409456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmieReineke 到最后的几步可以时间拉长一点，可以再增加一个50mg-75mg左右的剂量，当然也不能直接停，到最后隔一天吃一次，彻底停药最好需要每天吃一粒阿普吃几天可以了，阿普一粒吃，基本上不会上瘾之类的，主要是缓解戒断带来的不舒服"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1950,
+        "media_key": "3_2096822621568749568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlpEJub0AAzAcZ.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2096822634881409456",
+        "created_at": "2026-09-07T10:52:43.000Z",
+        "display_text_range": [
+          13,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096914554781679737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946132863457595392",
+              "start": 0,
+              "username": "AmieReineke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096914554781679737",
+        "in_reply_to_user_id": "1946132863457595392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096822634881409456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmieReineke 到最后的几步可以时间拉长一点，可以再增加一个50mg-75mg左右的剂量，当然也不能直接停，到最后隔一天吃一次，彻底停药最好需要每天吃一粒阿普吃几天可以了，阿普一粒吃，基本上不会上瘾之类的，主要是缓解戒断带来的不舒服"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096822621568749568"
+          ]
+        },
+        "author_id": "1946132863457595392",
+        "conversation_id": "2096822634881409456",
+        "created_at": "2026-09-07T04:47:27.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096822634881409456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ALvS3dsQ2r",
+              "end": 44,
+              "expanded_url": "https://x.com/AmieReineke/status/2096822634881409456/photo/1",
+              "media_key": "3_2096822621568749568",
+              "start": 21,
+              "url": "https://t.co/ALvS3dsQ2r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096822634881409456",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096822621568749568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加油&gt;ෆ&lt;\n普瑞继续戒断中… https://t.co/ALvS3dsQ2r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2096914554781679737",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8701,
+          "following_count": 1292,
+          "like_count": 69994,
+          "listed_count": 9,
+          "media_count": 3160,
+          "tweet_count": 19775
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-18T09:00:21.000Z",
+        "description": "我只是呆着……\n前世：@classictramp\n🚪5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "classictramp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.com/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.com/hz/wishlist/ls/2RVYUQ69UEC4A?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/xhKiFIWdTX"
+              }
+            ]
+          }
+        },
+        "id": "1946132863457595392",
+        "is_identity_verified": false,
+        "location": "Stuart, FL",
+        "most_recent_tweet_id": "2096904967596699792",
+        "name": "電波小奶牛",
+        "pinned_tweet_id": "2096537916038332588",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946132863457595392/1784302533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087888700663382016/-cX8Tt5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 115,
+          "like_count": 1309,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 363
+        },
+        "url": "https://t.co/xhKiFIWdTX",
+        "username": "AmieReineke",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

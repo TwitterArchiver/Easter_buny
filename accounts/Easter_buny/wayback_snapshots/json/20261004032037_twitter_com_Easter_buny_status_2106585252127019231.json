@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2106392921071300929",
+    "created_at": "2026-10-04T03:20:37.000Z",
+    "display_text_range": [
+      31,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T04:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106585252127019231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1868647785438003200",
+          "start": 0,
+          "username": "GreyWallStoss"
+        },
+        {
+          "end": 30,
+          "id": "1563963412425555968",
+          "start": 15,
+          "username": "ChyouEkodesune"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106585252127019231",
+    "in_reply_to_user_id": "1868647785438003200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106392921071300929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GreyWallStoss @ChyouEkodesune 笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106392913831989248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtpMepbEAAbdT6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106392913756446720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtpMeXaYAAROsW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106392913781653504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtpMedbAAAUcQl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2106392921071300929",
+        "created_at": "2026-10-04T03:20:37.000Z",
+        "display_text_range": [
+          31,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106585252127019231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1868647785438003200",
+              "start": 0,
+              "username": "GreyWallStoss"
+            },
+            {
+              "end": 30,
+              "id": "1563963412425555968",
+              "start": 15,
+              "username": "ChyouEkodesune"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106585252127019231",
+        "in_reply_to_user_id": "1868647785438003200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106392921071300929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GreyWallStoss @ChyouEkodesune 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106392913831989248",
+            "3_2106392913756446720",
+            "3_2106392913781653504"
+          ]
+        },
+        "author_id": "1868647785438003200",
+        "conversation_id": "2106392921071300929",
+        "created_at": "2026-10-03T14:36:21.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106392921071300929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lz3Tc5i9To",
+              "end": 70,
+              "expanded_url": "https://x.com/GreyWallStoss/status/2106392921071300929/photo/1",
+              "media_key": "3_2106392913831989248",
+              "start": 47,
+              "url": "https://t.co/Lz3Tc5i9To"
+            },
+            {
+              "display_url": "pic.x.com/Lz3Tc5i9To",
+              "end": 70,
+              "expanded_url": "https://x.com/GreyWallStoss/status/2106392921071300929/photo/1",
+              "media_key": "3_2106392913756446720",
+              "start": 47,
+              "url": "https://t.co/Lz3Tc5i9To"
+            },
+            {
+              "display_url": "pic.x.com/Lz3Tc5i9To",
+              "end": 70,
+              "expanded_url": "https://x.com/GreyWallStoss/status/2106392921071300929/photo/1",
+              "media_key": "3_2106392913781653504",
+              "start": 47,
+              "url": "https://t.co/Lz3Tc5i9To"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106392921071300929",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106392913831989248"
+          },
+          {
+            "media_key": "3_2106392913756446720"
+          },
+          {
+            "media_key": "3_2106392913781653504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2197,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友突然来找我抽烟\n\n然后分给她一粒sns\n\n直接用牙撕咬开了一粒带走\n\n和朋友在一起好开心 https://t.co/Lz3Tc5i9To"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "That day is coming soon...",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2106585252127019231",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8825,
+          "following_count": 1339,
+          "like_count": 71655,
+          "listed_count": 9,
+          "media_count": 3195,
+          "tweet_count": 20150
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-16T13:22:16.000Z",
+        "description": "决定开一个号发一些大号不方便发的东西/和大号画风不符合的东西/药物/音乐/什么的/如果私自回关老师们造成不安很抱歉！老师们可以直接关注",
+        "id": "1868647785438003200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106413020553654529",
+        "name": "撞擊灰色的牆",
+        "pinned_tweet_id": "1868666322785341698",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868647785438003200/1734360151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869716680596697088/q_IADrcu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 225,
+          "like_count": 1937,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 623
+        },
+        "url": "",
+        "username": "GreyWallStoss",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-28T18:55:16.000Z",
+        "description": "もっともっと私を見つめてください🥺 中文/English/Français/日本語 rt a lot",
+        "id": "1563963412425555968",
+        "is_identity_verified": false,
+        "location": "三上寛の世界",
+        "most_recent_tweet_id": "2106407894342320422",
+        "name": "天天睡不醒TAT",
+        "pinned_tweet_id": "1947662709664764181",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563963412425555968/1684941197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634204801285394433/7eYR4xy6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 397,
+          "like_count": 9218,
+          "listed_count": 4,
+          "media_count": 762,
+          "tweet_count": 8472
+        },
+        "url": "",
+        "username": "ChyouEkodesune",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

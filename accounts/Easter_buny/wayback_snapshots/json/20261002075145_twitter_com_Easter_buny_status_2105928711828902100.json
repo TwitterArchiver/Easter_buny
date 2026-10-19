@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2105866656690184406",
+    "created_at": "2026-10-02T07:51:45.000Z",
+    "display_text_range": [
+      17,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T08:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105928711828902100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2010929506127851520",
+          "start": 0,
+          "username": "sparrowincrisis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105928711828902100",
+    "in_reply_to_user_id": "2010929506127851520",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105866656690184406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sparrowincrisis Snakes can't use phones because they don't have hands to swipe the screen📱🐍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2105866656690184406",
+        "created_at": "2026-10-02T07:51:45.000Z",
+        "display_text_range": [
+          17,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T08:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105928711828902100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2010929506127851520",
+              "start": 0,
+              "username": "sparrowincrisis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105928711828902100",
+        "in_reply_to_user_id": "2010929506127851520",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105866656690184406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sparrowincrisis Snakes can't use phones because they don't have hands to swipe the screen📱🐍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010929506127851520",
+        "conversation_id": "2105866656690184406",
+        "created_at": "2026-10-02T03:45:10.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T04:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105866656690184406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Thajidini/stat…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Thajidini/status/2104793647501791526",
+              "start": 29,
+              "url": "https://t.co/FoxoFqgZh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105866656690184406",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 408,
+          "impression_count": 633698,
+          "like_count": 19519,
+          "quote_count": 20,
+          "reply_count": 27,
+          "retweet_count": 1140
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104793647501791526",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Can you please delete this!? https://t.co/FoxoFqgZh5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "That day is coming soon...",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2105928711828902100",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8819,
+          "following_count": 1334,
+          "like_count": 71518,
+          "listed_count": 9,
+          "media_count": 3190,
+          "tweet_count": 20128
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-13T04:18:58.000Z",
+        "description": "I am pilot you know, and one day I will fly away from here. \nkinda naughty and endangered species.",
+        "id": "2010929506127851520",
+        "is_identity_verified": false,
+        "location": "Farmland",
+        "most_recent_tweet_id": "2105866656690184406",
+        "name": "Sparrow",
+        "pinned_tweet_id": "2101004846904263074",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2010929506127851520/1769930709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017596212401344514/1Vl1HfTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17217,
+          "following_count": 291,
+          "like_count": 6426,
+          "listed_count": 80,
+          "media_count": 1861,
+          "tweet_count": 7453
+        },
+        "url": "",
+        "username": "sparrowincrisis",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2108053233264693326",
+    "created_at": "2026-10-10T22:43:45.000Z",
+    "display_text_range": [
+      9,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T23:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109052292829995286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1971786415420985350",
+          "start": 0,
+          "username": "mob_luu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109052292829995286",
+    "in_reply_to_user_id": "1971786415420985350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109026566114258964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mob_luu 紫色是无糖的，更香一点！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2108053233264693326",
+        "created_at": "2026-10-10T22:43:45.000Z",
+        "display_text_range": [
+          9,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T23:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109052292829995286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1971786415420985350",
+              "start": 0,
+              "username": "mob_luu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109052292829995286",
+        "in_reply_to_user_id": "1971786415420985350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109026566114258964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mob_luu 紫色是无糖的，更香一点！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971786415420985350",
+        "conversation_id": "2108053233264693326",
+        "created_at": "2026-10-10T21:01:31.000Z",
+        "display_text_range": [
+          13,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T22:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109026566114258964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109026566114258964",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108053233264693326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 话说，紫色好喝吗...我每次都只买白色，没咋喝过其他口味"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "That day is coming soon...",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2109052292829995286",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8868,
+          "following_count": 1361,
+          "like_count": 72036,
+          "listed_count": 9,
+          "media_count": 3200,
+          "tweet_count": 20225
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-27T03:58:35.000Z",
+        "description": "成分：🪢& 📸 & 🎨\n坐标 020 | 不擅长社交| 欢迎找我约绳",
+        "id": "1971786415420985350",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109026871799427177",
+        "name": "🍄",
+        "pinned_tweet_id": "2092462441527734685",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971786415420985350/1770616552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020738183626158080/_409gA5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 232,
+          "like_count": 19267,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 1190
+        },
+        "url": "",
+        "username": "mob_luu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

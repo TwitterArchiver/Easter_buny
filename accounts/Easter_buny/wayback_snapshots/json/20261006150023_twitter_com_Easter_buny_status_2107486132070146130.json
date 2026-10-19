@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2107478549989060837",
+    "created_at": "2026-10-06T15:00:23.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T16:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107486132070146130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1897907755446681603",
+          "start": 0,
+          "username": "weirdfisheeees"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107486132070146130",
+    "in_reply_to_user_id": "1897907755446681603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107483590246502764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weirdfisheeees 真的好喜欢这个"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2107483590246502764].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2107483590246502764",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2107483590246502764"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2107478549989060837",
+        "created_at": "2026-10-06T15:00:23.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T16:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107486132070146130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1897907755446681603",
+              "start": 0,
+              "username": "weirdfisheeees"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107486132070146130",
+        "in_reply_to_user_id": "1897907755446681603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107483590246502764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weirdfisheeees 真的好喜欢这个"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "That day is coming soon...",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2107486132070146130",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8866,
+          "following_count": 1352,
+          "like_count": 71866,
+          "listed_count": 9,
+          "media_count": 3201,
+          "tweet_count": 20195
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-07T07:10:52.000Z",
+        "description": "穿过骨头抚摸你\n提问箱https://t.co/BzzSFhObct",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/brohungryasfuck",
+                "end": 34,
+                "expanded_url": "https://confess.ngl.link/brohungryasfuck",
+                "start": 11,
+                "url": "https://t.co/BzzSFhObct"
+              }
+            ]
+          }
+        },
+        "id": "1897907755446681603",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2002782529934467339",
+        "name": "WeirdFish",
+        "pinned_tweet_id": "1897915052055052728",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897907755446681603/1741333033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005177601703510023/bzSxGZ18_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 468,
+          "like_count": 27176,
+          "listed_count": 3,
+          "media_count": 633,
+          "tweet_count": 6732
+        },
+        "url": "",
+        "username": "weirdfisheeees",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

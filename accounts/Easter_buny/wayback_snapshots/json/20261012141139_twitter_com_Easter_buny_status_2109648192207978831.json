@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2109599629193130377",
+    "created_at": "2026-10-12T14:11:39.000Z",
+    "display_text_range": [
+      8,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T15:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109648192207978831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1406536122344394755",
+          "start": 0,
+          "username": "Chcr_6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109648192207978831",
+    "in_reply_to_user_id": "1406536122344394755",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109599629193130377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chcr_6 看看兔兔（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2109599629193130377",
+        "created_at": "2026-10-12T14:11:39.000Z",
+        "display_text_range": [
+          8,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T15:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109648192207978831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1406536122344394755",
+              "start": 0,
+              "username": "Chcr_6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109648192207978831",
+        "in_reply_to_user_id": "1406536122344394755",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109599629193130377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chcr_6 看看兔兔（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1406536122344394755",
+        "conversation_id": "2109599629193130377",
+        "created_at": "2026-10-12T10:58:40.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T11:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109599629193130377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2109599629193130377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 428,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我聊天突然人不见了，那就是管兔子去了（严肃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "That day is coming soon...",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2109648192207978831",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8867,
+          "following_count": 1369,
+          "like_count": 72197,
+          "listed_count": 9,
+          "media_count": 3207,
+          "tweet_count": 20268
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-20T08:56:25.000Z",
+        "description": "小栀，喜欢和女孩子互fo呀！不加墙内lx，孩怕\n匿名消息可以点这里哇⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gardenia50235",
+                "end": 23,
+                "expanded_url": "http://ngl.link/gardenia50235",
+                "start": 0,
+                "url": "https://t.co/86TEOTlcNs"
+              }
+            ]
+          }
+        },
+        "id": "1406536122344394755",
+        "is_identity_verified": false,
+        "location": "肉体躯壳",
+        "most_recent_tweet_id": "2109648168782815548",
+        "name": "gardenia",
+        "pinned_tweet_id": "2027770191086817702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1406536122344394755/1693725951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697928460335783936/qz2xDhvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 301,
+          "like_count": 22058,
+          "listed_count": 3,
+          "media_count": 29,
+          "tweet_count": 3668
+        },
+        "url": "https://t.co/86TEOTlcNs",
+        "username": "Chcr_6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

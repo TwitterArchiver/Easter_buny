@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2107045772089082307",
+    "created_at": "2026-10-05T09:50:33.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T10:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107045772089082307"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rolande19t/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/rolande19t/status/2106641301110505558",
+          "start": 7,
+          "url": "https://t.co/nv7S9yL4J0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107045772089082307",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106641301110505558",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "法法法！！！ https://t.co/nv7S9yL4J0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2106641294064078848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTxLGHHb0AAK0wk.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2107045772089082307",
+        "created_at": "2026-10-05T09:50:33.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T10:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107045772089082307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rolande19t/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/rolande19t/status/2106641301110505558",
+              "start": 7,
+              "url": "https://t.co/nv7S9yL4J0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107045772089082307",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106641301110505558",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "法法法！！！ https://t.co/nv7S9yL4J0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106641294064078848"
+          ]
+        },
+        "author_id": "2086918899363438592",
+        "conversation_id": "2106641301110505558",
+        "created_at": "2026-10-04T07:03:20.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T08:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106641301110505558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9QzyqQtpC",
+              "end": 62,
+              "expanded_url": "https://x.com/rolande19t/status/2106641301110505558/photo/1",
+              "media_key": "3_2106641294064078848",
+              "start": 39,
+              "url": "https://t.co/r9QzyqQtpC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106641301110505558",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106641294064078848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 893,
+          "impression_count": 216037,
+          "like_count": 6116,
+          "quote_count": 37,
+          "reply_count": 243,
+          "retweet_count": 406
+        },
+        "reply_settings": "everyone",
+        "text": "那种兔子操操操的表情包到底哪里来的魔力，我看一个乐一个\n\n操得发了狠忘了情了 https://t.co/r9QzyqQtpC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "That day is coming soon...",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2107045772089082307",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8849,
+          "following_count": 1344,
+          "like_count": 71758,
+          "listed_count": 9,
+          "media_count": 3196,
+          "tweet_count": 20174
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T20:57:06.000Z",
+        "description": "一般路过的荤素不忌抖m压抑女子，搞同人和发表压抑言论的账号\n互联网流浪狗，私信随意♡不过最近很忙不一定会看xd",
+        "id": "2086918899363438592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107043312062591418",
+        "name": "rolyyy",
+        "pinned_tweet_id": "2101012434718990673",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086918899363438592/1790073719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102336385818718208/t_10ri9O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 73,
+          "like_count": 3513,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 340
+        },
+        "url": "",
+        "username": "rolande19t",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

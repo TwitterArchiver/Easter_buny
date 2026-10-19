@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2107445426131812572",
+    "created_at": "2026-10-06T14:23:14.000Z",
+    "display_text_range": [
+      12,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T15:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107476782744318247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2063632258897252352",
+          "start": 0,
+          "username": "Lanan_2984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107476782744318247",
+    "in_reply_to_user_id": "2063632258897252352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107445426131812572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lanan_2984 喹硫平小剂量才是治疗失眠，大剂量会睡不着…昏昏沉沉，但是睡不着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2107445426131812572",
+        "created_at": "2026-10-06T14:23:14.000Z",
+        "display_text_range": [
+          12,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T15:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107476782744318247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063632258897252352",
+              "start": 0,
+              "username": "Lanan_2984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107476782744318247",
+        "in_reply_to_user_id": "2063632258897252352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107445426131812572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lanan_2984 喹硫平小剂量才是治疗失眠，大剂量会睡不着…昏昏沉沉，但是睡不着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063632258897252352",
+        "conversation_id": "2107445426131812572",
+        "created_at": "2026-10-06T12:18:38.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T13:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107445426131812572"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107445426131812572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去了现在喹硫平已经加到3t了还是失眠，这个喹硫平你咋了。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "That day is coming soon...",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2107476782744318247",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8865,
+          "following_count": 1350,
+          "like_count": 71852,
+          "listed_count": 9,
+          "media_count": 3201,
+          "tweet_count": 20193
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-07T14:44:01.000Z",
+        "description": "双相/INFP/负面/性格不好/戒o戒割/友同友全部/泛性恋/🚪30/同类互fo直接私信/喜欢所有善良的人^_^\n匿名箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lanan64541",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lanan64541",
+                "start": 0,
+                "url": "https://t.co/2wJQT6RK5G"
+              }
+            ]
+          }
+        },
+        "id": "2063632258897252352",
+        "is_identity_verified": false,
+        "location": "墓地",
+        "most_recent_tweet_id": "2107467206250713307",
+        "name": "蓝桉",
+        "pinned_tweet_id": "2106760948342251983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063632258897252352/1781313975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106766469271007232/prV2ZKK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 170,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 360
+        },
+        "url": "https://t.co/2wJQT6RK5G",
+        "username": "Lanan_2984",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

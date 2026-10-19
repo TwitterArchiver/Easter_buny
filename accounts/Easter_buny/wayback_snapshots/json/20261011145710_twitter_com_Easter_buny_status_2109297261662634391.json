@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2108992974332043567",
+    "created_at": "2026-10-11T14:57:10.000Z",
+    "display_text_range": [
+      11,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T15:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109297261662634391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1920441675312173057",
+          "start": 0,
+          "username": "ddweed420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109297261662634391",
+    "in_reply_to_user_id": "1920441675312173057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108992974332043567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ddweed420 其实可以拿椰糠育苗块育种，很方便，移动到土壤也很省心"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1724,
+        "media_key": "3_2108992966648012800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUSl7eLaIAAQ-cl.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2108992974332043567",
+        "created_at": "2026-10-11T14:57:10.000Z",
+        "display_text_range": [
+          11,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T15:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109297261662634391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1920441675312173057",
+              "start": 0,
+              "username": "ddweed420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109297261662634391",
+        "in_reply_to_user_id": "1920441675312173057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108992974332043567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ddweed420 其实可以拿椰糠育苗块育种，很方便，移动到土壤也很省心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108992966648012800"
+          ]
+        },
+        "author_id": "1920441675312173057",
+        "conversation_id": "2108992974332043567",
+        "created_at": "2026-10-10T18:48:02.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T19:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108992974332043567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QWqywc1j06",
+              "end": 87,
+              "expanded_url": "https://x.com/ddweed420/status/2108992974332043567/photo/1",
+              "media_key": "3_2108992966648012800",
+              "start": 64,
+              "url": "https://t.co/QWqywc1j06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108992974332043567",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108992966648012800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥲飞大了 遗忘了前天发的种子 导致白芽发育过度 不过没问题 可以正常下土 出现这种情况小心操作 不要弄断白芽就可以继续茁壮成长 https://t.co/QWqywc1j06"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "That day is coming soon...",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2109297261662634391",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8869,
+          "following_count": 1368,
+          "like_count": 72123,
+          "listed_count": 9,
+          "media_count": 3207,
+          "tweet_count": 20251
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T11:32:49.000Z",
+        "description": "每個人身體裡都缺少THC 所以這個世界才那麼糟糕\n大麻/种子/种植教学 \n请私信我获取Telegram联系方式",
+        "id": "1920441675312173057",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109208078575165852",
+        "name": "迪迪weed（大麻）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1920441675312173057/1784657814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079631240072998912/85et1SjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 9,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "ddweed420",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

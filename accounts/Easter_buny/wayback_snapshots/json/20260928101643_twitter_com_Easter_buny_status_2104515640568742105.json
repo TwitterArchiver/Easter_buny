@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2104495751774781532",
+    "created_at": "2026-09-28T10:16:43.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T11:16:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104515640568742105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1955939406772363267",
+          "start": 0,
+          "username": "xhygainaitodame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104515640568742105",
+    "in_reply_to_user_id": "1955939406772363267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104495751774781532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xhygainaitodame 小猫咪（抓取"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2104495735333105664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSruJ_asAAZlQA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2104495751774781532",
+        "created_at": "2026-09-28T10:16:43.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104515640568742105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1955939406772363267",
+              "start": 0,
+              "username": "xhygainaitodame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104515640568742105",
+        "in_reply_to_user_id": "1955939406772363267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104495751774781532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhygainaitodame 小猫咪（抓取"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104495735333105664"
+          ]
+        },
+        "author_id": "1955939406772363267",
+        "conversation_id": "2104495751774781532",
+        "created_at": "2026-09-28T08:57:41.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T09:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104495751774781532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9TizeH5G1O",
+              "end": 26,
+              "expanded_url": "https://x.com/xhygainaitodame/status/2104495751774781532/photo/1",
+              "media_key": "3_2104495735333105664",
+              "start": 3,
+              "url": "https://t.co/9TizeH5G1O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104495751774781532",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104495735333105664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "劫持 https://t.co/9TizeH5G1O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "That day is coming soon...",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2104515640568742105",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8800,
+          "following_count": 1325,
+          "like_count": 71197,
+          "listed_count": 9,
+          "media_count": 3185,
+          "tweet_count": 20078
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-14T10:27:58.000Z",
+        "description": "東京不安障害",
+        "id": "1955939406772363267",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2104496010869579921",
+        "name": "♡",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1955939406772363267/1787065371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098244662163349504/IDT1Tm_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 380,
+          "like_count": 646,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 179
+        },
+        "url": "",
+        "username": "xhygainaitodame",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

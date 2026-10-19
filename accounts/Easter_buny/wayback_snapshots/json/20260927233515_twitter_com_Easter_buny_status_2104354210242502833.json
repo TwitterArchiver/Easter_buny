@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2104201671710834705",
+    "created_at": "2026-09-27T23:35:15.000Z",
+    "display_text_range": [
+      33,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T00:35:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104354210242502833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1887005117817479168",
+          "start": 0,
+          "username": "buyongxifashui"
+        },
+        {
+          "end": 32,
+          "id": "2063228399586541568",
+          "start": 16,
+          "username": "_QianQian_8964_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104354210242502833",
+    "in_reply_to_user_id": "1887005117817479168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104315356546256926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buyongxifashui @_QianQian_8964_ 这是初中学历都能做的（，你去搜搜吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2104201671710834705",
+        "created_at": "2026-09-27T23:35:15.000Z",
+        "display_text_range": [
+          33,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T00:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104354210242502833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1887005117817479168",
+              "start": 0,
+              "username": "buyongxifashui"
+            },
+            {
+              "end": 32,
+              "id": "2063228399586541568",
+              "start": 16,
+              "username": "_QianQian_8964_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104354210242502833",
+        "in_reply_to_user_id": "1887005117817479168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104315356546256926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buyongxifashui @_QianQian_8964_ 这是初中学历都能做的（，你去搜搜吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887005117817479168",
+        "conversation_id": "2104201671710834705",
+        "created_at": "2026-09-27T21:00:51.000Z",
+        "display_text_range": [
+          30,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T22:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104315356546256926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            },
+            {
+              "end": 29,
+              "id": "2063228399586541568",
+              "start": 13,
+              "username": "_QianQian_8964_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104315356546256926",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104211607991767165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny @_QianQian_8964_ 主播，求教程"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "That day is coming soon...",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2104354210242502833",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8791,
+          "following_count": 1323,
+          "like_count": 71146,
+          "listed_count": 9,
+          "media_count": 3182,
+          "tweet_count": 20062
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-05T05:07:43.000Z",
+        "description": "",
+        "id": "1887005117817479168",
+        "is_identity_verified": false,
+        "location": "Louisiana, USA",
+        "most_recent_tweet_id": "2104315356546256926",
+        "name": "深夜的战斗机",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887009118910865409/ffNoPz2Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 14,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "buyongxifashui",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T11:59:22.000Z",
+        "description": "@7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_55889",
+                "start": 0,
+                "url": "https://t.co/UgvZOmQe1d"
+              }
+            ]
+          }
+        },
+        "id": "2063228399586541568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104302878274023482",
+        "name": "番茄操蛋🍥",
+        "pinned_tweet_id": "2089426601880813891",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063228399586541568/1787364710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088817754745053184/CrWfdunH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 237,
+          "like_count": 3184,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1698
+        },
+        "url": "https://t.co/UgvZOmQe1d",
+        "username": "_QianQian_8964_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

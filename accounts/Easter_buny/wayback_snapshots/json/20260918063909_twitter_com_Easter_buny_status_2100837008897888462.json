@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2100752219586879699",
+    "created_at": "2026-09-18T06:39:09.000Z",
+    "display_text_range": [
+      16,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T07:39:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100837008897888462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2004461309950332928",
+          "start": 0,
+          "username": "chris420blaze_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100837008897888462",
+    "in_reply_to_user_id": "2004461309950332928",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100752219586879699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chris420blaze_ How long does it take from planting to flowering?🤯"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37375,
+        "height": 1920,
+        "media_key": "13_2100752159365107712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100752159365107712/img/N17u4zAHsKILPpgI.jpg",
+        "public_metrics": {
+          "view_count": 1000
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100752159365107712/vid/avc1/1080x1920/NEjUKONg7IRyQ0a4.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100752159365107712/vid/avc1/320x568/39HUuka596oIEPmg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100752159365107712/vid/avc1/720x1280/_i03mvz0G3ybeyv0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100752159365107712/vid/avc1/480x852/22OU3jm-FSYeFOEr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100752159365107712/pl/ENBCmLM-9ZcoK1z0.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2100752219586879699",
+        "created_at": "2026-09-18T06:39:09.000Z",
+        "display_text_range": [
+          16,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100837008897888462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2004461309950332928",
+              "start": 0,
+              "username": "chris420blaze_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100837008897888462",
+        "in_reply_to_user_id": "2004461309950332928",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100752219586879699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chris420blaze_ How long does it take from planting to flowering?🤯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100752159365107712"
+          ]
+        },
+        "author_id": "2004461309950332928",
+        "conversation_id": "2100752219586879699",
+        "created_at": "2026-09-18T01:02:13.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T02:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100752219586879699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BLppl3kTYG",
+              "end": 138,
+              "expanded_url": "https://x.com/chris420blaze_/status/2100752219586879699/video/1",
+              "media_key": "13_2100752159365107712",
+              "start": 115,
+              "url": "https://t.co/BLppl3kTYG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100752219586879699",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2100752159365107712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1905,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "This grow season was a massive success‼️\n\nYou don't need a huge operation to breed guys! Start small and simple ☺️ https://t.co/BLppl3kTYG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2100837008897888462",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8738,
+          "following_count": 1307,
+          "like_count": 70595,
+          "listed_count": 9,
+          "media_count": 3186,
+          "tweet_count": 19969
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T07:56:44.000Z",
+        "description": "Owner of https://t.co/SnbhKgPQ1p\nAlso have 135k subs on youtube.\n\nGo to https://t.co/5SbxVmSe5Y to tell your representatives to reverse the hemp ban in 60 seconds",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Weedcigs.com",
+                "end": 32,
+                "expanded_url": "http://Weedcigs.com",
+                "start": 9,
+                "url": "https://t.co/SnbhKgPQ1p"
+              },
+              {
+                "display_url": "reversetheban.org",
+                "end": 95,
+                "expanded_url": "http://reversetheban.org",
+                "start": 72,
+                "url": "https://t.co/5SbxVmSe5Y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reverstheban.org",
+                "end": 23,
+                "expanded_url": "http://reverstheban.org",
+                "start": 0,
+                "url": "https://t.co/uJhUwqYxKn"
+              }
+            ]
+          }
+        },
+        "id": "2004461309950332928",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100752219586879699",
+        "name": "Chris 420 Blaze It",
+        "pinned_tweet_id": "2034735289181049082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004461309950332928/1776530970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004461534076891136/Cz_U_XkK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2397,
+          "following_count": 86,
+          "like_count": 373,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 889
+        },
+        "url": "https://t.co/uJhUwqYxKn",
+        "username": "chris420blaze_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2105782140591854064",
+    "created_at": "2026-10-02T07:58:13.000Z",
+    "display_text_range": [
+      16,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T08:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105930339755639265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1612574296240541719",
+          "start": 0,
+          "username": "NoContextWeedd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105930339755639265",
+    "in_reply_to_user_id": "1612574296240541719",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105782140591854064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NoContextWeedd In China, you need $761 to buy this ounce💀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2105782140591854064",
+        "created_at": "2026-10-02T07:58:13.000Z",
+        "display_text_range": [
+          16,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T08:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105930339755639265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1612574296240541719",
+              "start": 0,
+              "username": "NoContextWeedd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105930339755639265",
+        "in_reply_to_user_id": "1612574296240541719",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105782140591854064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NoContextWeedd In China, you need $761 to buy this ounce💀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612574296240541719",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Michigan",
+              "id": "1004448635902259200",
+              "name": "Michigan"
+            }
+          }
+        ],
+        "conversation_id": "2105782140591854064",
+        "created_at": "2026-10-01T22:09:20.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T23:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105782140591854064"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105782140591854064",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 18507,
+          "like_count": 292,
+          "quote_count": 8,
+          "reply_count": 44,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "Michigan weed prices are so fucked up people out here think a $100 zip is expensive 😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "That day is coming soon...",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2105930339755639265",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8819,
+          "following_count": 1334,
+          "like_count": 71519,
+          "listed_count": 9,
+          "media_count": 3190,
+          "tweet_count": 20129
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-09T22:17:43.000Z",
+        "description": "Daily Weed Content 🔥\nTaylor Tokes on other platforms",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "thesmokingclub.bigcartel.com",
+                "end": 23,
+                "expanded_url": "https://thesmokingclub.bigcartel.com",
+                "start": 0,
+                "url": "https://t.co/nQoAz5nCRL"
+              }
+            ]
+          }
+        },
+        "id": "1612574296240541719",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105800786542531027",
+        "name": "NoContextWeed 🌲💨💨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1612574296240541719/1686541903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666462182832234500/uK9rtIN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5238,
+          "following_count": 846,
+          "like_count": 5813,
+          "listed_count": 5,
+          "media_count": 2823,
+          "tweet_count": 8732
+        },
+        "url": "https://t.co/nQoAz5nCRL",
+        "username": "NoContextWeedd",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

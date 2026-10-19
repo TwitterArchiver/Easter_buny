@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2107356762529755558",
+    "created_at": "2026-10-06T12:12:16.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T13:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107443823924441093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "899502043806748672",
+          "start": 0,
+          "username": "PackageLAN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107443823924441093",
+    "in_reply_to_user_id": "899502043806748672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107356762529755558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PackageLAN （嚼嚼嚼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2107356762529755558",
+        "created_at": "2026-10-06T12:12:16.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T13:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107443823924441093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "899502043806748672",
+              "start": 0,
+              "username": "PackageLAN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107443823924441093",
+        "in_reply_to_user_id": "899502043806748672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107356762529755558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PackageLAN （嚼嚼嚼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "899502043806748672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2107356762529755558",
+        "created_at": "2026-10-06T06:26:19.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T07:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107356762529755558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nikita26rai/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Nikita26rai/status/2107102342139318371",
+              "start": 10,
+              "url": "https://t.co/ZikwgGrVJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107356762529755558",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107102342139318371",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大兔😨486快逃啊 https://t.co/ZikwgGrVJS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "That day is coming soon...",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2107443823924441093",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8866,
+          "following_count": 1348,
+          "like_count": 71830,
+          "listed_count": 9,
+          "media_count": 3198,
+          "tweet_count": 20188
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-08-21T05:22:53.000Z",
+        "description": "Transisto(e)r🏳️‍⚧️，自稱『介質』/\n搞電子的，啥都會一點然而都半桶水，是半成品/\n___________________",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/PackageLAN",
+                "end": 23,
+                "expanded_url": "https://github.com/PackageLAN",
+                "start": 0,
+                "url": "https://t.co/XOEbIZksyq"
+              }
+            ]
+          }
+        },
+        "id": "899502043806748672",
+        "is_identity_verified": false,
+        "location": "廣東深圳",
+        "most_recent_tweet_id": "2107356762529755558",
+        "name": "LocalArea.Network",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/899502043806748672/1779899334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059673206047576066/7e56wacU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 2310,
+          "like_count": 54511,
+          "listed_count": 3,
+          "media_count": 449,
+          "tweet_count": 5035
+        },
+        "url": "https://t.co/XOEbIZksyq",
+        "username": "PackageLAN",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

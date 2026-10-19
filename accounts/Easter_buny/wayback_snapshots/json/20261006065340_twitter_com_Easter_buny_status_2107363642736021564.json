@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107363627678552064",
+        "3_2107363627695259648",
+        "3_2107363627682639872",
+        "3_2107363627674320896"
+      ]
+    },
+    "author_id": "1481172876589821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2107363642736021564",
+    "created_at": "2026-10-06T06:53:40.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T07:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107363642736021564"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rJeyfwlW1A",
+          "end": 65,
+          "expanded_url": "https://x.com/Easter_buny/status/2107363642736021564/photo/1",
+          "media_key": "3_2107363627678552064",
+          "start": 42,
+          "url": "https://t.co/rJeyfwlW1A"
+        },
+        {
+          "display_url": "pic.x.com/rJeyfwlW1A",
+          "end": 65,
+          "expanded_url": "https://x.com/Easter_buny/status/2107363642736021564/photo/1",
+          "media_key": "3_2107363627695259648",
+          "start": 42,
+          "url": "https://t.co/rJeyfwlW1A"
+        },
+        {
+          "display_url": "pic.x.com/rJeyfwlW1A",
+          "end": 65,
+          "expanded_url": "https://x.com/Easter_buny/status/2107363642736021564/photo/1",
+          "media_key": "3_2107363627682639872",
+          "start": 42,
+          "url": "https://t.co/rJeyfwlW1A"
+        },
+        {
+          "display_url": "pic.x.com/rJeyfwlW1A",
+          "end": 65,
+          "expanded_url": "https://x.com/Easter_buny/status/2107363642736021564/photo/1",
+          "media_key": "3_2107363627674320896",
+          "start": 42,
+          "url": "https://t.co/rJeyfwlW1A"
+        },
+        {
+          "display_url": "x.com/easter_buny/st…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/easter_buny/status/2107039616050278777",
+          "start": 66,
+          "url": "https://t.co/5jklqHNjpE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107363642736021564",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107363627678552064"
+      },
+      {
+        "media_key": "3_2107363627695259648"
+      },
+      {
+        "media_key": "3_2107363627682639872"
+      },
+      {
+        "media_key": "3_2107363627674320896"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107039616050278777",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为玩游戏记不得加热台上的搅拌子没关小，我的thc飞的到处都是，心痛(‾᷄꒫‾᷅) https://t.co/rJeyfwlW1A https://t.co/5jklqHNjpE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 469,
+        "media_key": "3_2107363627678552064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7cDdhb0AAaL1o.jpg",
+        "width": 599
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2107363627695259648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7cDdlawAAaKuU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2107363627682639872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7cDdiaMAA82l9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2107363627674320896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7cDdgbQAANzRg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 978,
+        "media_key": "3_2107039603626815488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT21Wx3bMAA3XeI.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2107039603626749953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT21Wx3aMAEVc4V.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107363627678552064",
+            "3_2107363627695259648",
+            "3_2107363627682639872",
+            "3_2107363627674320896"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2107363642736021564",
+        "created_at": "2026-10-06T06:53:40.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T07:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107363642736021564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rJeyfwlW1A",
+              "end": 65,
+              "expanded_url": "https://x.com/Easter_buny/status/2107363642736021564/photo/1",
+              "media_key": "3_2107363627678552064",
+              "start": 42,
+              "url": "https://t.co/rJeyfwlW1A"
+            },
+            {
+              "display_url": "pic.x.com/rJeyfwlW1A",
+              "end": 65,
+              "expanded_url": "https://x.com/Easter_buny/status/2107363642736021564/photo/1",
+              "media_key": "3_2107363627695259648",
+              "start": 42,
+              "url": "https://t.co/rJeyfwlW1A"
+            },
+            {
+              "display_url": "pic.x.com/rJeyfwlW1A",
+              "end": 65,
+              "expanded_url": "https://x.com/Easter_buny/status/2107363642736021564/photo/1",
+              "media_key": "3_2107363627682639872",
+              "start": 42,
+              "url": "https://t.co/rJeyfwlW1A"
+            },
+            {
+              "display_url": "pic.x.com/rJeyfwlW1A",
+              "end": 65,
+              "expanded_url": "https://x.com/Easter_buny/status/2107363642736021564/photo/1",
+              "media_key": "3_2107363627674320896",
+              "start": 42,
+              "url": "https://t.co/rJeyfwlW1A"
+            },
+            {
+              "display_url": "x.com/easter_buny/st…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/easter_buny/status/2107039616050278777",
+              "start": 66,
+              "url": "https://t.co/5jklqHNjpE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107363642736021564",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107363627678552064"
+          },
+          {
+            "media_key": "3_2107363627695259648"
+          },
+          {
+            "media_key": "3_2107363627682639872"
+          },
+          {
+            "media_key": "3_2107363627674320896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107039616050278777",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为玩游戏记不得加热台上的搅拌子没关小，我的thc飞的到处都是，心痛(‾᷄꒫‾᷅) https://t.co/rJeyfwlW1A https://t.co/5jklqHNjpE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107039603626815488",
+            "3_2107039603626749953"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2107039616050278777",
+        "created_at": "2026-10-05T09:26:06.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T10:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107039616050278777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Spi0w6ExKo",
+              "end": 31,
+              "expanded_url": "https://x.com/Easter_buny/status/2107039616050278777/photo/1",
+              "media_key": "3_2107039603626815488",
+              "start": 8,
+              "url": "https://t.co/Spi0w6ExKo"
+            },
+            {
+              "display_url": "pic.x.com/Spi0w6ExKo",
+              "end": 31,
+              "expanded_url": "https://x.com/Easter_buny/status/2107039616050278777/photo/1",
+              "media_key": "3_2107039603626749953",
+              "start": 8,
+              "url": "https://t.co/Spi0w6ExKo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107039616050278777",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107039603626815488"
+          },
+          {
+            "media_key": "3_2107039603626749953"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1672,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兔兔大厨出餐中 https://t.co/Spi0w6ExKo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "That day is coming soon...",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2107363642736021564",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8863,
+          "following_count": 1348,
+          "like_count": 71814,
+          "listed_count": 9,
+          "media_count": 3198,
+          "tweet_count": 20185
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

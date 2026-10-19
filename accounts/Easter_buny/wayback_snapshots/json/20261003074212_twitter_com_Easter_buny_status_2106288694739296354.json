@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1481172876589821952",
+    "conversation_id": "2106222713723641988",
+    "created_at": "2026-10-03T07:42:12.000Z",
+    "display_text_range": [
+      45,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T08:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106288694739296354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1870825698744836096",
+          "start": 0,
+          "username": "ifiwereamoth"
+        },
+        {
+          "end": 29,
+          "id": "2080966704356802560",
+          "start": 14,
+          "username": "Pharmakon14138"
+        },
+        {
+          "end": 44,
+          "id": "1518404201168007168",
+          "start": 30,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106288694739296354",
+    "in_reply_to_user_id": "1870825698744836096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106269987912708104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ifiwereamoth @Pharmakon14138 @godspeedyou50 不敢寄（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2106222713723641988",
+        "created_at": "2026-10-03T07:42:12.000Z",
+        "display_text_range": [
+          45,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T08:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106288694739296354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1870825698744836096",
+              "start": 0,
+              "username": "ifiwereamoth"
+            },
+            {
+              "end": 29,
+              "id": "2080966704356802560",
+              "start": 14,
+              "username": "Pharmakon14138"
+            },
+            {
+              "end": 44,
+              "id": "1518404201168007168",
+              "start": 30,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106288694739296354",
+        "in_reply_to_user_id": "1870825698744836096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106269987912708104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ifiwereamoth @Pharmakon14138 @godspeedyou50 不敢寄（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870825698744836096",
+        "conversation_id": "2106222713723641988",
+        "created_at": "2026-10-03T06:27:52.000Z",
+        "display_text_range": [
+          44,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T07:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106269987912708104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            },
+            {
+              "end": 28,
+              "id": "2080966704356802560",
+              "start": 13,
+              "username": "Pharmakon14138"
+            },
+            {
+              "end": 43,
+              "id": "1518404201168007168",
+              "start": 29,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106269987912708104",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106222713723641988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny @Pharmakon14138 @godspeedyou50 我也要吃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "That day is coming soon...",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2106288694739296354",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8820,
+          "following_count": 1337,
+          "like_count": 71572,
+          "listed_count": 9,
+          "media_count": 3194,
+          "tweet_count": 20140
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-22T13:36:35.000Z",
+        "description": "邊界之物",
+        "id": "1870825698744836096",
+        "is_identity_verified": false,
+        "location": "🚪88好处只有認識我",
+        "most_recent_tweet_id": "2106288256547684540",
+        "name": "s!xpence",
+        "pinned_tweet_id": "2093647269765714330",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870825698744836096/1766285102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002570935380160516/-yco8Owh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2939,
+          "following_count": 141,
+          "like_count": 5764,
+          "listed_count": 8,
+          "media_count": 309,
+          "tweet_count": 1323
+        },
+        "url": "",
+        "username": "ifiwereamoth",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T10:43:18.000Z",
+        "description": "法马康二世在此，我是随时消融在历史长河的毒瘤，兜售各种非列管合法策划化学物质💊\n算命人格衍生物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/QC1vAgUIDp"
+              }
+            ]
+          }
+        },
+        "id": "2080966704356802560",
+        "is_identity_verified": false,
+        "location": "欢迎私信tg指路 ",
+        "most_recent_tweet_id": "2106231670760460606",
+        "name": "Pharmakon",
+        "pinned_tweet_id": "2081579185940938937",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2080966704356802560/1784976629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083912415851524096/qm0ThLdB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 156,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 80
+        },
+        "url": "https://t.co/QC1vAgUIDp",
+        "username": "Pharmakon14138",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。\n生活号@pharmakon14138\nValenceLab匿名提问箱👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "pharmakon14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "valence.top/ask/26kkrk8gm",
+                "end": 23,
+                "expanded_url": "https://valence.top/ask/26kkrk8gm",
+                "start": 0,
+                "url": "https://t.co/COtyXjNl1D"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106225336979726638",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2062,
+          "following_count": 710,
+          "like_count": 1504,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 3381
+        },
+        "url": "https://t.co/COtyXjNl1D",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
